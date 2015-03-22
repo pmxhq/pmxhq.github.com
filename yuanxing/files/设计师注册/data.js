@@ -1,0 +1,4644 @@
+﻿$axure.loadCurrentPage({
+  "url":"设计师注册.html",
+  "generationDate":new Date(1408085384738.6),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"6690c746e95b427aa7a0561c71744564",
+    "type":"Axure:Page",
+    "name":"设计师注册",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"center",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"center",
+      "imageVerticalAlignment":"center",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"微软雅黑",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"c855856c24124c6392696f082539784d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":150,
+              "y":119},
+            "size":{
+              "width":1050,
+              "height":1261}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fb15bf934d75474fb619c89c87470c03",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":150,
+                  "y":119},
+                "size":{
+                  "width":1050,
+                  "height":1261}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/策划推广管理注册/u0.png"}},
+{
+          "id":"e6414670e44a4f5aa5b83db8fa5ee340",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"14px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "lineSpacing":"20px",
+            "location":{
+              "x":942,
+              "y":64},
+            "size":{
+              "width":169,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bd61dc7ceae34d7aa203aa58381a75a4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"14px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "lineSpacing":"20px",
+                "location":{
+                  "x":942,
+                  "y":64},
+                "size":{
+                  "width":169,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"f5fe58d2ecc44ceea32bafd5dd4e577c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "lineSpacing":"20px",
+            "stateStyles":{
+              "mouseOver":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1}},
+              "mouseDown":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0000FF,
+                  "opacity":1}}},
+            "location":{
+              "x":1128,
+              "y":64},
+            "size":{
+              "width":43,
+              "height":20}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bbabef8d9c004437aa3452f750d8fd68",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "lineSpacing":"20px",
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1}},
+                  "mouseDown":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "fontWeight":"400",
+                    "fontStyle":"normal",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF0000FF,
+                      "opacity":1}}},
+                "location":{
+                  "x":1128,
+                  "y":64},
+                "size":{
+                  "width":43,
+                  "height":20}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 登录",
+                      "target":{
+                        "targetType":"page",
+                        "url":"登录.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif",
+            "mouseOver~":"resources/images/transparent.gif",
+            "mouseDown~":"resources/images/transparent.gif"}},
+{
+          "id":"073fe52dfcbc42b29e02d1efa0ef5680",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "location":{
+              "x":150,
+              "y":44},
+            "size":{
+              "width":200,
+              "height":60}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"975e9536392c448d8586bee99adb97ae",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "location":{
+                  "x":150,
+                  "y":44},
+                "size":{
+                  "width":200,
+                  "height":60}},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 盈喜首页",
+                      "target":{
+                        "targetType":"page",
+                        "url":"盈喜首页.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/盈喜首页/u584.png"}},
+{
+          "id":"cd901d6f394e4701aef77a7551d3a47a",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":149,
+              "y":1392}},
+          "adaptiveStyles":{
+},
+          "masterId":"c2a8b81f39b84bf98e650c2ce0308c05"},
+{
+          "id":"58bd468dc62b4d61ae04197db91dc9e3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"20px",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":150,
+              "y":119},
+            "size":{
+              "width":1050,
+              "height":40}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"2203cbad7ae1486e81401b8a1c441f91",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"20px",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":150,
+                  "y":119},
+                "size":{
+                  "width":1050,
+                  "height":40}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/盈喜首页/u482.png"}},
+{
+          "id":"bd9073283b3d41269791f3942b48d720",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "horizontalAlignment":"right",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "lineSpacing":"25px",
+            "location":{
+              "x":220,
+              "y":202},
+            "size":{
+              "width":71,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"db9e13610ccf4332bcdff13b886d92a8",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "horizontalAlignment":"right",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "lineSpacing":"25px",
+                "location":{
+                  "x":220,
+                  "y":202},
+                "size":{
+                  "width":71,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "annotation":{
+            "描述":"类别可以在后台添加删除管理。"},
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"4174c19f7d394e2e8f0918a185a7d86c",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":301,
+              "y":206},
+            "size":{
+              "width":76,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0cb6bf4e650f4c8ba6a48a0f57fc268b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":301,
+                  "y":206},
+                "size":{
+                  "width":76,
+                  "height":17}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"85a63728be264f57a208800948cebf0f",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":378,
+              "y":206},
+            "size":{
+              "width":76,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c96e2f17ff19467aabb7dabe5be9b5b1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":378,
+                  "y":206},
+                "size":{
+                  "width":76,
+                  "height":17}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"3763e10a0e1749548610ed7dff6a3c5a",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":456,
+              "y":206},
+            "size":{
+              "width":76,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"18420e2ade8147509a8836c439ff7149",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":456,
+                  "y":206},
+                "size":{
+                  "width":76,
+                  "height":17}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"a2a3eaa77f51488881f938a5d2a1dd0d",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":533,
+              "y":206},
+            "size":{
+              "width":76,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f705c728afa94dd69231e3d189e2a21a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":533,
+                  "y":206},
+                "size":{
+                  "width":76,
+                  "height":17}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"b0b415eebe8e4606afd2c1b530757645",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":610,
+              "y":206},
+            "size":{
+              "width":76,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8d4323399cd44a73aa47d2c6f528dea9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":610,
+                  "y":206},
+                "size":{
+                  "width":76,
+                  "height":17}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"0722b9c78a5141f7a38459d737c079fc",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":688,
+              "y":206},
+            "size":{
+              "width":76,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"74f61bee1ac245b9a72c176e929f3f37",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":688,
+                  "y":206},
+                "size":{
+                  "width":76,
+                  "height":17}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"516262cbb76343bfb64e416c51367463",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":765,
+              "y":206},
+            "size":{
+              "width":76,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7a11dac1d1224cdda0769671477cfa43",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":765,
+                  "y":206},
+                "size":{
+                  "width":76,
+                  "height":17}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"5b8c9a656ff94387b158036757a36ed5",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":843,
+              "y":206},
+            "size":{
+              "width":76,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bc15c2cab6d4462cbfb00fb5d5e41a85",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":843,
+                  "y":206},
+                "size":{
+                  "width":76,
+                  "height":17}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"61ae518392b8461ba0e62e44c5a9e0c0",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":920,
+              "y":206},
+            "size":{
+              "width":76,
+              "height":17}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"280ac62a4f114f04a86fb8ffe47a9365",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":920,
+                  "y":206},
+                "size":{
+                  "width":76,
+                  "height":17}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"15fec61de5ce4cd69edc28e779c17924",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "horizontalAlignment":"right",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "lineSpacing":"25px",
+            "location":{
+              "x":248,
+              "y":241},
+            "size":{
+              "width":43,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5c46ed7aef5949779e7ce88fa0d8dc8a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "horizontalAlignment":"right",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "lineSpacing":"25px",
+                "location":{
+                  "x":248,
+                  "y":241},
+                "size":{
+                  "width":43,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"85d7c20cf69840f98b25f38f8163494e",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":301,
+              "y":241},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"0ab420d03cb2447d95d41d67d5964cfd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "horizontalAlignment":"right",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "lineSpacing":"25px",
+            "location":{
+              "x":248,
+              "y":279},
+            "size":{
+              "width":43,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"fe2511dff87b422d81149a29caece491",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "horizontalAlignment":"right",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "lineSpacing":"25px",
+                "location":{
+                  "x":248,
+                  "y":279},
+                "size":{
+                  "width":43,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"e40ca2a33a5a4e0092805f142cfae876",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":301,
+              "y":284},
+            "size":{
+              "width":49,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"bcab88cc1da84645839f130e7f917ded",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":301,
+                  "y":284},
+                "size":{
+                  "width":49,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"bb0195d1d1f54278bec7da7bd892213e",
+          "label":"",
+          "type":"radioButton",
+          "styleType":"radioButton",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"11px",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "location":{
+              "x":350,
+              "y":284},
+            "size":{
+              "width":49,
+              "height":16}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b5401bfca5b94e42b1787029500a2bdb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"11px",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "location":{
+                  "x":350,
+                  "y":284},
+                "size":{
+                  "width":49,
+                  "height":16}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"6dbe1608c97349d086d6bff8a60874cd",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "horizontalAlignment":"right",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "lineSpacing":"25px",
+            "location":{
+              "x":248,
+              "y":357},
+            "size":{
+              "width":43,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"def745283fc743b89c1f85b523832eff",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "horizontalAlignment":"right",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "lineSpacing":"25px",
+                "location":{
+                  "x":248,
+                  "y":357},
+                "size":{
+                  "width":43,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"4a70674f68fa4fd4be6c6e006212f4ab",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":301,
+              "y":357},
+            "size":{
+              "width":170,
+              "height":170}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"11e749d32a9d4d24b4b11e3ed6ac4104",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":301,
+                  "y":357},
+                "size":{
+                  "width":170,
+                  "height":170}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/策划推广管理注册/u70.png"}},
+{
+          "id":"9c68989c08814fd0a830363f0ee114a8",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":666,
+              "y":357},
+            "size":{
+              "width":70,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"2d37f392502f4586911fb9ee6f330eaa",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "horizontalAlignment":"right",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "lineSpacing":"25px",
+            "location":{
+              "x":220,
+              "y":318},
+            "size":{
+              "width":71,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"40647cd8d40846e9bb8161590d09f541",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "horizontalAlignment":"right",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "lineSpacing":"25px",
+                "location":{
+                  "x":220,
+                  "y":318},
+                "size":{
+                  "width":71,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"485e6ffe35ee423e9c42d0e87ce86cc4",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":491,
+              "y":357},
+            "size":{
+              "width":169,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"f8f81d91677644949ffac7f008f08323",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":741,
+              "y":357},
+            "size":{
+              "width":70,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"d1fdd07278764141ae2eb4dd19054c41",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":301,
+              "y":318},
+            "size":{
+              "width":200,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"210cc739bc894fe38e3c6ad0c149f946",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "horizontalAlignment":"right",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "lineSpacing":"25px",
+            "location":{
+              "x":247,
+              "y":540},
+            "size":{
+              "width":43,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e65f3f22f95d4796b9608d9f5237223e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "horizontalAlignment":"right",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "lineSpacing":"25px",
+                "location":{
+                  "x":247,
+                  "y":540},
+                "size":{
+                  "width":43,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"7dbe2d8bc84142b2af2749176a9bac77",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":301,
+              "y":540},
+            "size":{
+              "width":709,
+              "height":346}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ba223d20f6324b3b81dd4939d7e2f8d6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":301,
+                  "y":540},
+                "size":{
+                  "width":709,
+                  "height":346}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/策划推广管理注册/u80.jpg"}},
+{
+          "id":"a62bc2e27e094b2398f6f6236dfcf9d0",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Bold', '微软雅黑'",
+            "fontSize":"14px",
+            "fontWeight":"700",
+            "fontStyle":"normal",
+            "horizontalAlignment":"right",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF000000,
+              "opacity":1},
+            "lineSpacing":"25px",
+            "location":{
+              "x":220,
+              "y":900},
+            "size":{
+              "width":71,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6fefe6fa8a5449bfb79847c85aa02bc0",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                "fontSize":"14px",
+                "fontWeight":"700",
+                "fontStyle":"normal",
+                "horizontalAlignment":"right",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000,
+                  "opacity":1},
+                "lineSpacing":"25px",
+                "location":{
+                  "x":220,
+                  "y":900},
+                "size":{
+                  "width":71,
+                  "height":25}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d6850a0911c9454f81e8ddc3540d5fda",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":301,
+              "y":900},
+            "size":{
+              "width":709,
+              "height":346}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"34f607adc935411286e95a867693cb62",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":301,
+                  "y":900},
+                "size":{
+                  "width":709,
+                  "height":346}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/策划推广管理注册/u80.jpg"}},
+{
+          "id":"49edc7aaf1064f09a0fbc403b7552ec8",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":301,
+              "y":1285},
+            "size":{
+              "width":100,
+              "height":25}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"5adb9c801ec040f3ab88fb58cc146bd2",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal"},
+          "adaptiveStyles":{
+},
+          "masterId":"35c5eb605cc0438c9487f761701dae96"}]}},
+  "masters":{
+    "c2a8b81f39b84bf98e650c2ce0308c05":{
+      "packageId":"c2a8b81f39b84bf98e650c2ce0308c05",
+      "type":"Axure:Master",
+      "name":"简化底部",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"787fa3d77fd345a6bc26f303048834ac",
+            "label":"",
+            "type":"horizontalLine",
+            "styleType":"horizontalLine",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":149,
+                "y":42},
+              "size":{
+                "width":1051,
+                "height":10},
+              "borderWidth":"3",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC}},
+            "adaptiveStyles":{
+},
+            "annotation":{
+              "描述":"点击之后，内容向下展开"},
+            "images":{
+              "start~":"resources/images/transparent.gif",
+              "end~":"resources/images/transparent.gif",
+              "line~":"images/策划推广管理注册/u9_line.png"}},
+{
+            "id":"1bf3e685d52742dfaabd9fb4efc8265d",
+            "label":"",
+            "type":"horizontalLine",
+            "styleType":"horizontalLine",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":149,
+                "y":81},
+              "size":{
+                "width":1051,
+                "height":10},
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC}},
+            "adaptiveStyles":{
+},
+            "images":{
+              "start~":"resources/images/transparent.gif",
+              "end~":"resources/images/transparent.gif",
+              "line~":"images/盈喜首页/u41_line.png"}},
+{
+            "id":"4defc5a438bf46bc82cced92a2a514fe",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":263,
+                "y":98},
+              "size":{
+                "width":815,
+                "height":12}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"18d425d28a184234a652db8be9199ffb",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "location":{
+                    "x":263,
+                    "y":98},
+                  "size":{
+                    "width":815,
+                    "height":12}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"90899ff77aa74e089b1ac9a8699e2d28",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":388,
+                "y":125},
+              "size":{
+                "width":104,
+                "height":34}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"f66f2df9504241ee9cceead3466e2286",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "location":{
+                    "x":388,
+                    "y":125},
+                  "size":{
+                    "width":104,
+                    "height":34}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/盈喜首页/u49.png"}},
+{
+            "id":"35b053725a674c6b9d18dcaea5756f93",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":503,
+                "y":125},
+              "size":{
+                "width":90,
+                "height":34}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"c3b827fd85c54deaba16695ee1692f0c",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "location":{
+                    "x":503,
+                    "y":125},
+                  "size":{
+                    "width":90,
+                    "height":34}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/盈喜首页/u51.png"}},
+{
+            "id":"b5e6cc603f3a4b64951c65e4081a04e3",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":605,
+                "y":125},
+              "size":{
+                "width":98,
+                "height":34}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"075e3ca98bbc40ff9816ba510d0f1f76",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "location":{
+                    "x":605,
+                    "y":125},
+                  "size":{
+                    "width":98,
+                    "height":34}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/盈喜首页/u53.png"}},
+{
+            "id":"2ff35c88a741441290e8ea2358ef29ef",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":716,
+                "y":125},
+              "size":{
+                "width":95,
+                "height":34}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"f50b766acd7b427d94a33674bbd5b057",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "location":{
+                    "x":716,
+                    "y":125},
+                  "size":{
+                    "width":95,
+                    "height":34}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/盈喜首页/u55.png"}},
+{
+            "id":"5873d521561c46a6b270a908cb582159",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontSize":"12px",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "lineSpacing":"22px",
+              "location":{
+                "x":825,
+                "y":125},
+              "size":{
+                "width":128,
+                "height":34},
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC},
+              "cornerRadiusTopLeft":"2"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"a74f48d00a50440984858b0c1183e48d",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontSize":"12px",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "lineSpacing":"22px",
+                  "location":{
+                    "x":825,
+                    "y":125},
+                  "size":{
+                    "width":128,
+                    "height":34},
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFCCCCCC},
+                  "cornerRadiusTopLeft":"2"},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/盈喜首页/u57.png"}},
+{
+            "id":"c03e8267229a4eb8bf153a31d069651f",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "horizontalAlignment":"center",
+              "lineSpacing":"25px",
+              "location":{
+                "x":488,
+                "y":53},
+              "size":{
+                "width":75,
+                "height":25}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"dcd848eaa6b042aeb2b1b4b455c5d6a3",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "horizontalAlignment":"center",
+                  "lineSpacing":"25px",
+                  "location":{
+                    "x":488,
+                    "y":53},
+                  "size":{
+                    "width":75,
+                    "height":25}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 惠盈简介",
+                        "target":{
+                          "targetType":"page",
+                          "url":"惠盈简介.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"c00ace7a88144e0d83409aa40c4c86ff",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "horizontalAlignment":"center",
+              "lineSpacing":"25px",
+              "location":{
+                "x":562,
+                "y":53},
+              "size":{
+                "width":75,
+                "height":25}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"e55ce9bb939f4fcf9b913e8c2d56f1ab",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "horizontalAlignment":"center",
+                  "lineSpacing":"25px",
+                  "location":{
+                    "x":562,
+                    "y":53},
+                  "size":{
+                    "width":75,
+                    "height":25}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 集团新闻",
+                        "target":{
+                          "targetType":"page",
+                          "url":"集团新闻.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"1babe9adccea469a82c8b9711efb9fbe",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "horizontalAlignment":"center",
+              "lineSpacing":"25px",
+              "location":{
+                "x":638,
+                "y":53},
+              "size":{
+                "width":69,
+                "height":25}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"d8e3b091af5647a79d8581c241de2060",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "horizontalAlignment":"center",
+                  "lineSpacing":"25px",
+                  "location":{
+                    "x":638,
+                    "y":53},
+                  "size":{
+                    "width":69,
+                    "height":25}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 行业动态",
+                        "target":{
+                          "targetType":"page",
+                          "url":"行业动态.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"c3c9fbb068ce448ca259ba90243cad90",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "horizontalAlignment":"center",
+              "lineSpacing":"25px",
+              "location":{
+                "x":712,
+                "y":53},
+              "size":{
+                "width":69,
+                "height":25}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"160a5fb0096643299eaa604982e70188",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "horizontalAlignment":"center",
+                  "lineSpacing":"25px",
+                  "location":{
+                    "x":712,
+                    "y":53},
+                  "size":{
+                    "width":69,
+                    "height":25}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 联系我们",
+                        "target":{
+                          "targetType":"page",
+                          "url":"联系我们.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"47e88c5a918e47b9829522617b4c0d6a",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "horizontalAlignment":"center",
+              "lineSpacing":"25px",
+              "location":{
+                "x":784,
+                "y":53},
+              "size":{
+                "width":69,
+                "height":25}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"afc44f84476c4a528f16fa6bc3e8ca8c",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "horizontalAlignment":"center",
+                  "lineSpacing":"25px",
+                  "location":{
+                    "x":784,
+                    "y":53},
+                  "size":{
+                    "width":69,
+                    "height":25}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 链接",
+                        "target":{
+                          "targetType":"page",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"993009281b96495e97266ae5414b58a1",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":570,
+                "y":160},
+              "size":{
+                "width":200,
+                "height":15},
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFFFFF}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"91579102366c470e9d305354e47cbdf3",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "location":{
+                    "x":570,
+                    "y":160},
+                  "size":{
+                    "width":200,
+                    "height":15},
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/盈喜首页/u71.png"}}]}},
+    "35c5eb605cc0438c9487f761701dae96":{
+      "packageId":"35c5eb605cc0438c9487f761701dae96",
+      "type":"Axure:Master",
+      "name":"头部",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"34be0a4d215445b8935573800cde3a58",
+            "label":"顶部背景",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFFFFF},
+              "size":{
+                "width":1400,
+                "height":30},
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"5036cc9ea72d43318afb88b4862e64f5",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFF},
+                  "size":{
+                    "width":1400,
+                    "height":30},
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFCCCCCC}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 企业客户_商品订单",
+                        "target":{
+                          "targetType":"page",
+                          "url":"企业客户_商品订单.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "annotation":{
+              "描述":"背景通屏，宽度100%"},
+            "images":{
+              "normal~":"images/盈喜首页/顶部背景_u628.png"}},
+{
+            "id":"38dc25d0c3f24d3d9639c7aaf3862983",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontSize":"12px",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "lineSpacing":"20px",
+              "location":{
+                "x":150,
+                "y":5},
+              "size":{
+                "width":37,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"ee49933f91d041b68b47fd50ac3f68fb",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontSize":"12px",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "lineSpacing":"20px",
+                  "location":{
+                    "x":150,
+                    "y":5},
+                  "size":{
+                    "width":37,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"7d7e0ada9f0f40f5bc226a6d7922a3f6",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontSize":"12px",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "lineSpacing":"20px",
+              "stateStyles":{
+                "mouseOver":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}},
+                "mouseDown":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "location":{
+                "x":200,
+                "y":5},
+              "size":{
+                "width":37,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"16cd28349ce846a0afac88342c01255f",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontSize":"12px",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "lineSpacing":"20px",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}},
+                    "mouseDown":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "location":{
+                    "x":200,
+                    "y":5},
+                  "size":{
+                    "width":37,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 登录",
+                        "target":{
+                          "targetType":"page",
+                          "url":"登录.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif",
+              "mouseDown~":"resources/images/transparent.gif"}},
+{
+            "id":"a3d915a393ce41f6bfbb2fb1f915bba9",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontSize":"12px",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "lineSpacing":"20px",
+              "location":{
+                "x":943,
+                "y":5},
+              "size":{
+                "width":139,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"98334d8af8d747d19df574b38b1fce0a",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontSize":"12px",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "lineSpacing":"20px",
+                  "location":{
+                    "x":943,
+                    "y":5},
+                  "size":{
+                    "width":139,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"998785e620a74daeb9db1e339fb5284d",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "horizontalAlignment":"center",
+              "lineSpacing":"20px",
+              "location":{
+                "x":827,
+                "y":5},
+              "size":{
+                "width":50,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"ca51897c49924f90a8dc52ae4e3c902f",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "horizontalAlignment":"center",
+                  "lineSpacing":"20px",
+                  "location":{
+                    "x":827,
+                    "y":5},
+                  "size":{
+                    "width":50,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"1a4c29def0844008948f8eef8d070dda",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "horizontalAlignment":"center",
+              "lineSpacing":"20px",
+              "location":{
+                "x":880,
+                "y":5},
+              "size":{
+                "width":50,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"89ce2ea5f1b0426dab1306744987257d",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "horizontalAlignment":"center",
+                  "lineSpacing":"20px",
+                  "location":{
+                    "x":880,
+                    "y":5},
+                  "size":{
+                    "width":50,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"bf84599b0f1e42b9a0f0cabd192013bd",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "horizontalAlignment":"center",
+              "lineSpacing":"20px",
+              "stateStyles":{
+                "mouseOver":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}},
+                "mouseDown":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "location":{
+                "x":738,
+                "y":5},
+              "size":{
+                "width":102,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"f466821ace93481a80f7130cb16c66ec",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "horizontalAlignment":"center",
+                  "lineSpacing":"20px",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}},
+                    "mouseDown":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "location":{
+                    "x":738,
+                    "y":5},
+                  "size":{
+                    "width":102,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onMouseOver":{
+                "description":"OnMouseOver",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"显示 找服务 向下滑动 500 毫秒",
+                        "objectsToFades":[{
+                            "objectPath":["4c346bd0295447f0b8eace95d2fe93a9"],
+                            "fadeInfo":{
+                              "fadeType":"show",
+                              "options":{
+                                "easing":"slideDown",
+                                "duration":500,
+                                "showType":"none"}}}]}]}]}},
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif",
+              "mouseDown~":"resources/images/transparent.gif"}},
+{
+            "id":"bf48536958fd464496b4d66023dea125",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "horizontalAlignment":"center",
+              "lineSpacing":"20px",
+              "stateStyles":{
+                "mouseOver":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}},
+                "mouseDown":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "location":{
+                "x":600,
+                "y":6},
+              "size":{
+                "width":60,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"831c1e1b73cc49db9e2178cf7b5e1772",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "horizontalAlignment":"center",
+                  "lineSpacing":"20px",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}},
+                    "mouseDown":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "location":{
+                    "x":600,
+                    "y":6},
+                  "size":{
+                    "width":60,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 企业客户_商品订单",
+                        "target":{
+                          "targetType":"page",
+                          "url":"企业客户_商品订单.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif",
+              "mouseDown~":"resources/images/transparent.gif"}},
+{
+            "id":"3243e85ad50a4c3f8a0776d5ff128fc9",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontSize":"12px",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "lineSpacing":"20px",
+              "location":{
+                "x":681,
+                "y":6},
+              "size":{
+                "width":49,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"5b535591388744b59ef53a70376f5f92",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontSize":"12px",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "lineSpacing":"20px",
+                  "location":{
+                    "x":681,
+                    "y":6},
+                  "size":{
+                    "width":49,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onMouseOver":{
+                "description":"OnMouseOver",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"显示 帮助中心 向下滑动 500 毫秒",
+                        "objectsToFades":[{
+                            "objectPath":["55673dc0f5a9428597f23f21fa24f53f"],
+                            "fadeInfo":{
+                              "fadeType":"show",
+                              "options":{
+                                "easing":"slideDown",
+                                "duration":500,
+                                "showType":"none"}}}]}]}]}},
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"e39e50e1a8c141e3be3b0708b0f2c96b",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":732,
+                "y":15},
+              "size":{
+                "width":8,
+                "height":4}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"5a8000ffa81b4a90b86ab8ba42477f49",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "location":{
+                    "x":732,
+                    "y":15},
+                  "size":{
+                    "width":8,
+                    "height":4}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/盈喜首页/u43.png"}},
+{
+            "id":"55673dc0f5a9428597f23f21fa24f53f",
+            "label":"帮助中心",
+            "type":"dynamicPanel",
+            "styleType":"dynamicPanel",
+            "visible":false,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":670,
+                "y":29},
+              "size":{
+                "width":10,
+                "height":10},
+              "visible":false},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onMouseOut":{
+                "description":"OnMouseOut",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"隐藏 帮助中心",
+                        "objectsToFades":[{
+                            "objectPath":["55673dc0f5a9428597f23f21fa24f53f"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}}]}]}]}},
+            "scrollbars":"none",
+            "fitToContent":true,
+            "propagate":false,
+            "diagrams":[{
+                "id":"0cd9cf6a1eb240c1a54f60b68d0cf88f",
+                "label":"状态1",
+                "type":"Axure:PanelDiagram",
+                "objects":[{
+                    "id":"ceda5412c8324c17844832976e0baadf",
+                    "label":"",
+                    "parentDynamicPanel":"55673dc0f5a9428597f23f21fa24f53f",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "size":{
+                        "width":76,
+                        "height":26},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"4e39ec859601454381b3f0114d32fda6",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"55673dc0f5a9428597f23f21fa24f53f",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "size":{
+                            "width":76,
+                            "height":26},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 注册会员",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"注册会员.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u649.png"}},
+{
+                    "id":"f8f0b9c3b89043f2bc6d802e78de8d68",
+                    "label":"",
+                    "parentDynamicPanel":"55673dc0f5a9428597f23f21fa24f53f",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":25},
+                      "size":{
+                        "width":76,
+                        "height":26},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"1b86ba9817c542f3bb7de5d2236d98ec",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"55673dc0f5a9428597f23f21fa24f53f",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":25},
+                          "size":{
+                            "width":76,
+                            "height":26},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 售后服务",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"售后服务.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u649.png"}},
+{
+                    "id":"5c6b1f2668a247c9b61b1717f573d0fd",
+                    "label":"",
+                    "parentDynamicPanel":"55673dc0f5a9428597f23f21fa24f53f",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":50},
+                      "size":{
+                        "width":76,
+                        "height":26},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"2270fc253f5240f4ae233ed78802fdb6",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"55673dc0f5a9428597f23f21fa24f53f",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":50},
+                          "size":{
+                            "width":76,
+                            "height":26},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 联系我们",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"联系我们.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u649.png"}}]}]},
+{
+            "id":"23e71e17ccb949c99851a014aef871d5",
+            "label":"",
+            "type":"comboBox",
+            "styleType":"comboBox",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":1090,
+                "y":4},
+              "size":{
+                "width":110,
+                "height":22}},
+            "adaptiveStyles":{
+}},
+{
+            "id":"b88fb1d049d9432992d6500bfcd7540f",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontSize":"12px",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "horizontalAlignment":"center",
+              "lineSpacing":"20px",
+              "stateStyles":{
+                "mouseOver":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}},
+                "mouseDown":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF0000FF,
+                    "opacity":1}}},
+              "location":{
+                "x":216,
+                "y":5},
+              "size":{
+                "width":123,
+                "height":20}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"7cb9089f06a2409cbd938056d32bc6ab",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontSize":"12px",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "horizontalAlignment":"center",
+                  "lineSpacing":"20px",
+                  "stateStyles":{
+                    "mouseOver":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}},
+                    "mouseDown":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "foreGroundFill":{
+                        "fillType":"solid",
+                        "color":0xFF0000FF,
+                        "opacity":1}}},
+                  "location":{
+                    "x":216,
+                    "y":5},
+                  "size":{
+                    "width":123,
+                    "height":20}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onMouseOver":{
+                "description":"OnMouseOver",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"显示 注册下拉 向下滑动 500 毫秒",
+                        "objectsToFades":[{
+                            "objectPath":["1280f998f2d04f8aa0d8dc35573a3cdd"],
+                            "fadeInfo":{
+                              "fadeType":"show",
+                              "options":{
+                                "easing":"slideDown",
+                                "duration":500,
+                                "showType":"none"}}}]}]}]}},
+            "images":{
+              "normal~":"resources/images/transparent.gif",
+              "mouseOver~":"resources/images/transparent.gif",
+              "mouseDown~":"resources/images/transparent.gif"}},
+{
+            "id":"1280f998f2d04f8aa0d8dc35573a3cdd",
+            "label":"注册下拉",
+            "type":"dynamicPanel",
+            "styleType":"dynamicPanel",
+            "visible":false,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":216,
+                "y":29},
+              "size":{
+                "width":10,
+                "height":10},
+              "visible":false},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onMouseOut":{
+                "description":"OnMouseOut",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"隐藏 注册下拉",
+                        "objectsToFades":[{
+                            "objectPath":["1280f998f2d04f8aa0d8dc35573a3cdd"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}}]}]}]}},
+            "scrollbars":"none",
+            "fitToContent":true,
+            "propagate":false,
+            "diagrams":[{
+                "id":"a1bfc1cc770143f785c092f2e7ec127f",
+                "label":"注册下拉",
+                "type":"Axure:PanelDiagram",
+                "objects":[{
+                    "id":"16cc2adbcf2940a0aad13eeb6b53282c",
+                    "label":"",
+                    "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "size":{
+                        "width":123,
+                        "height":233}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"64a8fdb7a9a34248bc241cbc91ce0c7a",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "size":{
+                            "width":123,
+                            "height":233}},
+                        "adaptiveStyles":{
+}}],
+                    "images":{
+                      "normal~":"images/盈喜首页/u659.png"}},
+{
+                    "id":"58f6c6394e114753ba0c0ae7a6e5090b",
+                    "label":"",
+                    "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"ea84537519bc4486b8a7ca2b8604d2c2",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 策划推广管理注册",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"策划推广管理注册.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"ba085819eab94a86b859e873f969b980",
+                    "label":"",
+                    "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":29},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"06b1a86f508f4e3f831a335ab0ffe1bc",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":29},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 陈列师注册",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"陈列师注册.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"6e7964e738dc4151bfd93abb71eaea93",
+                    "label":"",
+                    "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":58},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"058cf22187a144d1b76146fa1eacb449",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":58},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 成衣生产厂家注册",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"成衣生产厂家注册.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"0365c94b3b00425fa78166849477c329",
+                    "label":"",
+                    "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":87},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"944f06774f164b0f954c9e04575204cf",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":87},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 空间设计师注册",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"空间设计师注册.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"2d4c59deb5404ff09bb88a511b717221",
+                    "label":"",
+                    "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":116},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"5941129bc3b1449d98f6b27ff12e3160",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":116},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 品牌管理注册",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"品牌管理注册.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"c00a1c2ab7de480494e0b19a54e4e115",
+                    "label":"",
+                    "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":145},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"0aeca3ac19474e41a1477c7c6593b8c3",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":145},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 平面设计师注册",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"平面设计师注册.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"7cbc05df046b41fd83985a3f20b9e166",
+                    "label":"",
+                    "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":174},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"46e7ce1e8ed742339a32a263e20c9442",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":174},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 商城营运管理注册",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"商城营运管理注册.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"0e66f7ebfa75422fadfb13a16d634f01",
+                    "label":"",
+                    "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":203},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"9776fb67ac9044d6a2fb1d04a274507b",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"1280f998f2d04f8aa0d8dc35573a3cdd",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":203},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 设计师注册",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"设计师注册.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}}]}]},
+{
+            "id":"4c346bd0295447f0b8eace95d2fe93a9",
+            "label":"找服务",
+            "type":"dynamicPanel",
+            "styleType":"dynamicPanel",
+            "visible":false,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":728,
+                "y":28},
+              "size":{
+                "width":123,
+                "height":275},
+              "visible":false},
+            "adaptiveStyles":{
+},
+            "interactionMap":{
+              "onMouseOut":{
+                "description":"OnMouseOut",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"fadeWidget",
+                        "description":"隐藏 找服务",
+                        "objectsToFades":[{
+                            "objectPath":["4c346bd0295447f0b8eace95d2fe93a9"],
+                            "fadeInfo":{
+                              "fadeType":"hide",
+                              "options":{
+                                "showType":"none"}}}]}]}]}},
+            "scrollbars":"none",
+            "fitToContent":false,
+            "propagate":false,
+            "diagrams":[{
+                "id":"bf9588204d4046daaa5a8ca00bbc5a50",
+                "label":"找服务",
+                "type":"Axure:PanelDiagram",
+                "objects":[{
+                    "id":"e4ff80c11fe0450fb5da48494764b140",
+                    "label":"",
+                    "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"12f5c50826b14befa87287ec53149867",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 策划推广改善需求表",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"策划推广改善需求表.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"b55370364ce44a92b00bc5fa11a07b7e",
+                    "label":"",
+                    "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":29},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"70b3778df93e420bb1aae856b3db0ff9",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":29},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 产品研发改善需求表",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"产品研发改善需求表.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"667a020d5dce45f9a9f0c16ab9e60796",
+                    "label":"",
+                    "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":58},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"4a034f02a72f4ef489b9dca38658cd87",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":58},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 陈列改善需求表",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"陈列改善需求表.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"e0b76e8d0bd842a387c278c81c3d9034",
+                    "label":"",
+                    "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":87},
+                      "size":{
+                        "width":123,
+                        "height":43},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"17f412a5ba7b4b71ab9bd41c724f6545",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":87},
+                          "size":{
+                            "width":123,
+                            "height":43},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 成衣、面料、辅料订货单及出货单",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"成衣、面料、辅料订货单及出货单.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u684.png"}},
+{
+                    "id":"9b6068a8e3b84d0bb13dc8bd9f4cbb30",
+                    "label":"",
+                    "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":129},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"decfcc1ba45940fdaf32cf21c56f8a4c",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":129},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 服装生产制单",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"服装生产制单.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"19d31a9432674577ae681188d8483963",
+                    "label":"",
+                    "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":158},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"6add2bf964114524ac23d45857d872e7",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":158},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 空间设计改善需求表",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"空间设计改善需求表.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"203acacd818246f59a41417425b994d8",
+                    "label":"",
+                    "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":187},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"9e197f744f2c46009c3269a15dbeeb26",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":187},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 品牌改善需求表",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"品牌改善需求表.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"6e018840b8cf4b8f8b7feb2a3c85474c",
+                    "label":"",
+                    "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":216},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"cb61210da8f241b8831f923f714a281c",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":216},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 平面设计改善需求表",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"平面设计改善需求表.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}},
+{
+                    "id":"f4774e863ae74419a922d3d361bb87e0",
+                    "label":"",
+                    "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                    "type":"buttonShape",
+                    "styleType":"buttonShape",
+                    "visible":true,
+                    "style":{
+                      "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                      "fontSize":"12px",
+                      "fontWeight":"400",
+                      "fontStyle":"normal",
+                      "lineSpacing":"22px",
+                      "location":{
+                        "x":0,
+                        "y":245},
+                      "size":{
+                        "width":123,
+                        "height":30},
+                      "borderFill":{
+                        "fillType":"solid",
+                        "color":0xFFCCCCCC}},
+                    "adaptiveStyles":{
+},
+                    "objects":[{
+                        "id":"61588e379eff47deaad48e3adec59894",
+                        "label":"",
+                        "isContained":true,
+                        "parentDynamicPanel":"4c346bd0295447f0b8eace95d2fe93a9",
+                        "type":"richTextPanel",
+                        "styleType":"paragraph",
+                        "visible":true,
+                        "style":{
+                          "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                          "fontSize":"12px",
+                          "fontWeight":"400",
+                          "fontStyle":"normal",
+                          "lineSpacing":"22px",
+                          "location":{
+                            "x":0,
+                            "y":245},
+                          "size":{
+                            "width":123,
+                            "height":30},
+                          "borderFill":{
+                            "fillType":"solid",
+                            "color":0xFFCCCCCC}},
+                        "adaptiveStyles":{
+}}],
+                    "interactionMap":{
+                      "onClick":{
+                        "description":"OnClick",
+                        "cases":[{
+                            "description":"用例 1",
+                            "isNewIfGroup":false,
+                            "actions":[{
+                                "action":"linkWindow",
+                                "description":"在 当前窗口 打开 商城需求信息登记表",
+                                "target":{
+                                  "targetType":"page",
+                                  "url":"商城需求信息登记表.html",
+                                  "includeVariables":true},
+                                "linkType":"current"}]}]}},
+                    "tabbable":true,
+                    "images":{
+                      "normal~":"images/盈喜首页/u661.png"}}]}]},
+{
+            "id":"93817ab3cab04d42aeb2a40c62d3cc70",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":307.333343505859,
+                "y":13},
+              "size":{
+                "width":8,
+                "height":4}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"d1c26e2e1cb3430cb1f3105ac5c71803",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "location":{
+                    "x":307.333343505859,
+                    "y":13},
+                  "size":{
+                    "width":8,
+                    "height":4}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/盈喜首页/u43.png"}},
+{
+            "id":"0e15adadc52d4fd48f819f5b605c397b",
+            "label":"",
+            "type":"imageBox",
+            "styleType":"imageBox",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontWeight":"400",
+              "fontStyle":"normal",
+              "location":{
+                "x":812,
+                "y":13},
+              "size":{
+                "width":8,
+                "height":4}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"53e89319052a4cada428c87b6a7c3fbb",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontWeight":"400",
+                  "fontStyle":"normal",
+                  "location":{
+                    "x":812,
+                    "y":13},
+                  "size":{
+                    "width":8,
+                    "height":4}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/盈喜首页/u43.png"}}]}}},
+  "objectPaths":{
+    "c855856c24124c6392696f082539784d":{
+      "scriptId":"u0"},
+    "fb15bf934d75474fb619c89c87470c03":{
+      "scriptId":"u1"},
+    "e6414670e44a4f5aa5b83db8fa5ee340":{
+      "scriptId":"u2"},
+    "bd61dc7ceae34d7aa203aa58381a75a4":{
+      "scriptId":"u3"},
+    "f5fe58d2ecc44ceea32bafd5dd4e577c":{
+      "scriptId":"u4"},
+    "bbabef8d9c004437aa3452f750d8fd68":{
+      "scriptId":"u5"},
+    "073fe52dfcbc42b29e02d1efa0ef5680":{
+      "scriptId":"u6"},
+    "975e9536392c448d8586bee99adb97ae":{
+      "scriptId":"u7"},
+    "cd901d6f394e4701aef77a7551d3a47a":{
+      "scriptId":"u8",
+      "787fa3d77fd345a6bc26f303048834ac":{
+        "scriptId":"u9"},
+      "1bf3e685d52742dfaabd9fb4efc8265d":{
+        "scriptId":"u10"},
+      "4defc5a438bf46bc82cced92a2a514fe":{
+        "scriptId":"u11"},
+      "18d425d28a184234a652db8be9199ffb":{
+        "scriptId":"u12"},
+      "90899ff77aa74e089b1ac9a8699e2d28":{
+        "scriptId":"u13"},
+      "f66f2df9504241ee9cceead3466e2286":{
+        "scriptId":"u14"},
+      "35b053725a674c6b9d18dcaea5756f93":{
+        "scriptId":"u15"},
+      "c3b827fd85c54deaba16695ee1692f0c":{
+        "scriptId":"u16"},
+      "b5e6cc603f3a4b64951c65e4081a04e3":{
+        "scriptId":"u17"},
+      "075e3ca98bbc40ff9816ba510d0f1f76":{
+        "scriptId":"u18"},
+      "2ff35c88a741441290e8ea2358ef29ef":{
+        "scriptId":"u19"},
+      "f50b766acd7b427d94a33674bbd5b057":{
+        "scriptId":"u20"},
+      "5873d521561c46a6b270a908cb582159":{
+        "scriptId":"u21"},
+      "a74f48d00a50440984858b0c1183e48d":{
+        "scriptId":"u22"},
+      "c03e8267229a4eb8bf153a31d069651f":{
+        "scriptId":"u23"},
+      "dcd848eaa6b042aeb2b1b4b455c5d6a3":{
+        "scriptId":"u24"},
+      "c00ace7a88144e0d83409aa40c4c86ff":{
+        "scriptId":"u25"},
+      "e55ce9bb939f4fcf9b913e8c2d56f1ab":{
+        "scriptId":"u26"},
+      "1babe9adccea469a82c8b9711efb9fbe":{
+        "scriptId":"u27"},
+      "d8e3b091af5647a79d8581c241de2060":{
+        "scriptId":"u28"},
+      "c3c9fbb068ce448ca259ba90243cad90":{
+        "scriptId":"u29"},
+      "160a5fb0096643299eaa604982e70188":{
+        "scriptId":"u30"},
+      "47e88c5a918e47b9829522617b4c0d6a":{
+        "scriptId":"u31"},
+      "afc44f84476c4a528f16fa6bc3e8ca8c":{
+        "scriptId":"u32"},
+      "993009281b96495e97266ae5414b58a1":{
+        "scriptId":"u33"},
+      "91579102366c470e9d305354e47cbdf3":{
+        "scriptId":"u34"}},
+    "58bd468dc62b4d61ae04197db91dc9e3":{
+      "scriptId":"u35"},
+    "2203cbad7ae1486e81401b8a1c441f91":{
+      "scriptId":"u36"},
+    "bd9073283b3d41269791f3942b48d720":{
+      "scriptId":"u37"},
+    "db9e13610ccf4332bcdff13b886d92a8":{
+      "scriptId":"u38"},
+    "4174c19f7d394e2e8f0918a185a7d86c":{
+      "scriptId":"u39"},
+    "0cb6bf4e650f4c8ba6a48a0f57fc268b":{
+      "scriptId":"u40"},
+    "85a63728be264f57a208800948cebf0f":{
+      "scriptId":"u41"},
+    "c96e2f17ff19467aabb7dabe5be9b5b1":{
+      "scriptId":"u42"},
+    "3763e10a0e1749548610ed7dff6a3c5a":{
+      "scriptId":"u43"},
+    "18420e2ade8147509a8836c439ff7149":{
+      "scriptId":"u44"},
+    "a2a3eaa77f51488881f938a5d2a1dd0d":{
+      "scriptId":"u45"},
+    "f705c728afa94dd69231e3d189e2a21a":{
+      "scriptId":"u46"},
+    "b0b415eebe8e4606afd2c1b530757645":{
+      "scriptId":"u47"},
+    "8d4323399cd44a73aa47d2c6f528dea9":{
+      "scriptId":"u48"},
+    "0722b9c78a5141f7a38459d737c079fc":{
+      "scriptId":"u49"},
+    "74f61bee1ac245b9a72c176e929f3f37":{
+      "scriptId":"u50"},
+    "516262cbb76343bfb64e416c51367463":{
+      "scriptId":"u51"},
+    "7a11dac1d1224cdda0769671477cfa43":{
+      "scriptId":"u52"},
+    "5b8c9a656ff94387b158036757a36ed5":{
+      "scriptId":"u53"},
+    "bc15c2cab6d4462cbfb00fb5d5e41a85":{
+      "scriptId":"u54"},
+    "61ae518392b8461ba0e62e44c5a9e0c0":{
+      "scriptId":"u55"},
+    "280ac62a4f114f04a86fb8ffe47a9365":{
+      "scriptId":"u56"},
+    "15fec61de5ce4cd69edc28e779c17924":{
+      "scriptId":"u57"},
+    "5c46ed7aef5949779e7ce88fa0d8dc8a":{
+      "scriptId":"u58"},
+    "85d7c20cf69840f98b25f38f8163494e":{
+      "scriptId":"u59"},
+    "0ab420d03cb2447d95d41d67d5964cfd":{
+      "scriptId":"u60"},
+    "fe2511dff87b422d81149a29caece491":{
+      "scriptId":"u61"},
+    "e40ca2a33a5a4e0092805f142cfae876":{
+      "scriptId":"u62"},
+    "bcab88cc1da84645839f130e7f917ded":{
+      "scriptId":"u63"},
+    "bb0195d1d1f54278bec7da7bd892213e":{
+      "scriptId":"u64"},
+    "b5401bfca5b94e42b1787029500a2bdb":{
+      "scriptId":"u65"},
+    "6dbe1608c97349d086d6bff8a60874cd":{
+      "scriptId":"u66"},
+    "def745283fc743b89c1f85b523832eff":{
+      "scriptId":"u67"},
+    "4a70674f68fa4fd4be6c6e006212f4ab":{
+      "scriptId":"u68"},
+    "11e749d32a9d4d24b4b11e3ed6ac4104":{
+      "scriptId":"u69"},
+    "9c68989c08814fd0a830363f0ee114a8":{
+      "scriptId":"u70"},
+    "2d37f392502f4586911fb9ee6f330eaa":{
+      "scriptId":"u71"},
+    "40647cd8d40846e9bb8161590d09f541":{
+      "scriptId":"u72"},
+    "485e6ffe35ee423e9c42d0e87ce86cc4":{
+      "scriptId":"u73"},
+    "f8f81d91677644949ffac7f008f08323":{
+      "scriptId":"u74"},
+    "d1fdd07278764141ae2eb4dd19054c41":{
+      "scriptId":"u75"},
+    "210cc739bc894fe38e3c6ad0c149f946":{
+      "scriptId":"u76"},
+    "e65f3f22f95d4796b9608d9f5237223e":{
+      "scriptId":"u77"},
+    "7dbe2d8bc84142b2af2749176a9bac77":{
+      "scriptId":"u78"},
+    "ba223d20f6324b3b81dd4939d7e2f8d6":{
+      "scriptId":"u79"},
+    "a62bc2e27e094b2398f6f6236dfcf9d0":{
+      "scriptId":"u80"},
+    "6fefe6fa8a5449bfb79847c85aa02bc0":{
+      "scriptId":"u81"},
+    "d6850a0911c9454f81e8ddc3540d5fda":{
+      "scriptId":"u82"},
+    "34f607adc935411286e95a867693cb62":{
+      "scriptId":"u83"},
+    "49edc7aaf1064f09a0fbc403b7552ec8":{
+      "scriptId":"u84"},
+    "5adb9c801ec040f3ab88fb58cc146bd2":{
+      "scriptId":"u85",
+      "34be0a4d215445b8935573800cde3a58":{
+        "scriptId":"u86"},
+      "5036cc9ea72d43318afb88b4862e64f5":{
+        "scriptId":"u87"},
+      "38dc25d0c3f24d3d9639c7aaf3862983":{
+        "scriptId":"u88"},
+      "ee49933f91d041b68b47fd50ac3f68fb":{
+        "scriptId":"u89"},
+      "7d7e0ada9f0f40f5bc226a6d7922a3f6":{
+        "scriptId":"u90"},
+      "16cd28349ce846a0afac88342c01255f":{
+        "scriptId":"u91"},
+      "a3d915a393ce41f6bfbb2fb1f915bba9":{
+        "scriptId":"u92"},
+      "98334d8af8d747d19df574b38b1fce0a":{
+        "scriptId":"u93"},
+      "998785e620a74daeb9db1e339fb5284d":{
+        "scriptId":"u94"},
+      "ca51897c49924f90a8dc52ae4e3c902f":{
+        "scriptId":"u95"},
+      "1a4c29def0844008948f8eef8d070dda":{
+        "scriptId":"u96"},
+      "89ce2ea5f1b0426dab1306744987257d":{
+        "scriptId":"u97"},
+      "bf84599b0f1e42b9a0f0cabd192013bd":{
+        "scriptId":"u98"},
+      "f466821ace93481a80f7130cb16c66ec":{
+        "scriptId":"u99"},
+      "bf48536958fd464496b4d66023dea125":{
+        "scriptId":"u100"},
+      "831c1e1b73cc49db9e2178cf7b5e1772":{
+        "scriptId":"u101"},
+      "3243e85ad50a4c3f8a0776d5ff128fc9":{
+        "scriptId":"u102"},
+      "5b535591388744b59ef53a70376f5f92":{
+        "scriptId":"u103"},
+      "e39e50e1a8c141e3be3b0708b0f2c96b":{
+        "scriptId":"u104"},
+      "5a8000ffa81b4a90b86ab8ba42477f49":{
+        "scriptId":"u105"},
+      "55673dc0f5a9428597f23f21fa24f53f":{
+        "scriptId":"u106"},
+      "ceda5412c8324c17844832976e0baadf":{
+        "scriptId":"u107"},
+      "4e39ec859601454381b3f0114d32fda6":{
+        "scriptId":"u108"},
+      "f8f0b9c3b89043f2bc6d802e78de8d68":{
+        "scriptId":"u109"},
+      "1b86ba9817c542f3bb7de5d2236d98ec":{
+        "scriptId":"u110"},
+      "5c6b1f2668a247c9b61b1717f573d0fd":{
+        "scriptId":"u111"},
+      "2270fc253f5240f4ae233ed78802fdb6":{
+        "scriptId":"u112"},
+      "23e71e17ccb949c99851a014aef871d5":{
+        "scriptId":"u113"},
+      "b88fb1d049d9432992d6500bfcd7540f":{
+        "scriptId":"u114"},
+      "7cb9089f06a2409cbd938056d32bc6ab":{
+        "scriptId":"u115"},
+      "1280f998f2d04f8aa0d8dc35573a3cdd":{
+        "scriptId":"u116"},
+      "16cc2adbcf2940a0aad13eeb6b53282c":{
+        "scriptId":"u117"},
+      "64a8fdb7a9a34248bc241cbc91ce0c7a":{
+        "scriptId":"u118"},
+      "58f6c6394e114753ba0c0ae7a6e5090b":{
+        "scriptId":"u119"},
+      "ea84537519bc4486b8a7ca2b8604d2c2":{
+        "scriptId":"u120"},
+      "ba085819eab94a86b859e873f969b980":{
+        "scriptId":"u121"},
+      "06b1a86f508f4e3f831a335ab0ffe1bc":{
+        "scriptId":"u122"},
+      "6e7964e738dc4151bfd93abb71eaea93":{
+        "scriptId":"u123"},
+      "058cf22187a144d1b76146fa1eacb449":{
+        "scriptId":"u124"},
+      "0365c94b3b00425fa78166849477c329":{
+        "scriptId":"u125"},
+      "944f06774f164b0f954c9e04575204cf":{
+        "scriptId":"u126"},
+      "2d4c59deb5404ff09bb88a511b717221":{
+        "scriptId":"u127"},
+      "5941129bc3b1449d98f6b27ff12e3160":{
+        "scriptId":"u128"},
+      "c00a1c2ab7de480494e0b19a54e4e115":{
+        "scriptId":"u129"},
+      "0aeca3ac19474e41a1477c7c6593b8c3":{
+        "scriptId":"u130"},
+      "7cbc05df046b41fd83985a3f20b9e166":{
+        "scriptId":"u131"},
+      "46e7ce1e8ed742339a32a263e20c9442":{
+        "scriptId":"u132"},
+      "0e66f7ebfa75422fadfb13a16d634f01":{
+        "scriptId":"u133"},
+      "9776fb67ac9044d6a2fb1d04a274507b":{
+        "scriptId":"u134"},
+      "4c346bd0295447f0b8eace95d2fe93a9":{
+        "scriptId":"u135"},
+      "e4ff80c11fe0450fb5da48494764b140":{
+        "scriptId":"u136"},
+      "12f5c50826b14befa87287ec53149867":{
+        "scriptId":"u137"},
+      "b55370364ce44a92b00bc5fa11a07b7e":{
+        "scriptId":"u138"},
+      "70b3778df93e420bb1aae856b3db0ff9":{
+        "scriptId":"u139"},
+      "667a020d5dce45f9a9f0c16ab9e60796":{
+        "scriptId":"u140"},
+      "4a034f02a72f4ef489b9dca38658cd87":{
+        "scriptId":"u141"},
+      "e0b76e8d0bd842a387c278c81c3d9034":{
+        "scriptId":"u142"},
+      "17f412a5ba7b4b71ab9bd41c724f6545":{
+        "scriptId":"u143"},
+      "9b6068a8e3b84d0bb13dc8bd9f4cbb30":{
+        "scriptId":"u144"},
+      "decfcc1ba45940fdaf32cf21c56f8a4c":{
+        "scriptId":"u145"},
+      "19d31a9432674577ae681188d8483963":{
+        "scriptId":"u146"},
+      "6add2bf964114524ac23d45857d872e7":{
+        "scriptId":"u147"},
+      "203acacd818246f59a41417425b994d8":{
+        "scriptId":"u148"},
+      "9e197f744f2c46009c3269a15dbeeb26":{
+        "scriptId":"u149"},
+      "6e018840b8cf4b8f8b7feb2a3c85474c":{
+        "scriptId":"u150"},
+      "cb61210da8f241b8831f923f714a281c":{
+        "scriptId":"u151"},
+      "f4774e863ae74419a922d3d361bb87e0":{
+        "scriptId":"u152"},
+      "61588e379eff47deaad48e3adec59894":{
+        "scriptId":"u153"},
+      "93817ab3cab04d42aeb2a40c62d3cc70":{
+        "scriptId":"u154"},
+      "d1c26e2e1cb3430cb1f3105ac5c71803":{
+        "scriptId":"u155"},
+      "0e15adadc52d4fd48f819f5b605c397b":{
+        "scriptId":"u156"},
+      "53e89319052a4cada428c87b6a7c3fbb":{
+        "scriptId":"u157"}}}});
