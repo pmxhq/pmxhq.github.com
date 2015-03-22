@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"登录.html",
-  "generationDate":new Date(1426993147146.15),
+  "generationDate":new Date(1427013123976.95),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -412,10 +412,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 **找回登录密码",
+                      "description":"在 当前窗口 打开 找回登录密码",
                       "target":{
                         "targetType":"page",
-                        "url":"__找回登录密码.html",
+                        "url":"找回登录密码.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -562,10 +562,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 **注册",
+                      "description":"在 当前窗口 打开 注册",
                       "target":{
                         "targetType":"page",
-                        "url":"__注册.html",
+                        "url":"注册.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -652,7 +652,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__注册/u97.png"}},
+            "normal~":"images/注册/u97.png"}},
 {
           "id":"8e7f1ccef5974efba4110993976da5be",
           "label":"",
@@ -732,7 +732,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u89.png"}},
+            "normal~":"images/首页（登陆后）/u89.png"}},
 {
           "id":"b9a3a2cfae624d55a324b1210b815afb",
           "label":"",
@@ -1249,7 +1249,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u112.png"}},
+            "normal~":"images/首页（登陆后）/u112.png"}},
 {
           "id":"cd16147688934f18847b842d784dd759",
           "label":"",
@@ -1304,7 +1304,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u114.png"}},
+            "normal~":"images/首页（登陆后）/u114.png"}},
 {
           "id":"4913d1ca831243279b8408b601cb9068",
           "label":"",
@@ -1326,7 +1326,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/____首页（登陆后）/u116_line.png"}},
+            "line~":"images/首页（登陆后）/u116_line.png"}},
 {
           "id":"c4b527dd440e492d89fffa5f461429f3",
           "label":"",
@@ -1348,7 +1348,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/____首页（登陆后）/u116_line.png"}},
+            "line~":"images/首页（登陆后）/u116_line.png"}},
 {
           "id":"a2d0ceea021c46a8b979c1dffddeab1d",
           "label":"",
@@ -1383,7 +1383,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__注册/u0.png"}},
+            "normal~":"images/注册/u0.png"}},
 {
           "id":"760ffec38cdb430089963dca812ee02a",
           "label":"",
@@ -1418,7 +1418,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__注册/u2.png"}},
+            "normal~":"images/注册/u2.png"}},
 {
           "id":"56b4192711154eee8118c6eab5e477c2",
           "label":"",
@@ -1440,7 +1440,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/__注册/u4_line.png"}},
+            "line~":"images/注册/u4_line.png"}},
 {
           "id":"31ebe994e94d49f3a026c027d0e176be",
           "label":"",
@@ -1557,7 +1557,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u255.png"}},
+            "normal~":"images/首页（登陆后）/u255.png"}},
 {
           "id":"1f6764047b34407a9d4b5dfbabc882e4",
           "label":"",
@@ -1610,7 +1610,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u257.png"}},
+            "normal~":"images/首页（登陆后）/u257.png"}},
 {
           "id":"231194f7bd1442c586399712f258ab9e",
           "label":"",
@@ -1798,7 +1798,7 @@
                                     "options":{
                                       "showType":"none"}}}]}]}]}},
                   "images":{
-                    "normal~":"images/____首页（登陆后）/u227.png"}},
+                    "normal~":"images/首页（登陆后）/u227.png"}},
 {
                   "id":"ae51446a31ff47c9b936e094fda049d1",
                   "label":"",
@@ -1839,7 +1839,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/____首页（登陆后）/u229.png"}}]},
+                    "normal~":"images/首页（登陆后）/u229.png"}}]},
 {
               "id":"ac42476b68fd4515854f8314922c614b",
               "label":"状态2",
@@ -1908,7 +1908,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/____首页（登陆后）/u232.png"}},
+                    "normal~":"images/首页（登陆后）/u232.png"}},
 {
                   "id":"2a13bd9989214833a1a5d79270ea6f5d",
                   "label":"",
@@ -2018,7 +2018,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/____首页（登陆后）/u236.png"}},
+                    "normal~":"images/首页（登陆后）/u236.png"}},
 {
                   "id":"375d6ae5b58945159e559537ded522b0",
                   "label":"",
@@ -2042,7 +2042,7 @@
                   "images":{
                     "start~":"resources/images/transparent.gif",
                     "end~":"resources/images/transparent.gif",
-                    "line~":"images/____首页（登陆后）/u238_line.png"}},
+                    "line~":"images/首页（登陆后）/u238_line.png"}},
 {
                   "id":"5e9fcc97abcd4d67ac24f4ef8d94eec9",
                   "label":"",
@@ -2242,7 +2242,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/____首页（登陆后）/u236.png"}}]}]},
+                    "normal~":"images/首页（登陆后）/u236.png"}}]}]},
 {
           "id":"161bd10aab9f483aa0d24e466bc819af",
           "label":"",
@@ -2718,10 +2718,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 ****首页（登陆后）",
+                      "description":"在 当前窗口 打开 首页（登陆后）",
                       "target":{
                         "targetType":"page",
-                        "url":"____首页（登陆后）.html",
+                        "url":"首页（登陆后）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -2780,10 +2780,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 新窗口/标签页 打开 ***按天配资",
+                      "description":"在 新窗口/标签页 打开 按天配资",
                       "target":{
                         "targetType":"page",
-                        "url":"___按天配资.html",
+                        "url":"按天配资.html",
                         "includeVariables":true},
                       "linkType":"new"}]}]}},
           "tabbable":true,
@@ -2842,10 +2842,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 新窗口/标签页 打开 ***按月配资",
+                      "description":"在 新窗口/标签页 打开 按月配资",
                       "target":{
                         "targetType":"page",
-                        "url":"___按月配资.html",
+                        "url":"按月配资.html",
                         "includeVariables":true},
                       "linkType":"new"}]}]}},
           "tabbable":true,
@@ -3099,8 +3099,8 @@
                                         "showType":"none"}}}]}]}]}},
                     "tabbable":true,
                     "images":{
-                      "normal~":"images/__注册/u129.png",
-                      "mouseOver~":"images/__注册/u129_mouseOver.png"}},
+                      "normal~":"images/注册/u129.png",
+                      "mouseOver~":"images/注册/u129_mouseOver.png"}},
 {
                     "id":"34c8b4cc62ec4739b1bdef895bd5630b",
                     "label":"",
@@ -3176,8 +3176,8 @@
                                 "linkType":"current"}]}]}},
                     "tabbable":true,
                     "images":{
-                      "normal~":"images/__注册/u129.png",
-                      "mouseOver~":"images/__注册/u129_mouseOver.png"}},
+                      "normal~":"images/注册/u129.png",
+                      "mouseOver~":"images/注册/u129_mouseOver.png"}},
 {
                     "id":"52c7f3b78c36492eb0d9d4804a95cd7b",
                     "label":"",
@@ -3251,8 +3251,8 @@
                                   "direction":"vertical"}}]}]}},
                     "tabbable":true,
                     "images":{
-                      "normal~":"images/__注册/u129.png",
-                      "mouseOver~":"images/__注册/u129_mouseOver.png"}}]}]},
+                      "normal~":"images/注册/u129.png",
+                      "mouseOver~":"images/注册/u129_mouseOver.png"}}]}]},
 {
             "id":"6a17761dc4914877b42b8851a98a1f66",
             "label":"",
@@ -3324,7 +3324,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/__注册/u137.png"}},
+                      "normal~":"images/注册/u137.png"}},
 {
                     "id":"547ec2ce5b6b4ffd9dfa045f693bdd50",
                     "label":"",
@@ -3373,7 +3373,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/__注册/u139.png"}},
+                      "normal~":"images/注册/u139.png"}},
 {
                     "id":"240e24bb4d7e46c392b89d19f61fdbfa",
                     "label":"",
@@ -3408,7 +3408,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/__注册/u141.png"}},
+                      "normal~":"images/注册/u141.png"}},
 {
                     "id":"a679c7c053b04cc591556b8111abb125",
                     "label":"",
@@ -3455,7 +3455,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/__注册/u143.png"}},
+                      "normal~":"images/注册/u143.png"}},
 {
                     "id":"53225cba791d4f48926d763ff7be72cb",
                     "label":"",
@@ -3490,7 +3490,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/__注册/u145.png"}},
+                      "normal~":"images/注册/u145.png"}},
 {
                     "id":"17b2fea9e5084a5aad01b0e35647c6fc",
                     "label":"",
@@ -3537,7 +3537,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/__注册/u147.png"}},
+                      "normal~":"images/注册/u147.png"}},
 {
                     "id":"f4d1266300834e90b192fc16f3ce1b1c",
                     "label":"",
@@ -3642,7 +3642,7 @@
                         "adaptiveStyles":{
 }}],
                     "images":{
-                      "normal~":"images/__注册/u152.png"}}]}]}]}}},
+                      "normal~":"images/注册/u152.png"}}]}]}]}}},
   "objectPaths":{
     "c7b2efc41e5d4892bc3dd0f101753982":{
       "scriptId":"u0"},

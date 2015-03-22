@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"操盘演示.html",
-  "generationDate":new Date(1426993157865.76),
+  "generationDate":new Date(1427013135440.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -2126,8 +2126,8 @@
                               "objectsToFades":[]}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/__注册/u129.png",
-                    "mouseOver~":"images/__注册/u129_mouseOver.png"}},
+                    "normal~":"images/注册/u129.png",
+                    "mouseOver~":"images/注册/u129_mouseOver.png"}},
 {
                   "id":"cc61fd798ba74133a071cd16632cfeba",
                   "label":"",
@@ -2203,8 +2203,8 @@
                               "linkType":"current"}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/__注册/u129.png",
-                    "mouseOver~":"images/__注册/u129_mouseOver.png"}},
+                    "normal~":"images/注册/u129.png",
+                    "mouseOver~":"images/注册/u129_mouseOver.png"}},
 {
                   "id":"f3b699f004af405791642e243bc5e558",
                   "label":"",
@@ -2278,8 +2278,8 @@
                                 "direction":"vertical"}}]}]}},
                   "tabbable":true,
                   "images":{
-                    "normal~":"images/__注册/u129.png",
-                    "mouseOver~":"images/__注册/u129_mouseOver.png"}}]}]},
+                    "normal~":"images/注册/u129.png",
+                    "mouseOver~":"images/注册/u129_mouseOver.png"}}]}]},
 {
           "id":"f327356681fd4b99bdf1177499676c81",
           "label":"",
@@ -2370,7 +2370,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__注册/u0.png"}},
+            "normal~":"images/注册/u0.png"}},
 {
           "id":"2da424bd00474cd79e8dd19c7f86f14d",
           "label":"",
@@ -2405,7 +2405,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__注册/u2.png"}},
+            "normal~":"images/注册/u2.png"}},
 {
           "id":"54000c8c9ef849fba2ee96a7894e2456",
           "label":"",
@@ -2427,7 +2427,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/__注册/u4_line.png"}},
+            "line~":"images/注册/u4_line.png"}},
 {
           "id":"25de9380f39c4066993f329cecfe7d2b",
           "label":"",
@@ -2544,7 +2544,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u255.png"}},
+            "normal~":"images/首页（登陆后）/u255.png"}},
 {
           "id":"d9ef5c3146eb4d79a5f2449258265757",
           "label":"",
@@ -2597,7 +2597,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u257.png"}},
+            "normal~":"images/首页（登陆后）/u257.png"}},
 {
           "id":"3d8cee17b0d04c469662cf45d956410a",
           "label":"我的账号",
@@ -2691,7 +2691,7 @@
                                     "options":{
                                       "showType":"none"}}}]}]}]}},
                   "images":{
-                    "normal~":"images/____首页（登陆后）/u227.png"}},
+                    "normal~":"images/首页（登陆后）/u227.png"}},
 {
                   "id":"0285507942874328aa9b509383c93ee2",
                   "label":"",
@@ -2732,7 +2732,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/____首页（登陆后）/u229.png"}}]},
+                    "normal~":"images/首页（登陆后）/u229.png"}}]},
 {
               "id":"49586be60bf74e79926859ad83afc249",
               "label":"状态2",
@@ -2801,7 +2801,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/____首页（登陆后）/u232.png"}},
+                    "normal~":"images/首页（登陆后）/u232.png"}},
 {
                   "id":"bd6e8f6eb58a45219cfb09892974d6f6",
                   "label":"",
@@ -2911,7 +2911,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/____首页（登陆后）/u236.png"}},
+                    "normal~":"images/首页（登陆后）/u236.png"}},
 {
                   "id":"b66271199d964177bc23f9f6cdaae06a",
                   "label":"",
@@ -2935,7 +2935,7 @@
                   "images":{
                     "start~":"resources/images/transparent.gif",
                     "end~":"resources/images/transparent.gif",
-                    "line~":"images/____首页（登陆后）/u238_line.png"}},
+                    "line~":"images/首页（登陆后）/u238_line.png"}},
 {
                   "id":"94801094b1c8403587608ef11a3e5740",
                   "label":"",
@@ -3135,7 +3135,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/____首页（登陆后）/u236.png"}}]}]},
+                    "normal~":"images/首页（登陆后）/u236.png"}}]}]},
 {
           "id":"346e871d9c6a4e13b836edb277f94e53",
           "label":"",
@@ -3410,7 +3410,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__注册/u97.png"}},
+            "normal~":"images/注册/u97.png"}},
 {
           "id":"b5d74dce37a844e584fae91d1bed9b23",
           "label":"",
@@ -3490,7 +3490,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u89.png"}},
+            "normal~":"images/首页（登陆后）/u89.png"}},
 {
           "id":"38d805e3b59c4683895bcc85dd265350",
           "label":"",
@@ -4039,7 +4039,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u112.png"}},
+            "normal~":"images/首页（登陆后）/u112.png"}},
 {
           "id":"5f4ff4df85814599bd6f4ae84bf498d9",
           "label":"",
@@ -4094,7 +4094,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u114.png"}},
+            "normal~":"images/首页（登陆后）/u114.png"}},
 {
           "id":"af0efcf895a14a0293faad499f1f5250",
           "label":"",
@@ -4116,7 +4116,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/____首页（登陆后）/u116_line.png"}},
+            "line~":"images/首页（登陆后）/u116_line.png"}},
 {
           "id":"fc800ae4c55d4b1cad4363fee78380fc",
           "label":"",
@@ -4138,7 +4138,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/____首页（登陆后）/u116_line.png"}},
+            "line~":"images/首页（登陆后）/u116_line.png"}},
 {
           "id":"05628861210b45559dbf7f769cf62c72",
           "label":"",
@@ -4192,10 +4192,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 ****首页（登陆后）",
+                      "description":"在 当前窗口 打开 首页（登陆后）",
                       "target":{
                         "targetType":"page",
-                        "url":"____首页（登陆后）.html",
+                        "url":"首页（登陆后）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -4254,10 +4254,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 新窗口/标签页 打开 ***按天配资",
+                      "description":"在 新窗口/标签页 打开 按天配资",
                       "target":{
                         "targetType":"page",
-                        "url":"___按天配资.html",
+                        "url":"按天配资.html",
                         "includeVariables":true},
                       "linkType":"new"}]}]}},
           "tabbable":true,
@@ -4316,10 +4316,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 新窗口/标签页 打开 ***按月配资",
+                      "description":"在 新窗口/标签页 打开 按月配资",
                       "target":{
                         "targetType":"page",
-                        "url":"___按月配资.html",
+                        "url":"按月配资.html",
                         "includeVariables":true},
                       "linkType":"new"}]}]}},
           "tabbable":true,
@@ -4470,7 +4470,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/___按天配资/u25_line.png"}},
+            "line~":"images/按天配资/u25_line.png"}},
 {
           "id":"a07808d7090e4ea89ea5545fc6573be6",
           "label":"",
@@ -4524,10 +4524,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 新窗口/标签页 打开 ***个人中心",
+                      "description":"在 新窗口/标签页 打开 个人中心",
                       "target":{
                         "targetType":"page",
-                        "url":"___个人中心.html",
+                        "url":"个人中心.html",
                         "includeVariables":true},
                       "linkType":"new"}]}]}},
           "tabbable":true,

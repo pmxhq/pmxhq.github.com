@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"充值成功返回页.html",
-  "generationDate":new Date(1426993160548.92),
+  "generationDate":new Date(1427013138745.79),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -110,7 +110,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u10.png"}},
+            "normal~":"images/首页（登陆后）/u10.png"}},
 {
           "id":"130617aec25349d085927007f0a17bd4",
           "label":"",
@@ -155,7 +155,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/___按天配资/u4.png"}},
+            "normal~":"images/按天配资/u4.png"}},
 {
           "id":"fb4498f006f0440fa8cdedbe0e1b8cdb",
           "label":"",
@@ -199,15 +199,15 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 ****首页（登陆后）",
+                      "description":"在 当前窗口 打开 首页（登陆后）",
                       "target":{
                         "targetType":"page",
-                        "url":"____首页（登陆后）.html",
+                        "url":"首页（登陆后）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
           "images":{
-            "normal~":"images/____首页（登陆后）/u18.png"}},
+            "normal~":"images/首页（登陆后）/u18.png"}},
 {
           "id":"283562a13e714399bcb143bdce3a9561",
           "label":"",
@@ -304,10 +304,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 ****首页（登陆后）",
+                      "description":"在 当前窗口 打开 首页（登陆后）",
                       "target":{
                         "targetType":"page",
-                        "url":"____首页（登陆后）.html",
+                        "url":"首页（登陆后）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -401,7 +401,7 @@
                               "description":"显示/隐藏部件",
                               "objectsToFades":[]}]}]}},
                   "images":{
-                    "normal~":"images/____首页（登陆后）/u227.png"}},
+                    "normal~":"images/首页（登陆后）/u227.png"}},
 {
                   "id":"4cb5dfecae0b40d9be1e3754ae4ea413",
                   "label":"",
@@ -442,7 +442,7 @@
                       "adaptiveStyles":{
 }}],
                   "images":{
-                    "normal~":"images/____首页（登陆后）/u229.png"}}]},
+                    "normal~":"images/首页（登陆后）/u229.png"}}]},
 {
               "id":"6d4b1623fed04a35aef0e5e86da2fb84",
               "label":"状态2",
@@ -480,7 +480,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u255.png"}},
+            "normal~":"images/首页（登陆后）/u255.png"}},
 {
           "id":"944c845114c64d38a651a364e70f5a24",
           "label":"",
@@ -533,7 +533,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u257.png"}},
+            "normal~":"images/首页（登陆后）/u257.png"}},
 {
           "id":"cfe89b179a044bd5ab4d2cbb6712f7ec",
           "label":"",
@@ -649,10 +649,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 ****首页（登陆后）",
+                      "description":"在 当前窗口 打开 首页（登陆后）",
                       "target":{
                         "targetType":"page",
-                        "url":"____首页（登陆后）.html",
+                        "url":"首页（登陆后）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -707,10 +707,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 新窗口/标签页 打开 ***个人中心",
+                      "description":"在 新窗口/标签页 打开 个人中心",
                       "target":{
                         "targetType":"page",
-                        "url":"___个人中心.html",
+                        "url":"个人中心.html",
                         "includeVariables":true},
                       "linkType":"new"}]}]}},
           "tabbable":true,
@@ -765,10 +765,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 新窗口/标签页 打开 ***按天配资",
+                      "description":"在 新窗口/标签页 打开 按天配资",
                       "target":{
                         "targetType":"page",
-                        "url":"___按天配资.html",
+                        "url":"按天配资.html",
                         "includeVariables":true},
                       "linkType":"new"}]}]}},
           "tabbable":true,
@@ -827,10 +827,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 新窗口/标签页 打开 ***按天配资",
+                      "description":"在 新窗口/标签页 打开 按天配资",
                       "target":{
                         "targetType":"page",
-                        "url":"___按天配资.html",
+                        "url":"按天配资.html",
                         "includeVariables":true},
                       "linkType":"new"}]}]}},
           "tabbable":true,
@@ -889,10 +889,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 新窗口/标签页 打开 ***按月配资",
+                      "description":"在 新窗口/标签页 打开 按月配资",
                       "target":{
                         "targetType":"page",
-                        "url":"___按月配资.html",
+                        "url":"按月配资.html",
                         "includeVariables":true},
                       "linkType":"new"}]}]}},
           "tabbable":true,
@@ -1043,7 +1043,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/___按天配资/u25_line.png"}},
+            "line~":"images/按天配资/u25_line.png"}},
 {
           "id":"e315021b70734ae8b04ecbac7c72b9e3",
           "label":"",
@@ -1097,10 +1097,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 新窗口/标签页 打开 ***个人中心",
+                      "description":"在 新窗口/标签页 打开 个人中心",
                       "target":{
                         "targetType":"page",
-                        "url":"___个人中心.html",
+                        "url":"个人中心.html",
                         "includeVariables":true},
                       "linkType":"new"}]}]}},
           "tabbable":true,

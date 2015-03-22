@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"登录页.html",
-  "generationDate":new Date(1426993147357.16),
+  "generationDate":new Date(1427013124213.96),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
@@ -108,7 +108,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__注册/u0.png"}},
+            "normal~":"images/注册/u0.png"}},
 {
           "id":"15a4f6ca52d345dab605d97226401c6e",
           "label":"",
@@ -143,7 +143,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/__注册/u2.png"}},
+            "normal~":"images/注册/u2.png"}},
 {
           "id":"246e9dc02ea546cda9efe2ae3d9e29d4",
           "label":"",
@@ -260,7 +260,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u255.png"}},
+            "normal~":"images/首页（登陆后）/u255.png"}},
 {
           "id":"0963de1e3cc44fb9b076787e61e838f2",
           "label":"",
@@ -313,7 +313,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u257.png"}},
+            "normal~":"images/首页（登陆后）/u257.png"}},
 {
           "id":"19cad6aa972746d0a219d7dea35950b1",
           "label":"",
@@ -461,10 +461,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 ****首页（登陆后）",
+                      "description":"在 当前窗口 打开 首页（登陆后）",
                       "target":{
                         "targetType":"page",
-                        "url":"____首页（登陆后）.html",
+                        "url":"首页（登陆后）.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -523,10 +523,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 新窗口/标签页 打开 ***按天配资",
+                      "description":"在 新窗口/标签页 打开 按天配资",
                       "target":{
                         "targetType":"page",
-                        "url":"___按天配资.html",
+                        "url":"按天配资.html",
                         "includeVariables":true},
                       "linkType":"new"}]}]}},
           "tabbable":true,
@@ -585,10 +585,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 新窗口/标签页 打开 ***按月配资",
+                      "description":"在 新窗口/标签页 打开 按月配资",
                       "target":{
                         "targetType":"page",
-                        "url":"___按月配资.html",
+                        "url":"按月配资.html",
                         "includeVariables":true},
                       "linkType":"new"}]}]}},
           "tabbable":true,
@@ -832,7 +832,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u85.png"}},
+            "normal~":"images/首页（登陆后）/u85.png"}},
 {
           "id":"090a77419f864595a8fae98467d7587c",
           "label":"",
@@ -912,7 +912,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u89.png"}},
+            "normal~":"images/首页（登陆后）/u89.png"}},
 {
           "id":"5932a3f1fd1f4a4ab556727d58d3c66a",
           "label":"",
@@ -1014,7 +1014,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/____首页（登陆后）/u95_line.png"}},
+            "line~":"images/首页（登陆后）/u95_line.png"}},
 {
           "id":"687fc2599fd2485b89c5c719b16006e2",
           "label":"",
@@ -1391,7 +1391,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u112.png"}},
+            "normal~":"images/首页（登陆后）/u112.png"}},
 {
           "id":"97d5850629f54976bb21424ebb489afa",
           "label":"",
@@ -1446,7 +1446,7 @@
               "adaptiveStyles":{
 }}],
           "images":{
-            "normal~":"images/____首页（登陆后）/u114.png"}},
+            "normal~":"images/首页（登陆后）/u114.png"}},
 {
           "id":"0619005279614dada4de573b6fd48271",
           "label":"",
@@ -1468,7 +1468,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/____首页（登陆后）/u116_line.png"}},
+            "line~":"images/首页（登陆后）/u116_line.png"}},
 {
           "id":"7d01f55c81864c9192064caa8c89277a",
           "label":"",
@@ -1490,7 +1490,7 @@
           "images":{
             "start~":"resources/images/transparent.gif",
             "end~":"resources/images/transparent.gif",
-            "line~":"images/____首页（登陆后）/u116_line.png"}},
+            "line~":"images/首页（登陆后）/u116_line.png"}},
 {
           "id":"fbbcd1f60a5c468db9941f19a91ca46b",
           "label":"",
@@ -1747,10 +1747,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 **找回登录密码",
+                      "description":"在 当前窗口 打开 找回登录密码",
                       "target":{
                         "targetType":"page",
-                        "url":"__找回登录密码.html",
+                        "url":"找回登录密码.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
@@ -1805,10 +1805,10 @@
                   "isNewIfGroup":false,
                   "actions":[{
                       "action":"linkWindow",
-                      "description":"在 当前窗口 打开 **注册",
+                      "description":"在 当前窗口 打开 注册",
                       "target":{
                         "targetType":"page",
-                        "url":"__注册.html",
+                        "url":"注册.html",
                         "includeVariables":true},
                       "linkType":"current"}]}]}},
           "tabbable":true,
