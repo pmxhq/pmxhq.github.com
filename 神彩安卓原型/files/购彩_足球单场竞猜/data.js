@@ -1,0 +1,9303 @@
+﻿$axure.loadCurrentPage({
+  "url":"购彩_足球单场竞猜.html",
+  "generationDate":new Date(1427077131037.44),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"2720d6a99d204e8babde1ec297bed9dc",
+    "type":"Axure:Page",
+    "name":"购彩_足球单场竞猜",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"9595aa0c64a04cc3bdf6aa96453690ee",
+      "pageAlignment":"center",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFEDEDED},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"492263fbb03444ae807d9d51d6862275",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":260,
+              "y":50},
+            "size":{
+              "width":360,
+              "height":640},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e03cbb981d6a4b7d8ee2644f77a3555a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":260,
+                  "y":50},
+                "size":{
+                  "width":360,
+                  "height":640},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/首页/u0.png"}},
+{
+          "id":"9e6285520a4344b6aab3595e4b30df45",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":260,
+              "y":50}},
+          "adaptiveStyles":{
+},
+          "masterId":"1f6fdf1cbae8461b8d4107a82cc7257a"},
+{
+          "id":"21a4829c74fe4e29911ac45c2c62dafa",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":260,
+              "y":70}},
+          "adaptiveStyles":{
+},
+          "masterId":"71e5b62863c34b2cbd021a8619b34788"},
+{
+          "id":"d3c4045fcdc540afa722af2db5362917",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontWeight":"200",
+            "horizontalAlignment":"left",
+            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":260,
+              "y":118},
+            "size":{
+              "width":360,
+              "height":32},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e7fa39b8e13c4b359e5b276de5d1379b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontWeight":"200",
+                "horizontalAlignment":"left",
+                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":260,
+                  "y":118},
+                "size":{
+                  "width":360,
+                  "height":32},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购彩_足球单场竞猜/u8.png"}},
+{
+          "id":"5b39080a1fc54a6cba9a7c738517dd99",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"20px",
+            "fontWeight":"200",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":289,
+              "y":85},
+            "size":{
+              "width":109,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"67bb81fac81644fb8377876cfe642f4c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"20px",
+                "fontWeight":"200",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":289,
+                  "y":85},
+                "size":{
+                  "width":109,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b4648542d00d45538dbf840d87e69e54",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"20px",
+            "fontWeight":"200",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":455,
+              "y":78},
+            "size":{
+              "width":51,
+              "height":32},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"62713eed6a4a492abdf840ae55ba0d5b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"20px",
+                "fontWeight":"200",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":455,
+                  "y":78},
+                "size":{
+                  "width":51,
+                  "height":32},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"b5fd21fb9e9e433290e5fc37b4e3d782",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":268,
+              "y":88},
+            "size":{
+              "width":14,
+              "height":3},
+            "rotation":"300",
+            "textRotation":"300",
+            "borderWidth":"-1",
+            "cornerRadiusTopLeft":"100"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"cbf9de9d9dcf41d3a54964a06edc18f1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":268,
+                  "y":88},
+                "size":{
+                  "width":14,
+                  "height":3},
+                "rotation":"300",
+                "textRotation":"300",
+                "borderWidth":"-1",
+                "cornerRadiusTopLeft":"100"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购彩_足球单场竞猜/u14.png"}},
+{
+          "id":"286bf37e5ad844a7be796c08e34c9446",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":268,
+              "y":98},
+            "size":{
+              "width":14,
+              "height":3},
+            "rotation":"60",
+            "textRotation":"60",
+            "borderWidth":"-1",
+            "cornerRadiusTopLeft":"100"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"08543917755b4dbda23b2b1e517311bd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":268,
+                  "y":98},
+                "size":{
+                  "width":14,
+                  "height":3},
+                "rotation":"60",
+                "textRotation":"60",
+                "borderWidth":"-1",
+                "cornerRadiusTopLeft":"100"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购彩_足球单场竞猜/u14.png"}},
+{
+          "id":"dcddaaa39c3c4c2db2944a4799823bc8",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":260,
+              "y":149}},
+          "adaptiveStyles":{
+},
+          "masterId":"9ab1820aec5c4381aba7c287cd43edb0"},
+{
+          "id":"9041734013b34d76b1c55a4f1586d644",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":260,
+              "y":642}},
+          "adaptiveStyles":{
+},
+          "masterId":"6b9b8e0bafc741f1a974aedf2291e60a"},
+{
+          "id":"6be3c3c8122643f1a12b533ca204fd60",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFF666666},
+            "location":{
+              "x":260,
+              "y":590},
+            "size":{
+              "width":360,
+              "height":52},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5c9320263e8f48739f5f0cb424a59879",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF666666},
+                "location":{
+                  "x":260,
+                  "y":590},
+                "size":{
+                  "width":360,
+                  "height":52},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购彩_足球单场竞猜/u26.png"}},
+{
+          "id":"5ff82728fa10427a851ff960dcf9f330",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":360,
+              "y":602},
+            "size":{
+              "width":171,
+              "height":32},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"99487a85bb0547dba52c9c164f52491a",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":360,
+                  "y":602},
+                "size":{
+                  "width":171,
+                  "height":32},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"288c97c482e943829c23ddae5bd5766c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"16px",
+            "fontWeight":"200",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":270,
+              "y":602},
+            "size":{
+              "width":45,
+              "height":32},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d629a116982e4bf895c0be030f487c64",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"16px",
+                "fontWeight":"200",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":270,
+                  "y":602},
+                "size":{
+                  "width":45,
+                  "height":32},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"1034f1dcb23b4c01bc0abb115a59a651",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF3399CC,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0x383399CC}},
+              "mouseDown":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0x8C3399CC}},
+              "selected":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC}},
+              "disabled":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0x7F000000,
+                  "opacity":0.498039215803146},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0x7F000000}}},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":260,
+              "y":70},
+            "size":{
+              "width":150,
+              "height":48},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF3399CC},
+            "cornerRadiusTopLeft":"10"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9bf59241cbb54d8aba200d054b73990f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0x383399CC}},
+                  "mouseDown":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0x8C3399CC}},
+                  "selected":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC}},
+                  "disabled":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0x7F000000,
+                      "opacity":0.498039215803146},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0x7F000000}}},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":260,
+                  "y":70},
+                "size":{
+                  "width":150,
+                  "height":48},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC},
+                "cornerRadiusTopLeft":"10"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif",
+            "selected~":"images/购彩_足球单场竞猜/u32_selected.png",
+            "mouseOver~":"images/购彩_足球单场竞猜/u32_mouseOver.png",
+            "mouseDown~":"images/购彩_足球单场竞猜/u32_mouseDown.png",
+            "disabled~":"resources/images/transparent.gif"}},
+{
+          "id":"6c83584e6e264ac6b02dd99628dbc09f",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"20px",
+            "fontWeight":"200",
+            "horizontalAlignment":"right",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":521,
+              "y":84},
+            "size":{
+              "width":81,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c7f80bf809f2495da1e4fd17c2879586",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"20px",
+                "fontWeight":"200",
+                "horizontalAlignment":"right",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":521,
+                  "y":84},
+                "size":{
+                  "width":81,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"96cfae78d0a245348e8d274511577ae3",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"20px",
+            "location":{
+              "x":602,
+              "y":81},
+            "size":{
+              "width":10,
+              "height":32},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3659a0b690bf4a028e8a2a6cb6781c17",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"20px",
+                "location":{
+                  "x":602,
+                  "y":81},
+                "size":{
+                  "width":10,
+                  "height":32},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购彩_足球单场竞猜/u36.png"}},
+{
+          "id":"805ae9d53688469d855c707fcf3d2169",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF3399CC,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0x383399CC}},
+              "mouseDown":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0x8C3399CC}},
+              "selected":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC}},
+              "disabled":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0x7F000000,
+                  "opacity":0.498039215803146},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0x7F000000}}},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":516,
+              "y":70},
+            "size":{
+              "width":104,
+              "height":48},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF3399CC},
+            "cornerRadiusTopLeft":"10"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"79ec40210aa04dc7956cde6a8f272e40",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0x383399CC}},
+                  "mouseDown":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0x8C3399CC}},
+                  "selected":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC}},
+                  "disabled":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0x7F000000,
+                      "opacity":0.498039215803146},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0x7F000000}}},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":516,
+                  "y":70},
+                "size":{
+                  "width":104,
+                  "height":48},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC},
+                "cornerRadiusTopLeft":"10"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"显示 选杯赛",
+                      "objectsToFades":[{
+                          "objectPath":["68e5ce54ccc94640a4940055591b2d94"],
+                          "fadeInfo":{
+                            "fadeType":"show",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif",
+            "selected~":"images/购彩_足球单场竞猜/u38_selected.png",
+            "mouseOver~":"images/购彩_足球单场竞猜/u38_mouseOver.png",
+            "mouseDown~":"images/购彩_足球单场竞猜/u38_mouseDown.png",
+            "disabled~":"resources/images/transparent.gif"}},
+{
+          "id":"001db9b31f42432ab517092f3550ef1a",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF3399CC,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0x383399CC}},
+              "mouseDown":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0x8C3399CC}},
+              "selected":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC}},
+              "disabled":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0x7F000000,
+                  "opacity":0.498039215803146},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0x7F000000}}},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":447,
+              "y":70},
+            "size":{
+              "width":66,
+              "height":48},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF3399CC},
+            "cornerRadiusTopLeft":"10"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"e43016eb3e3f4802a7e8533c31998370",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0x383399CC}},
+                  "mouseDown":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0x8C3399CC}},
+                  "selected":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC}},
+                  "disabled":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0x7F000000,
+                      "opacity":0.498039215803146},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0x7F000000}}},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":447,
+                  "y":70},
+                "size":{
+                  "width":66,
+                  "height":48},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC},
+                "cornerRadiusTopLeft":"10"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 玩法介绍",
+                      "target":{
+                        "targetType":"page",
+                        "url":"玩法介绍.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif",
+            "selected~":"images/购彩_足球单场竞猜/u40_selected.png",
+            "mouseOver~":"images/购彩_足球单场竞猜/u40_mouseOver.png",
+            "mouseDown~":"images/购彩_足球单场竞猜/u40_mouseDown.png",
+            "disabled~":"resources/images/transparent.gif"}},
+{
+          "id":"31434daf6af644748a38638e6d3f9095",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1000,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/移动/u30_line.png"}},
+{
+          "id":"b38f2d4fc6cd4fd294ba293eaec13714",
+          "label":"",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":260,
+              "y":150},
+            "size":{
+              "width":360,
+              "height":440}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"0dd6088a9aec496586480029666b450c",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"93bc94f2bb8d46079d3423b1af128db2",
+                  "label":"移动",
+                  "parentDynamicPanel":"b38f2d4fc6cd4fd294ba293eaec13714",
+                  "type":"dynamicPanel",
+                  "styleType":"dynamicPanel",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":360,
+                      "height":780}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onDrag":{
+                      "description":"OnDrag",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 移动 y 轴拖动",
+                              "objectsToMoves":[{
+                                  "objectPath":["93bc94f2bb8d46079d3423b1af128db2"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]}]}},
+                  "scrollbars":"none",
+                  "fitToContent":false,
+                  "propagate":false,
+                  "diagrams":[{
+                      "id":"cf09e12844ea4b99aa2e3d0c9eee9335",
+                      "label":"State1",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
+                          "id":"8766a93744644258ab5a60302e704fec",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":1},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"4af076b565774462bda58e45d396c56e",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":1},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"544b7f9d3a084d9887f15ed9cad6d392",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":1},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"bb4a6aa775ae497082741e4d6cd39388",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":1},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"14bc81d9ca8b44a9999a150442537527",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":1},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"f630810465524123a52a8a6c0d6d14d3",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":1},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"96e4908897c44911b227b4fc110b757f",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":1},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"3ebe491c2b87416e92a5ca1b35f9b34c",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":1},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"dc1eb0a5e6b2483ea29845ca772368db",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":57},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"96689fabd24240059e31af4a18ba9555",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":57},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"b4c49f131c224b869a3d4eec36ea6bcd",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":57},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"775e01953ec945bc84d6bbc6dd42a25b",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":57},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"b35c381d275348b393380c82e0581c11",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":57},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"1cd95062f54542c8a76a2b56fa3acd0b",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":57},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"e5f29bd7f22f4e42b84dafd8e306f339",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":57},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"cd3b75f8bfdf49aea940c768550875fd",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":57},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"f80271a872ae4326bee7b5bb5b94eec3",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":113},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"2c67dc879b834b93a3df15c604ef752d",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":113},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"a61cb9bc2d3c4b20aebb82c14f37c807",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":113},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"fd316d8333f34f66902d3d53ead0e77b",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":113},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"36d8e3fa39de47eebc3c3b652ca205d9",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":113},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"53483d699edc445b842591f707c1943a",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":113},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"8139618b39a44f8b9ad6ff4ec9c1de4e",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":113},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"51a9b59178f04f6d9302bdb00f7479ea",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":113},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"79b529752e014bf3aaf952f9f9ab975c",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":169},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"fc897240a1ed49928bdf87ac752fc492",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":169},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"fc8b17d9ef3a4c8d9431eef22b4b8f1a",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":169},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"2adfebc93df446158f28f567f2d92d95",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":169},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"52ebc83fdcfa414dbf94c201d5b34619",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":169},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"9f2c7c371cce459f8da8ae575c88c065",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":169},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"5b77a3d26bb14b249ef9c2450b37390b",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":169},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"37d934d786104275b896678f1908dbca",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":169},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"768f96c00b9a467daa952c4424b8c6f9",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":225},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"4300474a46a14d77ae63d9f1ffd311fb",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":225},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"cc0398f16b064aa0b350e6cd87e8f138",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":225},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"1d44113dbd584a84a77e8adb894e2bfd",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":225},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"0649b74aef3249eabb35d987a15d5482",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":225},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"04c1630e5c564d03985fec4b012392ec",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":225},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"64e964d1767d411183f0e8ac0792c4bc",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":225},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"2b2f5851c9cc457fb1393fbddc07f331",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":225},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"953d682066bc416f9d6ffa805dd53ce0",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":281},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"bec1d7672b1644409a9d46840599f17d",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":281},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"7e50223e74034b40827e92d567d0381b",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":281},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"9664e473ff7d4058b226d2f8adf5445d",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":281},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"f9c0f50386404730b0ef60e252bdd5f5",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":281},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"e025e77bd373402db8379d6595c17aed",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":281},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"76a01844732440bbb7ef61c4e6d30142",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":281},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"7118244e400a4373b16f1100352bb5a5",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":281},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"0af138c70c5742a4b8d418655e507d5c",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":337},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"b2db6f176e024e27a19d1500c8174b72",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":337},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"f3b2fb0074d54fec9c0a31f191375899",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":337},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"d9267448862e42bea2c6e0c91dfb37ef",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":337},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"62b9715eb7d74c578d76539f7d7fc8d0",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":337},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"a957426018b44ea18dec21f23e09500f",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":337},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"6a1bda0822764c1f82706b0eefe5f5cc",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":337},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"04b2e112a27644d5aa18db7a8e791a34",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":337},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"deee4138bc5f4201a38147d732ba82d9",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":393},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"3ad80a0aeda4465ca6d27ac8076cb977",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":393},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"d0d96bf7c8384ef9b2712ba14ca317d5",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":393},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"c01df7ec3ffa40298bdca7ecba871192",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":393},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"1701976901cc4b9a8618185899618faa",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":393},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"cadc8254fc3b4bbba1be3ab516c22bca",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":393},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"a441448022024aaa896d67b1f2792689",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":393},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"e370064f0181458fb9125e9b4df9b693",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":393},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"30a3185896f14214b3fdfff550e9b586",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":449},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"3c1af51cf0df43aabbc6b0b1770ac3e6",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":449},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"528d3352f9ed4ba3b5f71297ebb6260b",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":449},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"d8b0680b6b164e6c99f8851d872b6583",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":449},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"3ebdc70f368a41e49ef24e264b8ab3f9",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":449},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"47fdee07c9874448b1d85023ef6029c8",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":449},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"c42783275cbb4a8894a01bae30e55eac",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":449},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"524d9394c78d4020867acce3c3644b84",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":449},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"3108cbfbea86453cb3100b2e0ea48d88",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":505},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"8491a375e1514056a3a480f9d667cfc1",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":505},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"e5fc3d64824e40a2ad9795787f95204c",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":505},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"d5e6a0892c06433087ba709c913333a7",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":505},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"869e9ff0cc134bf9914d3e4b4189b22e",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":505},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"d6501971575c441e8ccbe57839f97f58",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":505},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"51ca2cd3d2084e199b14fd678b5581a1",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":505},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"971dbb9decbc48ec823284fcfd13eefc",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":505},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"c4828f895a794421934423eb5b6ed9df",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"horizontalLine",
+                          "styleType":"horizontalLine",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":0,
+                              "y":547},
+                            "size":{
+                              "width":360,
+                              "height":10},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "images":{
+                            "start~":"resources/images/transparent.gif",
+                            "end~":"resources/images/transparent.gif",
+                            "line~":"images/购彩_足球单场竞猜/u125_line.png"}},
+{
+                          "id":"246d2328ba3d40c6897ada6bff6086d1",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":560},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"8308b31cf4b542dd837483e4ef2d856c",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":560},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"fb2735b1bd4644d7a3902810f0f8ac2f",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":560},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"f31e50977a6b48a888d66dab66d22604",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":560},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"a8526a0fbe5d4d85b2a7b52439620a35",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":560},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"b4cd3f86504948e5826261487481b9a0",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":560},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"aeaf7b0a0aef453a84020ff630cbab3d",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":560},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"3ee449c394824a2392cee251e11f38a2",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":560},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"828670b50b69477b9efa50252d6f3e15",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":616},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"42cb8c29038b4cde854d108015be4f9e",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":616},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"f3569b1bc32b4907b6ed41279d72b692",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":616},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"350c5ee7b0544832b0b54b55fb7be98d",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":616},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"a651b9b2c7b440cf939487c19e523950",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":616},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"666893f6b4f44b7a9dd004f841c39c2b",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":616},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"a12b542df0b144e59eee743fff9b25f1",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":616},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"eb48cf17da0b4f55859d7bc143097525",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":616},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"996ab42b6b5a490bb1e314890d740291",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":672},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"757f12af4f9f4971bb796ec5882f8c9c",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":672},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"37f92e3f1dc54904968382bb418c4cd3",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":672},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"6ae42b7908644abaa088de6e976ba79d",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":672},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"06567a11bda84ba3aad9d8c986b90d72",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":672},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"572eb4a5fa0c4b29811a80e27ce63cb1",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":672},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"b1ea5b31cf634c72a2276d31e6d1839a",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":672},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"b93f61538a9242709340b295396cc9c9",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":672},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"37874811ae514a69bba8f7e5aaa1f553",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":728},
+                            "size":{
+                              "width":90,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"9c755525ca374fb5b97264f1f3526c09",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":728},
+                                "size":{
+                                  "width":90,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u45.png"}},
+{
+                          "id":"cfdea6b7102a459f95f1cd3c35272f31",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":90,
+                              "y":728},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"3d890f232b26485f8c868cb51fe64010",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":90,
+                                  "y":728},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"af1fc5ad936243c0b7321a69c042b2ab",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":189,
+                              "y":728},
+                            "size":{
+                              "width":73,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"a24ccf777b6a47859bc2056e4cdc5ae0",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":189,
+                                  "y":728},
+                                "size":{
+                                  "width":73,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u49.png",
+                            "selected~":"images/购彩_足球单场竞猜/u49_selected.png"}},
+{
+                          "id":"b389549f666242b3988eed23abe1fc46",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":260,
+                              "y":728},
+                            "size":{
+                              "width":100,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"bc7d7561dbb94237af7daedb3d41b53e",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":260,
+                                  "y":728},
+                                "size":{
+                                  "width":100,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u47.png",
+                            "selected~":"images/购彩_足球单场竞猜/u47_selected.png"}},
+{
+                          "id":"6e6ef7ed935b4d1b94f7d5c548e340a9",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"horizontalLine",
+                          "styleType":"horizontalLine",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":0,
+                              "y":770},
+                            "size":{
+                              "width":360,
+                              "height":10},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "images":{
+                            "start~":"resources/images/transparent.gif",
+                            "end~":"resources/images/transparent.gif",
+                            "line~":"images/购彩_足球单场竞猜/u125_line.png"}},
+{
+                          "id":"a6cdd96b8155425ea54e0f275eb661df",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"left",
+                            "location":{
+                              "x":161,
+                              "y":-29},
+                            "size":{
+                              "width":59,
+                              "height":23},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"6ddf20d4e64f461fb72c95ef2ebe6615",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "horizontalAlignment":"left",
+                                "location":{
+                                  "x":161,
+                                  "y":-29},
+                                "size":{
+                                  "width":59,
+                                  "height":23},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u159.png"}},
+{
+                          "id":"fb8fb853f82c426ba29457bdc6565ad1",
+                          "label":"",
+                          "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                          "type":"imageBox",
+                          "styleType":"imageBox",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":140,
+                              "y":-28},
+                            "size":{
+                              "width":20,
+                              "height":20}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"3a825a7b42584c50ac9c3d1d180a73f6",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"93bc94f2bb8d46079d3423b1af128db2",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":140,
+                                  "y":-28},
+                                "size":{
+                                  "width":20,
+                                  "height":20}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u161.png"}}]}]}]}]},
+{
+          "id":"7c03a1e11349418fa48f4fe240be2b13",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"16px",
+            "fontWeight":"200",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFA9767}},
+              "mouseDown":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFE37226}},
+              "selected":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFC6681C}},
+              "disabled":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4},
+                "borderWidth":"1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999}}},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFEF8238},
+            "location":{
+              "x":556,
+              "y":564},
+            "size":{
+              "width":56,
+              "height":56},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE38B33},
+            "cornerRadiusTopLeft":"52"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"57ab6013beb743fe939778fe67f251c4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"16px",
+                "fontWeight":"200",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFA9767}},
+                  "mouseDown":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFE37226}},
+                  "selected":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFC6681C}},
+                  "disabled":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF999999,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFE4E4E4},
+                    "borderWidth":"1",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF999999}}},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFEF8238},
+                "location":{
+                  "x":556,
+                  "y":564},
+                "size":{
+                  "width":56,
+                  "height":56},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE38B33},
+                "cornerRadiusTopLeft":"52"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 购彩_足球单场_玩法",
+                      "target":{
+                        "targetType":"page",
+                        "url":"购彩_足球单场_玩法.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/购彩_足球单场竞猜/u163.png",
+            "selected~":"images/购彩_足球单场竞猜/u163_selected.png",
+            "mouseOver~":"images/购彩_足球单场竞猜/u163_mouseOver.png",
+            "mouseDown~":"images/购彩_足球单场竞猜/u163_mouseDown.png",
+            "disabled~":"images/购彩_足球单场竞猜/u163_disabled.png"}},
+{
+          "id":"68e5ce54ccc94640a4940055591b2d94",
+          "label":"选杯赛",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":260,
+              "y":70},
+            "size":{
+              "width":10,
+              "height":10},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":true,
+          "propagate":false,
+          "diagrams":[{
+              "id":"550098e16a17445d827a4aac7fba4160",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"5f3153f98f3e46a68372ee9e3e4c2aaf",
+                  "label":"",
+                  "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xBFFFFFFF},
+                    "size":{
+                      "width":360,
+                      "height":572},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"4e51fdf958a54b2a8a6d8c0dbed434fd",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xBFFFFFFF},
+                        "size":{
+                          "width":360,
+                          "height":572},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 选杯赛",
+                              "objectsToFades":[{
+                                  "objectPath":["68e5ce54ccc94640a4940055591b2d94"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_足球单场竞猜/u166.png"}},
+{
+                  "id":"e6117b54ab98405d87a7eff08a2fd117",
+                  "label":"m1",
+                  "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fontSize":"16px",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0x383399CC}},
+                      "mouseDown":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "selected":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "disabled":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000,
+                          "opacity":0.498039215803146},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000}}},
+                    "location":{
+                      "x":110,
+                      "y":95},
+                    "size":{
+                      "width":120,
+                      "height":48},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0d21390ca50e4575b3e7b5810ea5a208",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fontSize":"16px",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC,
+                          "opacity":1},
+                        "stateStyles":{
+                          "mouseOver":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0x383399CC}},
+                          "mouseDown":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "selected":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "disabled":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000,
+                              "opacity":0.498039215803146},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000}}},
+                        "location":{
+                          "x":110,
+                          "y":95},
+                        "size":{
+                          "width":120,
+                          "height":48},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 m1 = &quot;toggle&quot;, 与<br> 被选中的 M2 = &quot;toggle&quot;, 与<br> 被选中的 M3 = &quot;toggle&quot;, 与<br> 被选中的 M4 = &quot;toggle&quot;, 与<br> 被选中的 M5 = &quot;toggle&quot;, 与<br> 被选中的 M6 = &quot;toggle&quot;, 与<br> 被选中的 M7 = &quot;toggle&quot;, 与<br> 被选中的 all = &quot;toggle&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["e6117b54ab98405d87a7eff08a2fd117"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["5cfded0bd96444abad734536756bfb6b"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["fda6cd2f4b5a4565a339ee291e8da533"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d0a6dc98ef644c1b979f3db5628ed90f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d03e8bb6e5bd46e190337085f24b8076"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["190d7534b0a641e1872ac91d62f0053f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d197a0a3df0d4023809ddeab3f6cb24e"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["6b42697b750842ac8e2a084bea96ae88"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"隐藏 选杯赛",
+                              "objectsToFades":[{
+                                  "objectPath":["68e5ce54ccc94640a4940055591b2d94"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_足球单场竞猜/m1_u168.png",
+                    "selected~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "mouseOver~":"images/购彩_足球单场竞猜/m1_u168_mouseOver.png",
+                    "mouseDown~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "disabled~":"images/购彩_足球单场竞猜/m1_u168_disabled.png"}},
+{
+                  "id":"5cfded0bd96444abad734536756bfb6b",
+                  "label":"M2",
+                  "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fontSize":"16px",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0x383399CC}},
+                      "mouseDown":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "selected":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "disabled":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000,
+                          "opacity":0.498039215803146},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000}}},
+                    "location":{
+                      "x":229,
+                      "y":95},
+                    "size":{
+                      "width":120,
+                      "height":48},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e484af277b1a4b10ab1d89ab48c2d3c1",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fontSize":"16px",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC,
+                          "opacity":1},
+                        "stateStyles":{
+                          "mouseOver":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0x383399CC}},
+                          "mouseDown":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "selected":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "disabled":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000,
+                              "opacity":0.498039215803146},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000}}},
+                        "location":{
+                          "x":229,
+                          "y":95},
+                        "size":{
+                          "width":120,
+                          "height":48},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 m1 = &quot;toggle&quot;, 与<br> 被选中的 M2 = &quot;toggle&quot;, 与<br> 被选中的 M3 = &quot;toggle&quot;, 与<br> 被选中的 M4 = &quot;toggle&quot;, 与<br> 被选中的 M5 = &quot;toggle&quot;, 与<br> 被选中的 M6 = &quot;toggle&quot;, 与<br> 被选中的 M7 = &quot;toggle&quot;, 与<br> 被选中的 all = &quot;toggle&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["e6117b54ab98405d87a7eff08a2fd117"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["5cfded0bd96444abad734536756bfb6b"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["fda6cd2f4b5a4565a339ee291e8da533"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d0a6dc98ef644c1b979f3db5628ed90f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d03e8bb6e5bd46e190337085f24b8076"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["190d7534b0a641e1872ac91d62f0053f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d197a0a3df0d4023809ddeab3f6cb24e"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["6b42697b750842ac8e2a084bea96ae88"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"隐藏 选杯赛",
+                              "objectsToFades":[{
+                                  "objectPath":["68e5ce54ccc94640a4940055591b2d94"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_足球单场竞猜/m1_u168.png",
+                    "selected~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "mouseOver~":"images/购彩_足球单场竞猜/m1_u168_mouseOver.png",
+                    "mouseDown~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "disabled~":"images/购彩_足球单场竞猜/m1_u168_disabled.png"}},
+{
+                  "id":"fda6cd2f4b5a4565a339ee291e8da533",
+                  "label":"M3",
+                  "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fontSize":"16px",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0x383399CC}},
+                      "mouseDown":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "selected":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "disabled":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000,
+                          "opacity":0.498039215803146},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000}}},
+                    "location":{
+                      "x":110,
+                      "y":142},
+                    "size":{
+                      "width":120,
+                      "height":48},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"9a15d34a1a654ce48ac2327d7a3dea01",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fontSize":"16px",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC,
+                          "opacity":1},
+                        "stateStyles":{
+                          "mouseOver":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0x383399CC}},
+                          "mouseDown":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "selected":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "disabled":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000,
+                              "opacity":0.498039215803146},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000}}},
+                        "location":{
+                          "x":110,
+                          "y":142},
+                        "size":{
+                          "width":120,
+                          "height":48},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 m1 = &quot;toggle&quot;, 与<br> 被选中的 M2 = &quot;toggle&quot;, 与<br> 被选中的 M3 = &quot;toggle&quot;, 与<br> 被选中的 M4 = &quot;toggle&quot;, 与<br> 被选中的 M5 = &quot;toggle&quot;, 与<br> 被选中的 M6 = &quot;toggle&quot;, 与<br> 被选中的 M7 = &quot;toggle&quot;, 与<br> 被选中的 all = &quot;toggle&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["e6117b54ab98405d87a7eff08a2fd117"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["5cfded0bd96444abad734536756bfb6b"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["fda6cd2f4b5a4565a339ee291e8da533"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d0a6dc98ef644c1b979f3db5628ed90f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d03e8bb6e5bd46e190337085f24b8076"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["190d7534b0a641e1872ac91d62f0053f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d197a0a3df0d4023809ddeab3f6cb24e"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["6b42697b750842ac8e2a084bea96ae88"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"隐藏 选杯赛",
+                              "objectsToFades":[{
+                                  "objectPath":["68e5ce54ccc94640a4940055591b2d94"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_足球单场竞猜/m1_u168.png",
+                    "selected~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "mouseOver~":"images/购彩_足球单场竞猜/m1_u168_mouseOver.png",
+                    "mouseDown~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "disabled~":"images/购彩_足球单场竞猜/m1_u168_disabled.png"}},
+{
+                  "id":"d0a6dc98ef644c1b979f3db5628ed90f",
+                  "label":"M4",
+                  "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fontSize":"16px",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0x383399CC}},
+                      "mouseDown":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "selected":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "disabled":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000,
+                          "opacity":0.498039215803146},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000}}},
+                    "location":{
+                      "x":229,
+                      "y":142},
+                    "size":{
+                      "width":120,
+                      "height":48},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c9f1e860274a446aba25e678f8baf455",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fontSize":"16px",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC,
+                          "opacity":1},
+                        "stateStyles":{
+                          "mouseOver":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0x383399CC}},
+                          "mouseDown":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "selected":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "disabled":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000,
+                              "opacity":0.498039215803146},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000}}},
+                        "location":{
+                          "x":229,
+                          "y":142},
+                        "size":{
+                          "width":120,
+                          "height":48},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 m1 = &quot;toggle&quot;, 与<br> 被选中的 M2 = &quot;toggle&quot;, 与<br> 被选中的 M3 = &quot;toggle&quot;, 与<br> 被选中的 M4 = &quot;toggle&quot;, 与<br> 被选中的 M5 = &quot;toggle&quot;, 与<br> 被选中的 M6 = &quot;toggle&quot;, 与<br> 被选中的 M7 = &quot;toggle&quot;, 与<br> 被选中的 all = &quot;toggle&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["e6117b54ab98405d87a7eff08a2fd117"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["5cfded0bd96444abad734536756bfb6b"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["fda6cd2f4b5a4565a339ee291e8da533"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d0a6dc98ef644c1b979f3db5628ed90f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d03e8bb6e5bd46e190337085f24b8076"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["190d7534b0a641e1872ac91d62f0053f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d197a0a3df0d4023809ddeab3f6cb24e"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["6b42697b750842ac8e2a084bea96ae88"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"隐藏 选杯赛",
+                              "objectsToFades":[{
+                                  "objectPath":["68e5ce54ccc94640a4940055591b2d94"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_足球单场竞猜/m1_u168.png",
+                    "selected~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "mouseOver~":"images/购彩_足球单场竞猜/m1_u168_mouseOver.png",
+                    "mouseDown~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "disabled~":"images/购彩_足球单场竞猜/m1_u168_disabled.png"}},
+{
+                  "id":"d03e8bb6e5bd46e190337085f24b8076",
+                  "label":"M5",
+                  "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fontSize":"16px",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0x383399CC}},
+                      "mouseDown":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "selected":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "disabled":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000,
+                          "opacity":0.498039215803146},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000}}},
+                    "location":{
+                      "x":110,
+                      "y":189},
+                    "size":{
+                      "width":120,
+                      "height":48},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f6ed28c19dfe45e9bcf0bf755e539145",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fontSize":"16px",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC,
+                          "opacity":1},
+                        "stateStyles":{
+                          "mouseOver":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0x383399CC}},
+                          "mouseDown":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "selected":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "disabled":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000,
+                              "opacity":0.498039215803146},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000}}},
+                        "location":{
+                          "x":110,
+                          "y":189},
+                        "size":{
+                          "width":120,
+                          "height":48},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 m1 = &quot;toggle&quot;, 与<br> 被选中的 M2 = &quot;toggle&quot;, 与<br> 被选中的 M3 = &quot;toggle&quot;, 与<br> 被选中的 M4 = &quot;toggle&quot;, 与<br> 被选中的 M5 = &quot;toggle&quot;, 与<br> 被选中的 M6 = &quot;toggle&quot;, 与<br> 被选中的 M7 = &quot;toggle&quot;, 与<br> 被选中的 all = &quot;toggle&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["e6117b54ab98405d87a7eff08a2fd117"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["5cfded0bd96444abad734536756bfb6b"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["fda6cd2f4b5a4565a339ee291e8da533"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d0a6dc98ef644c1b979f3db5628ed90f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d03e8bb6e5bd46e190337085f24b8076"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["190d7534b0a641e1872ac91d62f0053f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d197a0a3df0d4023809ddeab3f6cb24e"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["6b42697b750842ac8e2a084bea96ae88"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"隐藏 选杯赛",
+                              "objectsToFades":[{
+                                  "objectPath":["68e5ce54ccc94640a4940055591b2d94"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_足球单场竞猜/m1_u168.png",
+                    "selected~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "mouseOver~":"images/购彩_足球单场竞猜/m1_u168_mouseOver.png",
+                    "mouseDown~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "disabled~":"images/购彩_足球单场竞猜/m1_u168_disabled.png"}},
+{
+                  "id":"190d7534b0a641e1872ac91d62f0053f",
+                  "label":"M6",
+                  "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fontSize":"16px",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0x383399CC}},
+                      "mouseDown":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "selected":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "disabled":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000,
+                          "opacity":0.498039215803146},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000}}},
+                    "location":{
+                      "x":229,
+                      "y":189},
+                    "size":{
+                      "width":120,
+                      "height":48},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"35f8b66b514d485da776509594962717",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fontSize":"16px",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC,
+                          "opacity":1},
+                        "stateStyles":{
+                          "mouseOver":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0x383399CC}},
+                          "mouseDown":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "selected":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "disabled":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000,
+                              "opacity":0.498039215803146},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000}}},
+                        "location":{
+                          "x":229,
+                          "y":189},
+                        "size":{
+                          "width":120,
+                          "height":48},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 m1 = &quot;toggle&quot;, 与<br> 被选中的 M2 = &quot;toggle&quot;, 与<br> 被选中的 M3 = &quot;toggle&quot;, 与<br> 被选中的 M4 = &quot;toggle&quot;, 与<br> 被选中的 M5 = &quot;toggle&quot;, 与<br> 被选中的 M6 = &quot;toggle&quot;, 与<br> 被选中的 M7 = &quot;toggle&quot;, 与<br> 被选中的 all = &quot;toggle&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["e6117b54ab98405d87a7eff08a2fd117"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["5cfded0bd96444abad734536756bfb6b"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["fda6cd2f4b5a4565a339ee291e8da533"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d0a6dc98ef644c1b979f3db5628ed90f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d03e8bb6e5bd46e190337085f24b8076"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["190d7534b0a641e1872ac91d62f0053f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d197a0a3df0d4023809ddeab3f6cb24e"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["6b42697b750842ac8e2a084bea96ae88"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"隐藏 选杯赛",
+                              "objectsToFades":[{
+                                  "objectPath":["68e5ce54ccc94640a4940055591b2d94"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_足球单场竞猜/m1_u168.png",
+                    "selected~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "mouseOver~":"images/购彩_足球单场竞猜/m1_u168_mouseOver.png",
+                    "mouseDown~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "disabled~":"images/购彩_足球单场竞猜/m1_u168_disabled.png"}},
+{
+                  "id":"d197a0a3df0d4023809ddeab3f6cb24e",
+                  "label":"M7",
+                  "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fontSize":"16px",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0x383399CC}},
+                      "mouseDown":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "selected":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "disabled":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000,
+                          "opacity":0.498039215803146},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000}}},
+                    "location":{
+                      "x":110,
+                      "y":236},
+                    "size":{
+                      "width":120,
+                      "height":48},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"0c73c45f6416483c93f904f97e821719",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fontSize":"16px",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC,
+                          "opacity":1},
+                        "stateStyles":{
+                          "mouseOver":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0x383399CC}},
+                          "mouseDown":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "selected":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "disabled":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000,
+                              "opacity":0.498039215803146},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000}}},
+                        "location":{
+                          "x":110,
+                          "y":236},
+                        "size":{
+                          "width":120,
+                          "height":48},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 m1 = &quot;toggle&quot;, 与<br> 被选中的 M2 = &quot;toggle&quot;, 与<br> 被选中的 M3 = &quot;toggle&quot;, 与<br> 被选中的 M4 = &quot;toggle&quot;, 与<br> 被选中的 M5 = &quot;toggle&quot;, 与<br> 被选中的 M6 = &quot;toggle&quot;, 与<br> 被选中的 M7 = &quot;toggle&quot;, 与<br> 被选中的 all = &quot;toggle&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["e6117b54ab98405d87a7eff08a2fd117"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["5cfded0bd96444abad734536756bfb6b"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["fda6cd2f4b5a4565a339ee291e8da533"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d0a6dc98ef644c1b979f3db5628ed90f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d03e8bb6e5bd46e190337085f24b8076"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["190d7534b0a641e1872ac91d62f0053f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d197a0a3df0d4023809ddeab3f6cb24e"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["6b42697b750842ac8e2a084bea96ae88"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"隐藏 选杯赛",
+                              "objectsToFades":[{
+                                  "objectPath":["68e5ce54ccc94640a4940055591b2d94"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_足球单场竞猜/m1_u168.png",
+                    "selected~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "mouseOver~":"images/购彩_足球单场竞猜/m1_u168_mouseOver.png",
+                    "mouseDown~":"images/购彩_足球单场竞猜/m1_u168_selected.png",
+                    "disabled~":"images/购彩_足球单场竞猜/m1_u168_disabled.png"}},
+{
+                  "id":"6b42697b750842ac8e2a084bea96ae88",
+                  "label":"all",
+                  "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "selected":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fontSize":"16px",
+                    "fontWeight":"200",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0x383399CC}},
+                      "mouseDown":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "selected":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "disabled":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000,
+                          "opacity":0.498039215803146},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000}}},
+                    "location":{
+                      "x":110,
+                      "y":48},
+                    "size":{
+                      "width":239,
+                      "height":48},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"dd714fbcd13742eebf31f349b19c20b8",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fontSize":"16px",
+                        "fontWeight":"200",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC,
+                          "opacity":1},
+                        "stateStyles":{
+                          "mouseOver":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0x383399CC}},
+                          "mouseDown":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "selected":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "disabled":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000,
+                              "opacity":0.498039215803146},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000}}},
+                        "location":{
+                          "x":110,
+                          "y":48},
+                        "size":{
+                          "width":239,
+                          "height":48},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"setFunction",
+                              "description":"设置 被选中的 m1 = &quot;toggle&quot;, 与<br> 被选中的 M2 = &quot;toggle&quot;, 与<br> 被选中的 M3 = &quot;toggle&quot;, 与<br> 被选中的 M4 = &quot;toggle&quot;, 与<br> 被选中的 M5 = &quot;toggle&quot;, 与<br> 被选中的 M6 = &quot;toggle&quot;, 与<br> 被选中的 M7 = &quot;toggle&quot;, 与<br> 被选中的 all = &quot;toggle&quot;",
+                              "expr":{
+                                "exprType":"block",
+                                "subExprs":[{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["e6117b54ab98405d87a7eff08a2fd117"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["5cfded0bd96444abad734536756bfb6b"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["fda6cd2f4b5a4565a339ee291e8da533"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d0a6dc98ef644c1b979f3db5628ed90f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d03e8bb6e5bd46e190337085f24b8076"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["190d7534b0a641e1872ac91d62f0053f"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["d197a0a3df0d4023809ddeab3f6cb24e"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]},
+{
+                                    "exprType":"fcall",
+                                    "functionName":"SetCheckState",
+                                    "arguments":[{
+                                        "exprType":"pathLiteral",
+                                        "isThis":false,
+                                        "isFocused":false,
+                                        "isTarget":false,
+                                        "value":["6b42697b750842ac8e2a084bea96ae88"]},
+{
+                                        "exprType":"stringLiteral",
+                                        "value":"toggle",
+                                        "stos":[]}]}]}},
+{
+                              "action":"fadeWidget",
+                              "description":"隐藏 选杯赛",
+                              "objectsToFades":[{
+                                  "objectPath":["68e5ce54ccc94640a4940055591b2d94"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_足球单场竞猜/all_u182.png",
+                    "selected~":"images/购彩_足球单场竞猜/all_u182_selected.png",
+                    "mouseOver~":"images/购彩_足球单场竞猜/all_u182_mouseOver.png",
+                    "mouseDown~":"images/购彩_足球单场竞猜/all_u182_selected.png",
+                    "disabled~":"images/购彩_足球单场竞猜/all_u182_disabled.png"}},
+{
+                  "id":"fbc15eae878f4ab095e8870aa521b09b",
+                  "label":"",
+                  "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fontSize":"16px",
+                    "fontWeight":"200",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC,
+                      "opacity":1},
+                    "stateStyles":{
+                      "mouseOver":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0x383399CC}},
+                      "mouseDown":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "selected":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC}},
+                      "disabled":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000,
+                          "opacity":0.498039215803146},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0x7F000000}}},
+                    "location":{
+                      "x":136,
+                      "y":410},
+                    "size":{
+                      "width":88,
+                      "height":88},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC},
+                    "cornerRadiusTopLeft":"60"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f0dfd127dd0244e690a4b224b0aab077",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"68e5ce54ccc94640a4940055591b2d94",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fontSize":"16px",
+                        "fontWeight":"200",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC,
+                          "opacity":1},
+                        "stateStyles":{
+                          "mouseOver":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0x383399CC}},
+                          "mouseDown":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "selected":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFFFFF,
+                              "opacity":1},
+                            "fill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFF3399CC}},
+                          "disabled":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000,
+                              "opacity":0.498039215803146},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0x7F000000}}},
+                        "location":{
+                          "x":136,
+                          "y":410},
+                        "size":{
+                          "width":88,
+                          "height":88},
+                        "borderFill":{
+                          "fillType":"solid",
+                          "color":0xFF3399CC},
+                        "cornerRadiusTopLeft":"60"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"Case 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 选杯赛",
+                              "objectsToFades":[{
+                                  "objectPath":["68e5ce54ccc94640a4940055591b2d94"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "showType":"none"}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_足球单场竞猜/u184.png",
+                    "selected~":"images/购彩_足球单场竞猜/u184_selected.png",
+                    "mouseOver~":"images/购彩_足球单场竞猜/u184_mouseOver.png",
+                    "mouseDown~":"images/购彩_足球单场竞猜/u184_selected.png",
+                    "disabled~":"images/购彩_足球单场竞猜/u184_disabled.png"}}]}]}]}},
+  "masters":{
+    "1f6fdf1cbae8461b8d4107a82cc7257a":{
+      "packageId":"1f6fdf1cbae8461b8d4107a82cc7257a",
+      "type":"Axure:Master",
+      "name":"s'ta'tu'ba'r",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"ec0a32b8b7814c0ca8de807fe48ac2b1",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'Applied Font Regular', 'Applied Font'",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFF333333},
+              "size":{
+                "width":360,
+                "height":20},
+              "borderWidth":"-1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"c8e01e4a4a2648a5b2c1e2ae87fb9b2c",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFF333333},
+                  "size":{
+                    "width":360,
+                    "height":20},
+                  "borderWidth":"-1"},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/首页/u3.png"}}]}},
+    "71e5b62863c34b2cbd021a8619b34788":{
+      "packageId":"71e5b62863c34b2cbd021a8619b34788",
+      "type":"Axure:Master",
+      "name":"操作栏BG",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"76b1fae92bb340fc90c2f526bcd791fb",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'Applied Font Regular', 'Applied Font'",
+              "fontSize":"18px",
+              "fontWeight":"200",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFCB463D},
+              "size":{
+                "width":360,
+                "height":48},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"dce1f2351006496cb68e5684fbc89144",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fontSize":"18px",
+                  "fontWeight":"200",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFCB463D},
+                  "size":{
+                    "width":360,
+                    "height":48},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFCCCCCC}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/首页/u25.png"}}]}},
+    "9ab1820aec5c4381aba7c287cd43edb0":{
+      "packageId":"9ab1820aec5c4381aba7c287cd43edb0",
+      "type":"Axure:Master",
+      "name":"竞彩下注",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[]}},
+    "6b9b8e0bafc741f1a974aedf2291e60a":{
+      "packageId":"6b9b8e0bafc741f1a974aedf2291e60a",
+      "type":"Axure:Master",
+      "name":"虚拟按键",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"d745a216917f40ce9655ac78fe95f401",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'Applied Font Regular', 'Applied Font'",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFF333333},
+              "size":{
+                "width":360,
+                "height":48},
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFF666666}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"7362f26751cd4b369326b2a4b769ca7f",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFF333333},
+                  "size":{
+                    "width":360,
+                    "height":48},
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFF666666}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/首页/u6.png"}},
+{
+            "id":"540c3bbc0abc41389820767a72d8fd68",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'Applied Font Regular', 'Applied Font'",
+              "fontSize":"16px",
+              "fontWeight":"200",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "stateStyles":{
+                "mouseOver":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFF2F2F2}},
+                "mouseDown":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFD7D7D7}},
+                "selected":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFE4E4E4}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFF333333},
+              "size":{
+                "width":120,
+                "height":48},
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFF666666}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"c4250acce67f436bbc2ae210aa30c71a",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fontSize":"16px",
+                  "fontWeight":"200",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "stateStyles":{
+                    "mouseOver":{
+                      "fontName":"'Applied Font Regular', 'Applied Font'",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFF2F2F2}},
+                    "mouseDown":{
+                      "fontName":"'Applied Font Regular', 'Applied Font'",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFD7D7D7}},
+                    "selected":{
+                      "fontName":"'Applied Font Regular', 'Applied Font'",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFE4E4E4}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFF333333},
+                  "size":{
+                    "width":120,
+                    "height":48},
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFF666666}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 返回",
+                        "target":{
+                          "targetType":"backUrl",
+                          "includeVariables":false},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/首页/u8.png",
+              "selected~":"images/首页/u8_selected.png",
+              "mouseOver~":"images/首页/u8_mouseOver.png",
+              "mouseDown~":"images/首页/u8_mouseDown.png"}},
+{
+            "id":"553fb939255d4f20ad526d57991d1672",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'Applied Font Regular', 'Applied Font'",
+              "fontSize":"16px",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFF1E1E1E,
+                "opacity":1},
+              "stateStyles":{
+                "mouseOver":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFF2F2F2}},
+                "mouseDown":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFD7D7D7}},
+                "selected":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFE4E4E4}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFF333333},
+              "location":{
+                "x":240,
+                "y":0},
+              "size":{
+                "width":120,
+                "height":48},
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFF666666}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"ec8622633cbf4144869d374e852e56c5",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fontSize":"16px",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF1E1E1E,
+                    "opacity":1},
+                  "stateStyles":{
+                    "mouseOver":{
+                      "fontName":"'Applied Font Regular', 'Applied Font'",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFF2F2F2}},
+                    "mouseDown":{
+                      "fontName":"'Applied Font Regular', 'Applied Font'",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFD7D7D7}},
+                    "selected":{
+                      "fontName":"'Applied Font Regular', 'Applied Font'",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFE4E4E4}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFF333333},
+                  "location":{
+                    "x":240,
+                    "y":0},
+                  "size":{
+                    "width":120,
+                    "height":48},
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFF666666}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/首页/u8.png",
+              "selected~":"images/首页/u8_selected.png",
+              "mouseOver~":"images/首页/u8_mouseOver.png",
+              "mouseDown~":"images/首页/u8_mouseDown.png"}}]}}},
+  "objectPaths":{
+    "492263fbb03444ae807d9d51d6862275":{
+      "scriptId":"u0"},
+    "e03cbb981d6a4b7d8ee2644f77a3555a":{
+      "scriptId":"u1"},
+    "9e6285520a4344b6aab3595e4b30df45":{
+      "scriptId":"u2",
+      "ec0a32b8b7814c0ca8de807fe48ac2b1":{
+        "scriptId":"u3"},
+      "c8e01e4a4a2648a5b2c1e2ae87fb9b2c":{
+        "scriptId":"u4"}},
+    "21a4829c74fe4e29911ac45c2c62dafa":{
+      "scriptId":"u5",
+      "76b1fae92bb340fc90c2f526bcd791fb":{
+        "scriptId":"u6"},
+      "dce1f2351006496cb68e5684fbc89144":{
+        "scriptId":"u7"}},
+    "d3c4045fcdc540afa722af2db5362917":{
+      "scriptId":"u8"},
+    "e7fa39b8e13c4b359e5b276de5d1379b":{
+      "scriptId":"u9"},
+    "5b39080a1fc54a6cba9a7c738517dd99":{
+      "scriptId":"u10"},
+    "67bb81fac81644fb8377876cfe642f4c":{
+      "scriptId":"u11"},
+    "b4648542d00d45538dbf840d87e69e54":{
+      "scriptId":"u12"},
+    "62713eed6a4a492abdf840ae55ba0d5b":{
+      "scriptId":"u13"},
+    "b5fd21fb9e9e433290e5fc37b4e3d782":{
+      "scriptId":"u14"},
+    "cbf9de9d9dcf41d3a54964a06edc18f1":{
+      "scriptId":"u15"},
+    "286bf37e5ad844a7be796c08e34c9446":{
+      "scriptId":"u16"},
+    "08543917755b4dbda23b2b1e517311bd":{
+      "scriptId":"u17"},
+    "dcddaaa39c3c4c2db2944a4799823bc8":{
+      "scriptId":"u18"},
+    "9041734013b34d76b1c55a4f1586d644":{
+      "scriptId":"u19",
+      "d745a216917f40ce9655ac78fe95f401":{
+        "scriptId":"u20"},
+      "7362f26751cd4b369326b2a4b769ca7f":{
+        "scriptId":"u21"},
+      "540c3bbc0abc41389820767a72d8fd68":{
+        "scriptId":"u22"},
+      "c4250acce67f436bbc2ae210aa30c71a":{
+        "scriptId":"u23"},
+      "553fb939255d4f20ad526d57991d1672":{
+        "scriptId":"u24"},
+      "ec8622633cbf4144869d374e852e56c5":{
+        "scriptId":"u25"}},
+    "6be3c3c8122643f1a12b533ca204fd60":{
+      "scriptId":"u26"},
+    "5c9320263e8f48739f5f0cb424a59879":{
+      "scriptId":"u27"},
+    "5ff82728fa10427a851ff960dcf9f330":{
+      "scriptId":"u28"},
+    "99487a85bb0547dba52c9c164f52491a":{
+      "scriptId":"u29"},
+    "288c97c482e943829c23ddae5bd5766c":{
+      "scriptId":"u30"},
+    "d629a116982e4bf895c0be030f487c64":{
+      "scriptId":"u31"},
+    "1034f1dcb23b4c01bc0abb115a59a651":{
+      "scriptId":"u32"},
+    "9bf59241cbb54d8aba200d054b73990f":{
+      "scriptId":"u33"},
+    "6c83584e6e264ac6b02dd99628dbc09f":{
+      "scriptId":"u34"},
+    "c7f80bf809f2495da1e4fd17c2879586":{
+      "scriptId":"u35"},
+    "96cfae78d0a245348e8d274511577ae3":{
+      "scriptId":"u36"},
+    "3659a0b690bf4a028e8a2a6cb6781c17":{
+      "scriptId":"u37"},
+    "805ae9d53688469d855c707fcf3d2169":{
+      "scriptId":"u38"},
+    "79ec40210aa04dc7956cde6a8f272e40":{
+      "scriptId":"u39"},
+    "001db9b31f42432ab517092f3550ef1a":{
+      "scriptId":"u40"},
+    "e43016eb3e3f4802a7e8533c31998370":{
+      "scriptId":"u41"},
+    "31434daf6af644748a38638e6d3f9095":{
+      "scriptId":"u42"},
+    "b38f2d4fc6cd4fd294ba293eaec13714":{
+      "scriptId":"u43"},
+    "93bc94f2bb8d46079d3423b1af128db2":{
+      "scriptId":"u44"},
+    "8766a93744644258ab5a60302e704fec":{
+      "scriptId":"u45"},
+    "4af076b565774462bda58e45d396c56e":{
+      "scriptId":"u46"},
+    "544b7f9d3a084d9887f15ed9cad6d392":{
+      "scriptId":"u47"},
+    "bb4a6aa775ae497082741e4d6cd39388":{
+      "scriptId":"u48"},
+    "14bc81d9ca8b44a9999a150442537527":{
+      "scriptId":"u49"},
+    "f630810465524123a52a8a6c0d6d14d3":{
+      "scriptId":"u50"},
+    "96e4908897c44911b227b4fc110b757f":{
+      "scriptId":"u51"},
+    "3ebe491c2b87416e92a5ca1b35f9b34c":{
+      "scriptId":"u52"},
+    "dc1eb0a5e6b2483ea29845ca772368db":{
+      "scriptId":"u53"},
+    "96689fabd24240059e31af4a18ba9555":{
+      "scriptId":"u54"},
+    "b4c49f131c224b869a3d4eec36ea6bcd":{
+      "scriptId":"u55"},
+    "775e01953ec945bc84d6bbc6dd42a25b":{
+      "scriptId":"u56"},
+    "b35c381d275348b393380c82e0581c11":{
+      "scriptId":"u57"},
+    "1cd95062f54542c8a76a2b56fa3acd0b":{
+      "scriptId":"u58"},
+    "e5f29bd7f22f4e42b84dafd8e306f339":{
+      "scriptId":"u59"},
+    "cd3b75f8bfdf49aea940c768550875fd":{
+      "scriptId":"u60"},
+    "f80271a872ae4326bee7b5bb5b94eec3":{
+      "scriptId":"u61"},
+    "2c67dc879b834b93a3df15c604ef752d":{
+      "scriptId":"u62"},
+    "a61cb9bc2d3c4b20aebb82c14f37c807":{
+      "scriptId":"u63"},
+    "fd316d8333f34f66902d3d53ead0e77b":{
+      "scriptId":"u64"},
+    "36d8e3fa39de47eebc3c3b652ca205d9":{
+      "scriptId":"u65"},
+    "53483d699edc445b842591f707c1943a":{
+      "scriptId":"u66"},
+    "8139618b39a44f8b9ad6ff4ec9c1de4e":{
+      "scriptId":"u67"},
+    "51a9b59178f04f6d9302bdb00f7479ea":{
+      "scriptId":"u68"},
+    "79b529752e014bf3aaf952f9f9ab975c":{
+      "scriptId":"u69"},
+    "fc897240a1ed49928bdf87ac752fc492":{
+      "scriptId":"u70"},
+    "fc8b17d9ef3a4c8d9431eef22b4b8f1a":{
+      "scriptId":"u71"},
+    "2adfebc93df446158f28f567f2d92d95":{
+      "scriptId":"u72"},
+    "52ebc83fdcfa414dbf94c201d5b34619":{
+      "scriptId":"u73"},
+    "9f2c7c371cce459f8da8ae575c88c065":{
+      "scriptId":"u74"},
+    "5b77a3d26bb14b249ef9c2450b37390b":{
+      "scriptId":"u75"},
+    "37d934d786104275b896678f1908dbca":{
+      "scriptId":"u76"},
+    "768f96c00b9a467daa952c4424b8c6f9":{
+      "scriptId":"u77"},
+    "4300474a46a14d77ae63d9f1ffd311fb":{
+      "scriptId":"u78"},
+    "cc0398f16b064aa0b350e6cd87e8f138":{
+      "scriptId":"u79"},
+    "1d44113dbd584a84a77e8adb894e2bfd":{
+      "scriptId":"u80"},
+    "0649b74aef3249eabb35d987a15d5482":{
+      "scriptId":"u81"},
+    "04c1630e5c564d03985fec4b012392ec":{
+      "scriptId":"u82"},
+    "64e964d1767d411183f0e8ac0792c4bc":{
+      "scriptId":"u83"},
+    "2b2f5851c9cc457fb1393fbddc07f331":{
+      "scriptId":"u84"},
+    "953d682066bc416f9d6ffa805dd53ce0":{
+      "scriptId":"u85"},
+    "bec1d7672b1644409a9d46840599f17d":{
+      "scriptId":"u86"},
+    "7e50223e74034b40827e92d567d0381b":{
+      "scriptId":"u87"},
+    "9664e473ff7d4058b226d2f8adf5445d":{
+      "scriptId":"u88"},
+    "f9c0f50386404730b0ef60e252bdd5f5":{
+      "scriptId":"u89"},
+    "e025e77bd373402db8379d6595c17aed":{
+      "scriptId":"u90"},
+    "76a01844732440bbb7ef61c4e6d30142":{
+      "scriptId":"u91"},
+    "7118244e400a4373b16f1100352bb5a5":{
+      "scriptId":"u92"},
+    "0af138c70c5742a4b8d418655e507d5c":{
+      "scriptId":"u93"},
+    "b2db6f176e024e27a19d1500c8174b72":{
+      "scriptId":"u94"},
+    "f3b2fb0074d54fec9c0a31f191375899":{
+      "scriptId":"u95"},
+    "d9267448862e42bea2c6e0c91dfb37ef":{
+      "scriptId":"u96"},
+    "62b9715eb7d74c578d76539f7d7fc8d0":{
+      "scriptId":"u97"},
+    "a957426018b44ea18dec21f23e09500f":{
+      "scriptId":"u98"},
+    "6a1bda0822764c1f82706b0eefe5f5cc":{
+      "scriptId":"u99"},
+    "04b2e112a27644d5aa18db7a8e791a34":{
+      "scriptId":"u100"},
+    "deee4138bc5f4201a38147d732ba82d9":{
+      "scriptId":"u101"},
+    "3ad80a0aeda4465ca6d27ac8076cb977":{
+      "scriptId":"u102"},
+    "d0d96bf7c8384ef9b2712ba14ca317d5":{
+      "scriptId":"u103"},
+    "c01df7ec3ffa40298bdca7ecba871192":{
+      "scriptId":"u104"},
+    "1701976901cc4b9a8618185899618faa":{
+      "scriptId":"u105"},
+    "cadc8254fc3b4bbba1be3ab516c22bca":{
+      "scriptId":"u106"},
+    "a441448022024aaa896d67b1f2792689":{
+      "scriptId":"u107"},
+    "e370064f0181458fb9125e9b4df9b693":{
+      "scriptId":"u108"},
+    "30a3185896f14214b3fdfff550e9b586":{
+      "scriptId":"u109"},
+    "3c1af51cf0df43aabbc6b0b1770ac3e6":{
+      "scriptId":"u110"},
+    "528d3352f9ed4ba3b5f71297ebb6260b":{
+      "scriptId":"u111"},
+    "d8b0680b6b164e6c99f8851d872b6583":{
+      "scriptId":"u112"},
+    "3ebdc70f368a41e49ef24e264b8ab3f9":{
+      "scriptId":"u113"},
+    "47fdee07c9874448b1d85023ef6029c8":{
+      "scriptId":"u114"},
+    "c42783275cbb4a8894a01bae30e55eac":{
+      "scriptId":"u115"},
+    "524d9394c78d4020867acce3c3644b84":{
+      "scriptId":"u116"},
+    "3108cbfbea86453cb3100b2e0ea48d88":{
+      "scriptId":"u117"},
+    "8491a375e1514056a3a480f9d667cfc1":{
+      "scriptId":"u118"},
+    "e5fc3d64824e40a2ad9795787f95204c":{
+      "scriptId":"u119"},
+    "d5e6a0892c06433087ba709c913333a7":{
+      "scriptId":"u120"},
+    "869e9ff0cc134bf9914d3e4b4189b22e":{
+      "scriptId":"u121"},
+    "d6501971575c441e8ccbe57839f97f58":{
+      "scriptId":"u122"},
+    "51ca2cd3d2084e199b14fd678b5581a1":{
+      "scriptId":"u123"},
+    "971dbb9decbc48ec823284fcfd13eefc":{
+      "scriptId":"u124"},
+    "c4828f895a794421934423eb5b6ed9df":{
+      "scriptId":"u125"},
+    "246d2328ba3d40c6897ada6bff6086d1":{
+      "scriptId":"u126"},
+    "8308b31cf4b542dd837483e4ef2d856c":{
+      "scriptId":"u127"},
+    "fb2735b1bd4644d7a3902810f0f8ac2f":{
+      "scriptId":"u128"},
+    "f31e50977a6b48a888d66dab66d22604":{
+      "scriptId":"u129"},
+    "a8526a0fbe5d4d85b2a7b52439620a35":{
+      "scriptId":"u130"},
+    "b4cd3f86504948e5826261487481b9a0":{
+      "scriptId":"u131"},
+    "aeaf7b0a0aef453a84020ff630cbab3d":{
+      "scriptId":"u132"},
+    "3ee449c394824a2392cee251e11f38a2":{
+      "scriptId":"u133"},
+    "828670b50b69477b9efa50252d6f3e15":{
+      "scriptId":"u134"},
+    "42cb8c29038b4cde854d108015be4f9e":{
+      "scriptId":"u135"},
+    "f3569b1bc32b4907b6ed41279d72b692":{
+      "scriptId":"u136"},
+    "350c5ee7b0544832b0b54b55fb7be98d":{
+      "scriptId":"u137"},
+    "a651b9b2c7b440cf939487c19e523950":{
+      "scriptId":"u138"},
+    "666893f6b4f44b7a9dd004f841c39c2b":{
+      "scriptId":"u139"},
+    "a12b542df0b144e59eee743fff9b25f1":{
+      "scriptId":"u140"},
+    "eb48cf17da0b4f55859d7bc143097525":{
+      "scriptId":"u141"},
+    "996ab42b6b5a490bb1e314890d740291":{
+      "scriptId":"u142"},
+    "757f12af4f9f4971bb796ec5882f8c9c":{
+      "scriptId":"u143"},
+    "37f92e3f1dc54904968382bb418c4cd3":{
+      "scriptId":"u144"},
+    "6ae42b7908644abaa088de6e976ba79d":{
+      "scriptId":"u145"},
+    "06567a11bda84ba3aad9d8c986b90d72":{
+      "scriptId":"u146"},
+    "572eb4a5fa0c4b29811a80e27ce63cb1":{
+      "scriptId":"u147"},
+    "b1ea5b31cf634c72a2276d31e6d1839a":{
+      "scriptId":"u148"},
+    "b93f61538a9242709340b295396cc9c9":{
+      "scriptId":"u149"},
+    "37874811ae514a69bba8f7e5aaa1f553":{
+      "scriptId":"u150"},
+    "9c755525ca374fb5b97264f1f3526c09":{
+      "scriptId":"u151"},
+    "cfdea6b7102a459f95f1cd3c35272f31":{
+      "scriptId":"u152"},
+    "3d890f232b26485f8c868cb51fe64010":{
+      "scriptId":"u153"},
+    "af1fc5ad936243c0b7321a69c042b2ab":{
+      "scriptId":"u154"},
+    "a24ccf777b6a47859bc2056e4cdc5ae0":{
+      "scriptId":"u155"},
+    "b389549f666242b3988eed23abe1fc46":{
+      "scriptId":"u156"},
+    "bc7d7561dbb94237af7daedb3d41b53e":{
+      "scriptId":"u157"},
+    "6e6ef7ed935b4d1b94f7d5c548e340a9":{
+      "scriptId":"u158"},
+    "a6cdd96b8155425ea54e0f275eb661df":{
+      "scriptId":"u159"},
+    "6ddf20d4e64f461fb72c95ef2ebe6615":{
+      "scriptId":"u160"},
+    "fb8fb853f82c426ba29457bdc6565ad1":{
+      "scriptId":"u161"},
+    "3a825a7b42584c50ac9c3d1d180a73f6":{
+      "scriptId":"u162"},
+    "7c03a1e11349418fa48f4fe240be2b13":{
+      "scriptId":"u163"},
+    "57ab6013beb743fe939778fe67f251c4":{
+      "scriptId":"u164"},
+    "68e5ce54ccc94640a4940055591b2d94":{
+      "scriptId":"u165"},
+    "5f3153f98f3e46a68372ee9e3e4c2aaf":{
+      "scriptId":"u166"},
+    "4e51fdf958a54b2a8a6d8c0dbed434fd":{
+      "scriptId":"u167"},
+    "e6117b54ab98405d87a7eff08a2fd117":{
+      "scriptId":"u168"},
+    "0d21390ca50e4575b3e7b5810ea5a208":{
+      "scriptId":"u169"},
+    "5cfded0bd96444abad734536756bfb6b":{
+      "scriptId":"u170"},
+    "e484af277b1a4b10ab1d89ab48c2d3c1":{
+      "scriptId":"u171"},
+    "fda6cd2f4b5a4565a339ee291e8da533":{
+      "scriptId":"u172"},
+    "9a15d34a1a654ce48ac2327d7a3dea01":{
+      "scriptId":"u173"},
+    "d0a6dc98ef644c1b979f3db5628ed90f":{
+      "scriptId":"u174"},
+    "c9f1e860274a446aba25e678f8baf455":{
+      "scriptId":"u175"},
+    "d03e8bb6e5bd46e190337085f24b8076":{
+      "scriptId":"u176"},
+    "f6ed28c19dfe45e9bcf0bf755e539145":{
+      "scriptId":"u177"},
+    "190d7534b0a641e1872ac91d62f0053f":{
+      "scriptId":"u178"},
+    "35f8b66b514d485da776509594962717":{
+      "scriptId":"u179"},
+    "d197a0a3df0d4023809ddeab3f6cb24e":{
+      "scriptId":"u180"},
+    "0c73c45f6416483c93f904f97e821719":{
+      "scriptId":"u181"},
+    "6b42697b750842ac8e2a084bea96ae88":{
+      "scriptId":"u182"},
+    "dd714fbcd13742eebf31f349b19c20b8":{
+      "scriptId":"u183"},
+    "fbc15eae878f4ab095e8870aa521b09b":{
+      "scriptId":"u184"},
+    "f0dfd127dd0244e690a4b224b0aab077":{
+      "scriptId":"u185"}}});

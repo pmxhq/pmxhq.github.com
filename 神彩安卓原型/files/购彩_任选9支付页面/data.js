@@ -1,0 +1,10469 @@
+﻿$axure.loadCurrentPage({
+  "url":"购彩_任选9支付页面.html",
+  "generationDate":new Date(1427077134620.65),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"3434031c075e42fb85cc622829f0f67a",
+    "type":"Axure:Page",
+    "name":"购彩_任选9支付页面",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"Applied Font",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"ef0490d2a98c46689380674121dde10e",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":260,
+              "y":50},
+            "size":{
+              "width":360,
+              "height":640},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9311fec397444bdeb87da83bb0aeb150",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":260,
+                  "y":50},
+                "size":{
+                  "width":360,
+                  "height":640},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/首页/u0.png"}},
+{
+          "id":"b85cd41510264f3cac38cd7d24c1b536",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":260,
+              "y":50}},
+          "adaptiveStyles":{
+},
+          "masterId":"1f6fdf1cbae8461b8d4107a82cc7257a"},
+{
+          "id":"c36cc0b8aa9a4711ba3359ae7a870359",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":260,
+              "y":70}},
+          "adaptiveStyles":{
+},
+          "masterId":"71e5b62863c34b2cbd021a8619b34788"},
+{
+          "id":"deda3be5e6664ee495ff7e74a97f9e77",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontWeight":"200",
+            "horizontalAlignment":"left",
+            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":260,
+              "y":118},
+            "size":{
+              "width":360,
+              "height":32},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f53ec2896ee041298b8b0198bb81d2bc",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontWeight":"200",
+                "horizontalAlignment":"left",
+                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":260,
+                  "y":118},
+                "size":{
+                  "width":360,
+                  "height":32},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购彩_足球单场竞猜/u8.png"}},
+{
+          "id":"6102737aac6c4b0b9e429549066d4709",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"h2",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"20px",
+            "fontWeight":"200",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "location":{
+              "x":289,
+              "y":85},
+            "size":{
+              "width":81,
+              "height":24}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7e7c007e229c416081a59e8f90188942",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"20px",
+                "fontWeight":"200",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "location":{
+                  "x":289,
+                  "y":85},
+                "size":{
+                  "width":81,
+                  "height":24}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"7f9f474f030d4203bfc74bb20e98abba",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":268,
+              "y":88},
+            "size":{
+              "width":14,
+              "height":3},
+            "rotation":"300",
+            "textRotation":"300",
+            "borderWidth":"-1",
+            "cornerRadiusTopLeft":"100"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"24cf4cbf70eb4b508a4e3589e304d249",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":268,
+                  "y":88},
+                "size":{
+                  "width":14,
+                  "height":3},
+                "rotation":"300",
+                "textRotation":"300",
+                "borderWidth":"-1",
+                "cornerRadiusTopLeft":"100"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购彩_足球单场竞猜/u14.png"}},
+{
+          "id":"b19bec4ff9d147b785a535a730e0c411",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "location":{
+              "x":268,
+              "y":98},
+            "size":{
+              "width":14,
+              "height":3},
+            "rotation":"60",
+            "textRotation":"60",
+            "borderWidth":"-1",
+            "cornerRadiusTopLeft":"100"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b783395ffe274578b6b45a29a4ec292f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "location":{
+                  "x":268,
+                  "y":98},
+                "size":{
+                  "width":14,
+                  "height":3},
+                "rotation":"60",
+                "textRotation":"60",
+                "borderWidth":"-1",
+                "cornerRadiusTopLeft":"100"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购彩_足球单场竞猜/u14.png"}},
+{
+          "id":"93ca36cd6dd448ee92b6880eacd24245",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":260,
+              "y":149}},
+          "adaptiveStyles":{
+},
+          "masterId":"9ab1820aec5c4381aba7c287cd43edb0"},
+{
+          "id":"414fb40d16e24ed3bc9aa6f9f45067c2",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":260,
+              "y":642}},
+          "adaptiveStyles":{
+},
+          "masterId":"6b9b8e0bafc741f1a974aedf2291e60a"},
+{
+          "id":"3a43773e00b3437e952e819740022586",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"16px",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF3399CC,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0x383399CC}},
+              "mouseDown":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0x8C3399CC}},
+              "selected":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC}},
+              "disabled":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0x7F000000,
+                  "opacity":0.498039215803146},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0x7F000000}}},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFFFFF},
+            "location":{
+              "x":260,
+              "y":70},
+            "size":{
+              "width":150,
+              "height":48},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF3399CC},
+            "cornerRadiusTopLeft":"10"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f25295cb69b245dc80d8cfd3025b0943",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"16px",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0x383399CC}},
+                  "mouseDown":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0x8C3399CC}},
+                  "selected":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF3399CC}},
+                  "disabled":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0x7F000000,
+                      "opacity":0.498039215803146},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0x7F000000}}},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF},
+                "location":{
+                  "x":260,
+                  "y":70},
+                "size":{
+                  "width":150,
+                  "height":48},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF3399CC},
+                "cornerRadiusTopLeft":"10"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"Case 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 返回",
+                      "target":{
+                        "targetType":"backUrl",
+                        "includeVariables":false},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif",
+            "selected~":"images/购彩_足球单场竞猜/u32_selected.png",
+            "mouseOver~":"images/购彩_足球单场竞猜/u32_mouseOver.png",
+            "mouseDown~":"images/购彩_足球单场竞猜/u32_mouseDown.png",
+            "disabled~":"resources/images/transparent.gif"}},
+{
+          "id":"4255eaea55d849abada86c3331b430bd",
+          "label":"",
+          "type":"horizontalLine",
+          "styleType":"horizontalLine",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1000,
+              "height":10}},
+          "adaptiveStyles":{
+},
+          "images":{
+            "start~":"resources/images/transparent.gif",
+            "end~":"resources/images/transparent.gif",
+            "line~":"images/移动/u30_line.png"}},
+{
+          "id":"d4d1dd507bcf462497047984ff79d061",
+          "label":"选赛事",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":260,
+              "y":150},
+            "size":{
+              "width":360,
+              "height":420}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"a5c715c0d19849df9df1b9bbef412328",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"53e11f71b81747129a08d2bf9dd6d1eb",
+                  "label":"移动",
+                  "parentDynamicPanel":"d4d1dd507bcf462497047984ff79d061",
+                  "type":"dynamicPanel",
+                  "styleType":"dynamicPanel",
+                  "visible":true,
+                  "style":{
+                    "size":{
+                      "width":360,
+                      "height":780}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onDrag":{
+                      "description":"OnDrag",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"moveWidget",
+                              "description":"移动 移动 y 轴拖动",
+                              "objectsToMoves":[{
+                                  "objectPath":["53e11f71b81747129a08d2bf9dd6d1eb"],
+                                  "moveInfo":{
+                                    "moveType":"dragY",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "options":{
+}}}]}]}]}},
+                  "scrollbars":"none",
+                  "fitToContent":false,
+                  "propagate":false,
+                  "diagrams":[{
+                      "id":"c769d65907694d368a137723a86faf1a",
+                      "label":"State1",
+                      "type":"Axure:PanelDiagram",
+                      "objects":[{
+                          "id":"4bb9133d779f4999b65d3a3d11d8b915",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":309,
+                              "y":1},
+                            "size":{
+                              "width":51,
+                              "height":47},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"8bdd0b3fae3d4e95b65567f8b6a6d68d",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":309,
+                                  "y":1},
+                                "size":{
+                                  "width":51,
+                                  "height":47},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u29.png"}},
+{
+                          "id":"9e5fad3791db43899c4df19150a27417",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":1},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"0d5d5e371ba64bf3897dc93254b77003",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":1},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"b92ce8d47de44e49a47175403be2a64d",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":1},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"1b397805f5224eb19538b92986dd5510",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":1},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"05a04c0796ff4319ad197494e223f95d",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":1},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"f3048e2658cf439aada05323c374c75f",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":1},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"1827597c8ccd41029d48777bb6d68bc0",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":1},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"279c5a1de3c3435898855206d3097ecb",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":1},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"9405448628234562b6d38cd9f8af2e35",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":57},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"e35bf39e1afb4cdbb2f1083b3c277415",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":57},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"470215c2eec140838054f207196cd5f4",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":57},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"567f24bfc8084a699008c74f0d42b1c6",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":57},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"be0892339cd04f8bbc837bca83f1bb33",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":57},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"727c675c809e411ea357e2851ee0780f",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":57},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"2715f050d50b420eb10f8cfc97d1cf08",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":57},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"77e87efd4c7d408fbb1ef50357ef73a3",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":57},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"5be43a12bf694b6aa00ded9c7ba7ed79",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":113},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"403f27828bf14fe69ccd1f02d6540d09",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":113},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"a7556efc5c1b4372b490b5dd0e36e03e",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":113},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"c02f982547874b64b1fbb4c810858657",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":113},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"edd9b63e1af247c1b174eae4b2c99c66",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":113},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"5e4b64d16d2241b6a78932093d05b266",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":113},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"5bc5ed4d35e94abdaf6c3311a95d1bb1",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":113},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"a50fff6cb09a431fac81f30ff763fedc",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":113},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"9bde973fa25f44b0a87923a4dbdd84fc",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":169},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"c79216a94e7f4f9da3a3cc0c984ac5c2",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":169},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"1aaf110ec50b4956af2030f51b5bb3e3",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":169},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"6d3281428faf4bb0a26e4e915958fae5",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":169},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"9f224f69db69479c848cda43515e6385",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":169},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"7a48265c3e87471498eb5552a4d182a7",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":169},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"2f3c3319199f4c2a9a5f00bac4a4e1ec",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":169},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"6714e8469e9f4baeb861d1bb61d8aeb4",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":169},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"877a18d8c0bc451d88ec47a3ed332fb7",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":225},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"15947c2782674e15a0bd80b8e75eccd6",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":225},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"319b3fffaecb4c9dbac5cc05d575ec8a",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":225},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"b1d6ba611cda4b819a5dad8dd4fd236a",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":225},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"28db2435333d43c0a56a4a69a98f2670",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":225},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"14f82e1c74e24111a697e4f7f282dad9",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":225},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"e85f8a6a3ffa495ca360ff1b2dbf8323",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":225},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"967d5650fd0041adbd01c0fc07714b7d",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":225},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"782a2ce4285d4297b08fc2bb485d835e",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":281},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"cffbb277e352444d8d7773f6b328386a",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":281},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"b46edea6aa3944cf9caf22119db2c61e",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":281},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"7a8af8ff51ee4c52bd050130362716d9",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":281},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"f2a87273ac83479e880ef7d80b29b3ce",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":281},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"092c38aadcba4b22a01257ec1a798a02",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":281},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"b03b1d1a71e9484d968e565e3ccc25e2",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":281},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"a7d8108343c64ff8aa0db4090f34df7c",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":281},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"cedd38ec5b874020bfba82cd26744459",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":337},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"c397065f232a489c87c273367a2aa118",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":337},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"807b7dfcbc5345cd94bebf4c3069f6a5",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":337},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"caf4bc7e6bc54967b6ff8a7c0dd82e74",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":337},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"1528a371e8d843af91bcad2ad115fc03",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":337},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"4949bc9debf74dbfa7679e1d59083117",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":337},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"b008741562b446ab817448ab6198a322",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":337},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"be843e43eeb24f42bc8a384b47d88fe5",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":337},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"f0b8255a529d4108957f7256872b5e5d",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":393},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"dad36828cd75474eace1c7bb6be7c887",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":393},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"bd390e90cd844a16a20abc41147903a0",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":393},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"7d449ebc072c43d9bdb537b62eb402c4",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":393},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"8cf1d60332c4497f83835f68933b4322",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":393},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"822c73c6a82f4ba6abafda0248b4a32f",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":393},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"7010e291a0a74aa3b25cb3b5cea680b2",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":393},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"4e43cfadbb6242079494fbad541d5b7e",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":393},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"16c3cddc15a24d28b07f54b790a91ba2",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":449},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"a56b87ffff31478eb5b105afd3791fb1",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":449},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"6769ccb541cc4d918ddf01e6b0f41ac7",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":449},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"57d78930d8294d1d9476f844803b9ac4",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":449},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"2e66067dbe324bf1a8d8e6f7be544da2",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":449},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"ed832b3cbfd14cda9445c4f559bda5d6",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":449},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"bac87fee84e845bcb6745e8cf893559f",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":449},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"36d57c6649854f59a36343b0431f6ebc",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":449},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"e475416b0f2e482da3c9a3e1b14ee3ae",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":505},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"9bcc21249935479793cd7a14abc86a35",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":505},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"14435488ccad4c72bcd845040c1e07fd",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":505},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"ff33e32f18624600828dcb0d97c6e348",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":505},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"24a070ca543b4e438346682b748e8ca8",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":505},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"b946638444e344e99def5719316666f4",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":505},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"c580cc65da4348eea9e32f75383aad45",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":505},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"58e814e316df4aaeb8cbf4b684181b95",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":505},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"870c37f79c994cbfafba6c43c5460522",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"horizontalLine",
+                          "styleType":"horizontalLine",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":0,
+                              "y":547},
+                            "size":{
+                              "width":310,
+                              "height":10},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "images":{
+                            "start~":"resources/images/transparent.gif",
+                            "end~":"resources/images/transparent.gif",
+                            "line~":"images/购彩_任选9支付页面/u111_line.png"}},
+{
+                          "id":"4d1c276be6dd4bf796e4618b0c670bb2",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":560},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"6f03f8d5bab4452387e65343097ac66b",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":560},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"cd3cdad198de487caad9695520d853cb",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":560},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"42cf6bdf078f4508a8c8ed3a8e42c7ba",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":560},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"0d7d168b40244b2f93859756215097b9",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":560},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"be9e7fe70b604efea5f68fb670d6a546",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":560},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"ec418d00d81e4f03b4b1e945552af8eb",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":560},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"ac343a564d884e29b2282eda2396bf6f",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":560},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"0df1f22f635e4c92bc246c0edfda3295",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":616},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"8f4e973a6bf74d4bbce6ef871044e624",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":616},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"f4aff315c4d14ec4a151518830d88ca0",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":616},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"74995c7fbc5d4745ba5a4dc154e6e6ea",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":616},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"4880d1344549481c92fe0c018ecaf10e",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":616},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"74d12d24754548c49c603af766adf94d",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":616},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"628ff9dae13d436c934186206db7f653",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":616},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"b13007222f1f4d1ba35b579f03cebb17",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":616},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"c0a3a2f508d641c48ee3a4281243b064",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":672},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"b59cd32c8c19461a9d063eba6cd7d62c",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":672},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"7ac8cf1aeac949d79e96df8578a1457e",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":672},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"04c78a280b2e4ab090542cd75cd6d0a4",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":672},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"6c0891fa8d9041409d474c334f0e90f4",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":672},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"da60e57573484277aa3db2954bc2c568",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":672},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"40a17891e1bd47798628ccee4b80a453",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":672},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"214e66a803e64e5db33dc5309f393c28",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":672},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"20bd1480264d437182689d1ffd82099d",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontSize":"13px",
+                            "fontWeight":"200",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFF000000,
+                              "opacity":1},
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "lineSpacing":"14px",
+                            "location":{
+                              "x":0,
+                              "y":728},
+                            "size":{
+                              "width":77,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"1e17103b06584ea08624b3de3a462400",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontSize":"13px",
+                                "fontWeight":"200",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFF000000,
+                                  "opacity":1},
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "lineSpacing":"14px",
+                                "location":{
+                                  "x":0,
+                                  "y":728},
+                                "size":{
+                                  "width":77,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u31.png"}},
+{
+                          "id":"0332781292e447c89d458be0d548461d",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":77,
+                              "y":728},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"ee3d3abc1d494f4ca0ec0deb8048d7df",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":77,
+                                  "y":728},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"a06d7f0a42bc454fa1afefd41e503e80",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":163,
+                              "y":728},
+                            "size":{
+                              "width":63,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"6284fcb40a72429cb86542325c4beeb6",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":163,
+                                  "y":728},
+                                "size":{
+                                  "width":63,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u35.png",
+                            "selected~":"images/购彩_任选9支付页面/u35_selected.png"}},
+{
+                          "id":"2f7e40613a794a93a73fb34410ee3fc3",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "fontWeight":"200",
+                            "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"bold",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCB463D},
+                                "borderWidth":"-1"}},
+                            "location":{
+                              "x":224,
+                              "y":728},
+                            "size":{
+                              "width":86,
+                              "height":48},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"96a95317783e447dac42c49e7b93dd2a",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "fontWeight":"200",
+                                "baseStyle":"310c48f2e721447c99dc6355c18a2509",
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "fontWeight":"bold",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFCB463D},
+                                    "borderWidth":"-1"}},
+                                "location":{
+                                  "x":224,
+                                  "y":728},
+                                "size":{
+                                  "width":86,
+                                  "height":48},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFCCCCCC}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"Case 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 This = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":true,
+                                                "isFocused":false,
+                                                "isTarget":false},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u33.png",
+                            "selected~":"images/购彩_任选9支付页面/u33_selected.png"}},
+{
+                          "id":"4f314f226a744e89bdf84b88c4bb7fb9",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"horizontalLine",
+                          "styleType":"horizontalLine",
+                          "visible":true,
+                          "style":{
+                            "location":{
+                              "x":0,
+                              "y":770},
+                            "size":{
+                              "width":310,
+                              "height":10},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFCCCCCC}},
+                          "adaptiveStyles":{
+},
+                          "images":{
+                            "start~":"resources/images/transparent.gif",
+                            "end~":"resources/images/transparent.gif",
+                            "line~":"images/购彩_任选9支付页面/u111_line.png"}},
+{
+                          "id":"3e892bbfbb084926b245553879bff6dd",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "horizontalAlignment":"left",
+                            "location":{
+                              "x":139,
+                              "y":-29},
+                            "size":{
+                              "width":51,
+                              "height":23},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"23177f77bf1241b7baf2e81ff2c2a73c",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "horizontalAlignment":"left",
+                                "location":{
+                                  "x":139,
+                                  "y":-29},
+                                "size":{
+                                  "width":51,
+                                  "height":23},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u145.png"}},
+{
+                          "id":"8f80a59437a64ef9a6f4d72354e6ef92",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"imageBox",
+                          "styleType":"imageBox",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":120,
+                              "y":-28},
+                            "size":{
+                              "width":17,
+                              "height":20}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"7418e8955f39469c8f70769baba894f3",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":120,
+                                  "y":-28},
+                                "size":{
+                                  "width":17,
+                                  "height":20}},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_足球单场竞猜/u161.png"}},
+{
+                          "id":"4d5d050ebbfb4e5fab1c3784a7bd3528",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":322,
+                              "y":13},
+                            "size":{
+                              "width":25,
+                              "height":25},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"10d2c9fa245446dba31b45bf3a87e5ca",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":322,
+                                  "y":13},
+                                "size":{
+                                  "width":25,
+                                  "height":25},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["4d5d050ebbfb4e5fab1c3784a7bd3528"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u149.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u149_selected.png"}},
+{
+                          "id":"04684cdf8ca64821964c16c424a8b86d",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":58},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"4e20168f76904248bf18c599e2d1f547",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":58},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"8fc36bdfb83346ee86036473ab50c685",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":70},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"ee13a4f76575429d86e2b51875577a6b",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":70},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["8fc36bdfb83346ee86036473ab50c685"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"570b383aee1e452ea2c334925fa55d35",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":113},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"4f56f51bdd1e45489e23e9e09fac0d3a",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":113},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"df5192b4a8ff42a7be88495fa656f390",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":125},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"92961715906e47009f7cddfede5d4689",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":125},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["df5192b4a8ff42a7be88495fa656f390"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"28e061c6be0c41919db694efdcf5b4b2",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":171},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"58e6625a776e4f868039aa66278573c4",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":171},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"d07c1314b56946ab83eb8285e5b0fb5d",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":183},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"a8139a262f03426ba46419371ab901fa",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":183},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["d07c1314b56946ab83eb8285e5b0fb5d"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"a2354f031ea94aebb644d290bb3c9743",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":171},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"9dc2c84ea1e84174b5a6295cf1832cf5",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":171},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"58d226f38ea24723b8a2c158c6d492de",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":183},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"f07c2c6ed66845f78b5d0ba61046bf75",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":183},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["58d226f38ea24723b8a2c158c6d492de"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"cb472171d4b84c86a3ca96fe395dd675",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":225},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"bd274d80c0b6471981daeb7f12fad396",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":225},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"7e57aedd57374c369658184016372b61",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":237},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"b57af5131e32420fb1196d0b83bc9bc3",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":237},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["7e57aedd57374c369658184016372b61"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"7329b09a784b4c0296b73f8f3b82a405",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":281},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"cd581f84a1294c86930e9e20076e0194",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":281},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"052ea3ddf8d2491fa2fec33bfe454392",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":293},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"241d564a1f104d39bdad865828f1fe34",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":293},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["052ea3ddf8d2491fa2fec33bfe454392"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"491518ce9c7b4e0e9bd7a8741ed7c278",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":337},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"028e5faa0a314356bf63832c8219adad",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":337},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"174d9104727a4bcebd75ecad9d27c836",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":349},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"51d22cdf22f945428e763b27ef3dbadf",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":349},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["174d9104727a4bcebd75ecad9d27c836"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"050c6592b6ad4d188e4dc98625b8bf4b",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":337},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"714544c65de440479cc388755c21dfba",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":337},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"7f4f4a30c26345e2a87c9bbd0365bbce",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":349},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"feb3892936c1436895965ebba6b1256e",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":349},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["7f4f4a30c26345e2a87c9bbd0365bbce"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"5b4442c4bdb3418182eccdaf4a22ef5c",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":393},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"8995b248cc16425e99a161b865d3a703",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":393},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"8222a9a3a02744a6860d066249475749",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":405},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"bb7ffc4a788a46d297e1f9b8f650c8c2",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":405},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["8222a9a3a02744a6860d066249475749"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"fe39d189a9c84e468e6aef47b7bf9a11",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":451},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"cc071627eb4046aa8e5104586cdc8e54",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":451},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"e0da9afd31134145a7fcde2d254d1d86",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":463},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"1cd5dadf8f96405c82ebc9415010db45",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":463},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["e0da9afd31134145a7fcde2d254d1d86"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"1299ff8f8bd34c6d87236b2f203da152",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":508},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"b4173fd3c72145fd8fc444d94624e88c",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":508},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"9ca69030131d4c2f8facfa6c3ef1352a",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":520},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"df0f77f7ecd14d9dac35dae0888754ff",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":520},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["9ca69030131d4c2f8facfa6c3ef1352a"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"003892c1e29d4c1581ab1ab1d6973ac0",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":560},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"28f337b36a2c41c7ae7d4c05d9019b16",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":560},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"be7a7d27053046c9a8f145ea4bfcf035",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":572},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"9e03e1d1682f4a9ea5322b4b814934bc",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":572},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["be7a7d27053046c9a8f145ea4bfcf035"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"c5c4626842d74aa29aa9a76236499cf4",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":618},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"e1f2cf1c049745cb98b53746a78c3149",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":618},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"9dd895f6d12e403f992a65f8899eb159",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":630},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"33ab5ddf415e471fb0e76ec8314933c9",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":630},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["9dd895f6d12e403f992a65f8899eb159"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"fb34488cc0524259aaa49e15c25ab19d",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":674},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"b7c9540c04e046d5b566096c66713a1f",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":674},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"8304e45c27a543a6bedc08c3c5dcdbbe",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":686},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"96d71fcebcbc4abbafbc1f650d8e0af5",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":686},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["8304e45c27a543a6bedc08c3c5dcdbbe"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}},
+{
+                          "id":"b627c399c8a748ceaab71c48002170ba",
+                          "label":"",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "location":{
+                              "x":310,
+                              "y":728},
+                            "size":{
+                              "width":51,
+                              "height":48},
+                            "borderWidth":"-1"},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"d4127056dede4b8eb8b31ba5ab727706",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "location":{
+                                  "x":310,
+                                  "y":728},
+                                "size":{
+                                  "width":51,
+                                  "height":48},
+                                "borderWidth":"-1"},
+                              "adaptiveStyles":{
+}}],
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/u151.png"}},
+{
+                          "id":"4c0cec4214c64d8e964787c3f2279999",
+                          "label":"胆",
+                          "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                          "type":"buttonShape",
+                          "styleType":"buttonShape",
+                          "visible":true,
+                          "style":{
+                            "fontName":"'Applied Font Regular', 'Applied Font'",
+                            "foreGroundFill":{
+                              "fillType":"solid",
+                              "color":0xFFFFCC00,
+                              "opacity":1},
+                            "stateStyles":{
+                              "selected":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFFFFF,
+                                  "opacity":1},
+                                "fill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9900}}},
+                            "location":{
+                              "x":323,
+                              "y":740},
+                            "size":{
+                              "width":25,
+                              "height":24},
+                            "borderFill":{
+                              "fillType":"solid",
+                              "color":0xFFFF9933}},
+                          "adaptiveStyles":{
+},
+                          "objects":[{
+                              "id":"0ece33cc5fbf4e529ff88b7b7f4ac009",
+                              "label":"",
+                              "isContained":true,
+                              "parentDynamicPanel":"53e11f71b81747129a08d2bf9dd6d1eb",
+                              "type":"richTextPanel",
+                              "styleType":"paragraph",
+                              "visible":true,
+                              "style":{
+                                "fontName":"'Applied Font Regular', 'Applied Font'",
+                                "foreGroundFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFFCC00,
+                                  "opacity":1},
+                                "stateStyles":{
+                                  "selected":{
+                                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                                    "foreGroundFill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFFFFFF,
+                                      "opacity":1},
+                                    "fill":{
+                                      "fillType":"solid",
+                                      "color":0xFFFF9900}}},
+                                "location":{
+                                  "x":323,
+                                  "y":740},
+                                "size":{
+                                  "width":25,
+                                  "height":24},
+                                "borderFill":{
+                                  "fillType":"solid",
+                                  "color":0xFFFF9933}},
+                              "adaptiveStyles":{
+}}],
+                          "interactionMap":{
+                            "onClick":{
+                              "description":"OnClick",
+                              "cases":[{
+                                  "description":"用例 1",
+                                  "isNewIfGroup":false,
+                                  "actions":[{
+                                      "action":"setFunction",
+                                      "description":"设置 被选中的 胆 = &quot;toggle&quot;",
+                                      "expr":{
+                                        "exprType":"block",
+                                        "subExprs":[{
+                                            "exprType":"fcall",
+                                            "functionName":"SetCheckState",
+                                            "arguments":[{
+                                                "exprType":"pathLiteral",
+                                                "isThis":false,
+                                                "isFocused":false,
+                                                "isTarget":false,
+                                                "value":["4c0cec4214c64d8e964787c3f2279999"]},
+{
+                                                "exprType":"stringLiteral",
+                                                "value":"toggle",
+                                                "stos":[]}]}]}}]}]}},
+                          "tabbable":true,
+                          "images":{
+                            "normal~":"images/购彩_任选9支付页面/胆_u153.png",
+                            "selected~":"images/购彩_任选9支付页面/胆_u153_selected.png"}}]}]}]}]},
+{
+          "id":"f69ab1d9a4e3495cbfac60e897a26f96",
+          "label":"键盘",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":false,
+          "style":{
+            "location":{
+              "x":260,
+              "y":482},
+            "size":{
+              "width":360,
+              "height":160},
+            "visible":false},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"5db273cf2078456a9700e687b5710789",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"ac51a75406c345c6b64bdfa0febbca4b",
+                  "label":"",
+                  "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":2,
+                      "y":1},
+                    "size":{
+                      "width":120,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"2e3e1ae5eb6f4f58a578a45a360eecd2",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":2,
+                          "y":1},
+                        "size":{
+                          "width":120,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 键盘 向下滑动 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["f69ab1d9a4e3495cbfac60e897a26f96"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideDown",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 倍数 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["fc05b39d080f4aac8a9eb91936bafbca"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"切换 遮照",
+                              "objectsToFades":[{
+                                  "objectPath":["92418e2a0b5a408f9e689af57a3f434f"],
+                                  "fadeInfo":{
+                                    "fadeType":"toggle",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 付款 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["9e5fcd2e30c9433c993b88df3adda738"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u212.png"}},
+{
+                  "id":"54cdb9f1e5dd4ad989e0f473a805d5b5",
+                  "label":"",
+                  "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":121,
+                      "y":1},
+                    "size":{
+                      "width":120,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"22ec011801dc4dacb00edc8899f13316",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":121,
+                          "y":1},
+                        "size":{
+                          "width":120,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 键盘 向下滑动 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["f69ab1d9a4e3495cbfac60e897a26f96"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideDown",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 倍数 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["fc05b39d080f4aac8a9eb91936bafbca"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"切换 遮照",
+                              "objectsToFades":[{
+                                  "objectPath":["92418e2a0b5a408f9e689af57a3f434f"],
+                                  "fadeInfo":{
+                                    "fadeType":"toggle",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 付款 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["9e5fcd2e30c9433c993b88df3adda738"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u212.png"}},
+{
+                  "id":"7bbba7f6932e4957879018e3fe8e3f9e",
+                  "label":"",
+                  "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":238,
+                      "y":1},
+                    "size":{
+                      "width":120,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"f7c938284ee8410584d1fefd0b614b1a",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":238,
+                          "y":1},
+                        "size":{
+                          "width":120,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 键盘 向下滑动 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["f69ab1d9a4e3495cbfac60e897a26f96"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideDown",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 倍数 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["fc05b39d080f4aac8a9eb91936bafbca"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"切换 遮照",
+                              "objectsToFades":[{
+                                  "objectPath":["92418e2a0b5a408f9e689af57a3f434f"],
+                                  "fadeInfo":{
+                                    "fadeType":"toggle",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 付款 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["9e5fcd2e30c9433c993b88df3adda738"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u212.png"}},
+{
+                  "id":"845450fb62044b008e59e10b4a1719f6",
+                  "label":"",
+                  "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":2,
+                      "y":40},
+                    "size":{
+                      "width":120,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"b84ecd71cdfa4a6bb6622c06acc160a0",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":2,
+                          "y":40},
+                        "size":{
+                          "width":120,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 键盘 向下滑动 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["f69ab1d9a4e3495cbfac60e897a26f96"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideDown",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 倍数 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["fc05b39d080f4aac8a9eb91936bafbca"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"切换 遮照",
+                              "objectsToFades":[{
+                                  "objectPath":["92418e2a0b5a408f9e689af57a3f434f"],
+                                  "fadeInfo":{
+                                    "fadeType":"toggle",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 付款 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["9e5fcd2e30c9433c993b88df3adda738"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u212.png"}},
+{
+                  "id":"daf01c892ce548cf870f836e73e970ca",
+                  "label":"",
+                  "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":121,
+                      "y":40},
+                    "size":{
+                      "width":120,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"208a75abfabd416c8e41051951cdeca6",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":121,
+                          "y":40},
+                        "size":{
+                          "width":120,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 键盘 向下滑动 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["f69ab1d9a4e3495cbfac60e897a26f96"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideDown",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 倍数 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["fc05b39d080f4aac8a9eb91936bafbca"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"切换 遮照",
+                              "objectsToFades":[{
+                                  "objectPath":["92418e2a0b5a408f9e689af57a3f434f"],
+                                  "fadeInfo":{
+                                    "fadeType":"toggle",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 付款 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["9e5fcd2e30c9433c993b88df3adda738"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u212.png"}},
+{
+                  "id":"c4bd26db86a04661931d236f08b9b091",
+                  "label":"",
+                  "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":238,
+                      "y":40},
+                    "size":{
+                      "width":120,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7fb7acdd543b44dc8db40af6a7d2eb53",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":238,
+                          "y":40},
+                        "size":{
+                          "width":120,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 键盘 向下滑动 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["f69ab1d9a4e3495cbfac60e897a26f96"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideDown",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 倍数 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["fc05b39d080f4aac8a9eb91936bafbca"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"切换 遮照",
+                              "objectsToFades":[{
+                                  "objectPath":["92418e2a0b5a408f9e689af57a3f434f"],
+                                  "fadeInfo":{
+                                    "fadeType":"toggle",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 付款 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["9e5fcd2e30c9433c993b88df3adda738"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u212.png"}},
+{
+                  "id":"dbf3efb1517645ae8d0304916adfe027",
+                  "label":"",
+                  "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":2,
+                      "y":79},
+                    "size":{
+                      "width":120,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"428372412e6044f7802b4a6f8ed29ee1",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":2,
+                          "y":79},
+                        "size":{
+                          "width":120,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 键盘 向下滑动 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["f69ab1d9a4e3495cbfac60e897a26f96"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideDown",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 倍数 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["fc05b39d080f4aac8a9eb91936bafbca"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"切换 遮照",
+                              "objectsToFades":[{
+                                  "objectPath":["92418e2a0b5a408f9e689af57a3f434f"],
+                                  "fadeInfo":{
+                                    "fadeType":"toggle",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 付款 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["9e5fcd2e30c9433c993b88df3adda738"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u212.png"}},
+{
+                  "id":"022d796d4116422b8802f96c0d5867f9",
+                  "label":"",
+                  "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":121,
+                      "y":79},
+                    "size":{
+                      "width":120,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"c5da9165ebcc490b910a740a1841e4bd",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":121,
+                          "y":79},
+                        "size":{
+                          "width":120,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 键盘 向下滑动 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["f69ab1d9a4e3495cbfac60e897a26f96"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideDown",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 倍数 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["fc05b39d080f4aac8a9eb91936bafbca"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"切换 遮照",
+                              "objectsToFades":[{
+                                  "objectPath":["92418e2a0b5a408f9e689af57a3f434f"],
+                                  "fadeInfo":{
+                                    "fadeType":"toggle",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 付款 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["9e5fcd2e30c9433c993b88df3adda738"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u212.png"}},
+{
+                  "id":"d4a38b9c4cb947a0a8d1c9fe13a71ee2",
+                  "label":"",
+                  "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":238,
+                      "y":79},
+                    "size":{
+                      "width":120,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"9d5f4368f9e741f7bddf8632620aa9ca",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":238,
+                          "y":79},
+                        "size":{
+                          "width":120,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 键盘 向下滑动 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["f69ab1d9a4e3495cbfac60e897a26f96"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideDown",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 倍数 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["fc05b39d080f4aac8a9eb91936bafbca"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"切换 遮照",
+                              "objectsToFades":[{
+                                  "objectPath":["92418e2a0b5a408f9e689af57a3f434f"],
+                                  "fadeInfo":{
+                                    "fadeType":"toggle",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 付款 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["9e5fcd2e30c9433c993b88df3adda738"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u212.png"}},
+{
+                  "id":"d2c0392f169e46d1be3296d1655cc70b",
+                  "label":"",
+                  "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":2,
+                      "y":118},
+                    "size":{
+                      "width":120,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"ed285b2bba6a4928803adce0df9e0046",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":2,
+                          "y":118},
+                        "size":{
+                          "width":120,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u212.png"}},
+{
+                  "id":"f1b9780066b7495880be4147590e32ee",
+                  "label":"",
+                  "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":121,
+                      "y":118},
+                    "size":{
+                      "width":120,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"ed2d32bb346f4ba3abd7f1d7352d1e0a",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":121,
+                          "y":118},
+                        "size":{
+                          "width":120,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 键盘 向下滑动 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["f69ab1d9a4e3495cbfac60e897a26f96"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideDown",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 倍数 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["fc05b39d080f4aac8a9eb91936bafbca"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"切换 遮照",
+                              "objectsToFades":[{
+                                  "objectPath":["92418e2a0b5a408f9e689af57a3f434f"],
+                                  "fadeInfo":{
+                                    "fadeType":"toggle",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 付款 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["9e5fcd2e30c9433c993b88df3adda738"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u212.png"}},
+{
+                  "id":"0e9d1fec0c5a44b58764a24176781b37",
+                  "label":"",
+                  "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "location":{
+                      "x":238,
+                      "y":118},
+                    "size":{
+                      "width":120,
+                      "height":40}},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"1803ae51e1374b2ca1374c32f726d6c5",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"f69ab1d9a4e3495cbfac60e897a26f96",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "location":{
+                          "x":238,
+                          "y":118},
+                        "size":{
+                          "width":120,
+                          "height":40}},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"隐藏 键盘 向下滑动 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["f69ab1d9a4e3495cbfac60e897a26f96"],
+                                  "fadeInfo":{
+                                    "fadeType":"hide",
+                                    "options":{
+                                      "easing":"slideDown",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 倍数 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["fc05b39d080f4aac8a9eb91936bafbca"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"切换 遮照",
+                              "objectsToFades":[{
+                                  "objectPath":["92418e2a0b5a408f9e689af57a3f434f"],
+                                  "fadeInfo":{
+                                    "fadeType":"toggle",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 付款 相对位置为 (0,161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["9e5fcd2e30c9433c993b88df3adda738"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u212.png"}}]}]},
+{
+          "id":"fc05b39d080f4aac8a9eb91936bafbca",
+          "label":"倍数",
+          "type":"dynamicPanel",
+          "styleType":"dynamicPanel",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":260,
+              "y":572},
+            "size":{
+              "width":360,
+              "height":70}},
+          "adaptiveStyles":{
+},
+          "scrollbars":"none",
+          "fitToContent":false,
+          "propagate":false,
+          "diagrams":[{
+              "id":"f51439e205c1426890ba6642e422eee7",
+              "label":"State1",
+              "type":"Axure:PanelDiagram",
+              "objects":[{
+                  "id":"2bb7efc503e6419c9e5410a7e4ac8e88",
+                  "label":"",
+                  "parentDynamicPanel":"fc05b39d080f4aac8a9eb91936bafbca",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF666666},
+                    "size":{
+                      "width":360,
+                      "height":72},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e71e5b87edf24a8abd317063b6455597",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"fc05b39d080f4aac8a9eb91936bafbca",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF666666},
+                        "size":{
+                          "width":360,
+                          "height":72},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u237.png"}},
+{
+                  "id":"453a12510f6f45f394e8250de8da5684",
+                  "label":"",
+                  "parentDynamicPanel":"fc05b39d080f4aac8a9eb91936bafbca",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "horizontalAlignment":"left",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF666666},
+                    "location":{
+                      "x":131,
+                      "y":8},
+                    "size":{
+                      "width":20,
+                      "height":20},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a0dd705558034591971f41c1d026c25a",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"fc05b39d080f4aac8a9eb91936bafbca",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"left",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF666666},
+                        "location":{
+                          "x":131,
+                          "y":8},
+                        "size":{
+                          "width":20,
+                          "height":20},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u239.png"}},
+{
+                  "id":"8b1d3ce2d9334dcc8728767fadd66a29",
+                  "label":"",
+                  "parentDynamicPanel":"fc05b39d080f4aac8a9eb91936bafbca",
+                  "type":"textBox",
+                  "styleType":"textBox",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "stateStyles":{
+                      "hint":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "horizontalAlignment":"center"}},
+                    "location":{
+                      "x":160,
+                      "y":5},
+                    "size":{
+                      "width":40,
+                      "height":25}},
+                  "adaptiveStyles":{
+},
+                  "interactionMap":{
+                    "onFocus":{
+                      "description":"OnFocus",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"fadeWidget",
+                              "description":"显示 键盘 向上滑动 500 ms",
+                              "objectsToFades":[{
+                                  "objectPath":["f69ab1d9a4e3495cbfac60e897a26f96"],
+                                  "fadeInfo":{
+                                    "fadeType":"show",
+                                    "options":{
+                                      "easing":"slideUp",
+                                      "duration":500,
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 倍数 相对位置为 (0,-161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["fc05b39d080f4aac8a9eb91936bafbca"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"-161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]},
+{
+                              "action":"fadeWidget",
+                              "description":"切换 遮照",
+                              "objectsToFades":[{
+                                  "objectPath":["92418e2a0b5a408f9e689af57a3f434f"],
+                                  "fadeInfo":{
+                                    "fadeType":"toggle",
+                                    "options":{
+                                      "showType":"none"}}}]},
+{
+                              "action":"moveWidget",
+                              "description":"移动 付款 相对位置为 (0,-161) 线性 500ms",
+                              "objectsToMoves":[{
+                                  "objectPath":["9e5fcd2e30c9433c993b88df3adda738"],
+                                  "moveInfo":{
+                                    "moveType":"delta",
+                                    "xValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"0",
+                                      "stos":[]},
+                                    "yValue":{
+                                      "exprType":"stringLiteral",
+                                      "value":"-161",
+                                      "stos":[]},
+                                    "options":{
+                                      "easing":"linear",
+                                      "duration":500}}}]}]}]}},
+                  "tabbable":true,
+                  "placeholderText":"1"},
+{
+                  "id":"044a7be8e30b4b55899a988e985fed5f",
+                  "label":"",
+                  "parentDynamicPanel":"fc05b39d080f4aac8a9eb91936bafbca",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF666666},
+                    "location":{
+                      "x":202,
+                      "y":8},
+                    "size":{
+                      "width":30,
+                      "height":20},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"7cefbbc0f2ff4a79aa497df70cd8efd9",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"fc05b39d080f4aac8a9eb91936bafbca",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF666666},
+                        "location":{
+                          "x":202,
+                          "y":8},
+                        "size":{
+                          "width":30,
+                          "height":20},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u242.png"}},
+{
+                  "id":"ed3e64427fea450999f30bb9ff7490fc",
+                  "label":"",
+                  "parentDynamicPanel":"fc05b39d080f4aac8a9eb91936bafbca",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF666666},
+                    "location":{
+                      "x":135,
+                      "y":36},
+                    "size":{
+                      "width":90,
+                      "height":30},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"bbe9fa8d184a482d9401453a47cebad1",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"fc05b39d080f4aac8a9eb91936bafbca",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF666666},
+                        "location":{
+                          "x":135,
+                          "y":36},
+                        "size":{
+                          "width":90,
+                          "height":30},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u244.png"}},
+{
+                  "id":"5f15ff91356944659a65cb9224da1aac",
+                  "label":"",
+                  "parentDynamicPanel":"fc05b39d080f4aac8a9eb91936bafbca",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF666666},
+                    "location":{
+                      "x":261,
+                      "y":21},
+                    "size":{
+                      "width":90,
+                      "height":30},
+                    "borderWidth":"-1"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"a0588c554dc34f37b712ae68d527fe24",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"fc05b39d080f4aac8a9eb91936bafbca",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF666666},
+                        "location":{
+                          "x":261,
+                          "y":21},
+                        "size":{
+                          "width":90,
+                          "height":30},
+                        "borderWidth":"-1"},
+                      "adaptiveStyles":{
+}}],
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u244.png"}},
+{
+                  "id":"56743b9d54494205bcd64b885aff893e",
+                  "label":"",
+                  "parentDynamicPanel":"fc05b39d080f4aac8a9eb91936bafbca",
+                  "type":"buttonShape",
+                  "styleType":"buttonShape",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFFFF,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFF009DD9},
+                    "location":{
+                      "x":30,
+                      "y":21},
+                    "size":{
+                      "width":70,
+                      "height":30},
+                    "borderWidth":"-1",
+                    "cornerRadiusTopLeft":"2"},
+                  "adaptiveStyles":{
+},
+                  "objects":[{
+                      "id":"e925283b07e0420ca03612de3c5ca7a3",
+                      "label":"",
+                      "isContained":true,
+                      "parentDynamicPanel":"fc05b39d080f4aac8a9eb91936bafbca",
+                      "type":"richTextPanel",
+                      "styleType":"paragraph",
+                      "visible":true,
+                      "style":{
+                        "fontName":"'Applied Font Regular', 'Applied Font'",
+                        "foreGroundFill":{
+                          "fillType":"solid",
+                          "color":0xFFFFFFFF,
+                          "opacity":1},
+                        "fill":{
+                          "fillType":"solid",
+                          "color":0xFF009DD9},
+                        "location":{
+                          "x":30,
+                          "y":21},
+                        "size":{
+                          "width":70,
+                          "height":30},
+                        "borderWidth":"-1",
+                        "cornerRadiusTopLeft":"2"},
+                      "adaptiveStyles":{
+}}],
+                  "interactionMap":{
+                    "onClick":{
+                      "description":"OnClick",
+                      "cases":[{
+                          "description":"用例 1",
+                          "isNewIfGroup":false,
+                          "actions":[{
+                              "action":"linkWindow",
+                              "description":"在 当前窗口 打开 购彩_发合买",
+                              "target":{
+                                "targetType":"page",
+                                "url":"购彩_发合买.html",
+                                "includeVariables":true},
+                              "linkType":"current"}]}]}},
+                  "tabbable":true,
+                  "images":{
+                    "normal~":"images/购彩_任选9支付页面/u248.png"}}]}]},
+{
+          "id":"92418e2a0b5a408f9e689af57a3f434f",
+          "label":"遮照",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":false,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "opacity":"0.5",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC},
+            "location":{
+              "x":261,
+              "y":50},
+            "size":{
+              "width":359,
+              "height":360},
+            "visible":false,
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"29f126f12b6945b7bf6c67d924b4c976",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":false,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "opacity":"0.5",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC},
+                "location":{
+                  "x":261,
+                  "y":50},
+                "size":{
+                  "width":359,
+                  "height":360},
+                "visible":false,
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"fadeWidget",
+                      "description":"隐藏 键盘 向下滑动 500 ms",
+                      "objectsToFades":[{
+                          "objectPath":["f69ab1d9a4e3495cbfac60e897a26f96"],
+                          "fadeInfo":{
+                            "fadeType":"hide",
+                            "options":{
+                              "easing":"slideDown",
+                              "duration":500,
+                              "showType":"none"}}}]},
+{
+                      "action":"moveWidget",
+                      "description":"移动 倍数 相对位置为 (0,161) 线性 500ms",
+                      "objectsToMoves":[{
+                          "objectPath":["fc05b39d080f4aac8a9eb91936bafbca"],
+                          "moveInfo":{
+                            "moveType":"delta",
+                            "xValue":{
+                              "exprType":"stringLiteral",
+                              "value":"0",
+                              "stos":[]},
+                            "yValue":{
+                              "exprType":"stringLiteral",
+                              "value":"161",
+                              "stos":[]},
+                            "options":{
+                              "easing":"linear",
+                              "duration":500}}}]},
+{
+                      "action":"fadeWidget",
+                      "description":"切换 遮照",
+                      "objectsToFades":[{
+                          "objectPath":["92418e2a0b5a408f9e689af57a3f434f"],
+                          "fadeInfo":{
+                            "fadeType":"toggle",
+                            "options":{
+                              "showType":"none"}}}]}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/购彩_任选9支付页面/遮照_u250.png"}},
+{
+          "id":"9e5fcd2e30c9433c993b88df3adda738",
+          "label":"付款",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "fontSize":"16px",
+            "fontWeight":"200",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFFFFFF,
+              "opacity":1},
+            "stateStyles":{
+              "mouseOver":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFFA9767}},
+              "mouseDown":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFE37226}},
+              "selected":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFC6681C}},
+              "disabled":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999,
+                  "opacity":1},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFE4E4E4},
+                "borderWidth":"1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF999999}}},
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFEF8238},
+            "location":{
+              "x":534,
+              "y":544},
+            "size":{
+              "width":56,
+              "height":56},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFE38B33},
+            "cornerRadiusTopLeft":"101"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"a34100258c544ce7aa308588a28c313c",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "fontSize":"16px",
+                "fontWeight":"200",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFFFF,
+                  "opacity":1},
+                "stateStyles":{
+                  "mouseOver":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFFA9767}},
+                  "mouseDown":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFE37226}},
+                  "selected":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFC6681C}},
+                  "disabled":{
+                    "fontName":"'Applied Font Regular', 'Applied Font'",
+                    "foreGroundFill":{
+                      "fillType":"solid",
+                      "color":0xFF999999,
+                      "opacity":1},
+                    "fill":{
+                      "fillType":"solid",
+                      "color":0xFFE4E4E4},
+                    "borderWidth":"1",
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFF999999}}},
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFEF8238},
+                "location":{
+                  "x":534,
+                  "y":544},
+                "size":{
+                  "width":56,
+                  "height":56},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFE38B33},
+                "cornerRadiusTopLeft":"101"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 购彩_消费劵付款",
+                      "target":{
+                        "targetType":"page",
+                        "url":"购彩_消费劵付款.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"images/购彩_足球单场竞猜/u163.png",
+            "selected~":"images/购彩_足球单场竞猜/u163_selected.png",
+            "mouseOver~":"images/购彩_足球单场竞猜/u163_mouseOver.png",
+            "mouseDown~":"images/购彩_足球单场竞猜/u163_mouseDown.png",
+            "disabled~":"images/购彩_足球单场竞猜/u163_disabled.png"}},
+{
+          "id":"e5691eb632f04670a9ac66954367e1af",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'Applied Font Regular', 'Applied Font'",
+            "horizontalAlignment":"left",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFFF0000,
+              "opacity":1},
+            "location":{
+              "x":660,
+              "y":572},
+            "size":{
+              "width":280,
+              "height":38},
+            "borderWidth":"-1"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0a7315261214445eb97fb0ef2f452be1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Applied Font Regular', 'Applied Font'",
+                "horizontalAlignment":"left",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFFF0000,
+                  "opacity":1},
+                "location":{
+                  "x":660,
+                  "y":572},
+                "size":{
+                  "width":280,
+                  "height":38},
+                "borderWidth":"-1"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/购彩_任选9支付页面/u254.png"}}]}},
+  "masters":{
+    "1f6fdf1cbae8461b8d4107a82cc7257a":{
+      "packageId":"1f6fdf1cbae8461b8d4107a82cc7257a",
+      "type":"Axure:Master",
+      "name":"s'ta'tu'ba'r",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"ec0a32b8b7814c0ca8de807fe48ac2b1",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'Applied Font Regular', 'Applied Font'",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFF333333},
+              "size":{
+                "width":360,
+                "height":20},
+              "borderWidth":"-1"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"c8e01e4a4a2648a5b2c1e2ae87fb9b2c",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFF333333},
+                  "size":{
+                    "width":360,
+                    "height":20},
+                  "borderWidth":"-1"},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/首页/u3.png"}}]}},
+    "71e5b62863c34b2cbd021a8619b34788":{
+      "packageId":"71e5b62863c34b2cbd021a8619b34788",
+      "type":"Axure:Master",
+      "name":"操作栏BG",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"76b1fae92bb340fc90c2f526bcd791fb",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'Applied Font Regular', 'Applied Font'",
+              "fontSize":"18px",
+              "fontWeight":"200",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFCB463D},
+              "size":{
+                "width":360,
+                "height":48},
+              "borderWidth":"-1",
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFFCCCCCC}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"dce1f2351006496cb68e5684fbc89144",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fontSize":"18px",
+                  "fontWeight":"200",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFCB463D},
+                  "size":{
+                    "width":360,
+                    "height":48},
+                  "borderWidth":"-1",
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFFCCCCCC}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/首页/u25.png"}}]}},
+    "9ab1820aec5c4381aba7c287cd43edb0":{
+      "packageId":"9ab1820aec5c4381aba7c287cd43edb0",
+      "type":"Axure:Master",
+      "name":"竞彩下注",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[]}},
+    "6b9b8e0bafc741f1a974aedf2291e60a":{
+      "packageId":"6b9b8e0bafc741f1a974aedf2291e60a",
+      "type":"Axure:Master",
+      "name":"虚拟按键",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"d745a216917f40ce9655ac78fe95f401",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'Applied Font Regular', 'Applied Font'",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFF333333},
+              "size":{
+                "width":360,
+                "height":48},
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFF666666}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"7362f26751cd4b369326b2a4b769ca7f",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFF333333},
+                  "size":{
+                    "width":360,
+                    "height":48},
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFF666666}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/首页/u6.png"}},
+{
+            "id":"540c3bbc0abc41389820767a72d8fd68",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'Applied Font Regular', 'Applied Font'",
+              "fontSize":"16px",
+              "fontWeight":"200",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "stateStyles":{
+                "mouseOver":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFF2F2F2}},
+                "mouseDown":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFD7D7D7}},
+                "selected":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFE4E4E4}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFF333333},
+              "size":{
+                "width":120,
+                "height":48},
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFF666666}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"c4250acce67f436bbc2ae210aa30c71a",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fontSize":"16px",
+                  "fontWeight":"200",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "stateStyles":{
+                    "mouseOver":{
+                      "fontName":"'Applied Font Regular', 'Applied Font'",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFF2F2F2}},
+                    "mouseDown":{
+                      "fontName":"'Applied Font Regular', 'Applied Font'",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFD7D7D7}},
+                    "selected":{
+                      "fontName":"'Applied Font Regular', 'Applied Font'",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFE4E4E4}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFF333333},
+                  "size":{
+                    "width":120,
+                    "height":48},
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFF666666}},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"Case 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 返回",
+                        "target":{
+                          "targetType":"backUrl",
+                          "includeVariables":false},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"images/首页/u8.png",
+              "selected~":"images/首页/u8_selected.png",
+              "mouseOver~":"images/首页/u8_mouseOver.png",
+              "mouseDown~":"images/首页/u8_mouseDown.png"}},
+{
+            "id":"553fb939255d4f20ad526d57991d1672",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'Applied Font Regular', 'Applied Font'",
+              "fontSize":"16px",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFF1E1E1E,
+                "opacity":1},
+              "stateStyles":{
+                "mouseOver":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFF2F2F2}},
+                "mouseDown":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFD7D7D7}},
+                "selected":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFE4E4E4}}},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFF333333},
+              "location":{
+                "x":240,
+                "y":0},
+              "size":{
+                "width":120,
+                "height":48},
+              "borderFill":{
+                "fillType":"solid",
+                "color":0xFF666666}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"ec8622633cbf4144869d374e852e56c5",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Applied Font Regular', 'Applied Font'",
+                  "fontSize":"16px",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF1E1E1E,
+                    "opacity":1},
+                  "stateStyles":{
+                    "mouseOver":{
+                      "fontName":"'Applied Font Regular', 'Applied Font'",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFF2F2F2}},
+                    "mouseDown":{
+                      "fontName":"'Applied Font Regular', 'Applied Font'",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFD7D7D7}},
+                    "selected":{
+                      "fontName":"'Applied Font Regular', 'Applied Font'",
+                      "fill":{
+                        "fillType":"solid",
+                        "color":0xFFE4E4E4}}},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFF333333},
+                  "location":{
+                    "x":240,
+                    "y":0},
+                  "size":{
+                    "width":120,
+                    "height":48},
+                  "borderFill":{
+                    "fillType":"solid",
+                    "color":0xFF666666}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/首页/u8.png",
+              "selected~":"images/首页/u8_selected.png",
+              "mouseOver~":"images/首页/u8_mouseOver.png",
+              "mouseDown~":"images/首页/u8_mouseDown.png"}}]}}},
+  "objectPaths":{
+    "ef0490d2a98c46689380674121dde10e":{
+      "scriptId":"u0"},
+    "9311fec397444bdeb87da83bb0aeb150":{
+      "scriptId":"u1"},
+    "b85cd41510264f3cac38cd7d24c1b536":{
+      "scriptId":"u2",
+      "ec0a32b8b7814c0ca8de807fe48ac2b1":{
+        "scriptId":"u3"},
+      "c8e01e4a4a2648a5b2c1e2ae87fb9b2c":{
+        "scriptId":"u4"}},
+    "c36cc0b8aa9a4711ba3359ae7a870359":{
+      "scriptId":"u5",
+      "76b1fae92bb340fc90c2f526bcd791fb":{
+        "scriptId":"u6"},
+      "dce1f2351006496cb68e5684fbc89144":{
+        "scriptId":"u7"}},
+    "deda3be5e6664ee495ff7e74a97f9e77":{
+      "scriptId":"u8"},
+    "f53ec2896ee041298b8b0198bb81d2bc":{
+      "scriptId":"u9"},
+    "6102737aac6c4b0b9e429549066d4709":{
+      "scriptId":"u10"},
+    "7e7c007e229c416081a59e8f90188942":{
+      "scriptId":"u11"},
+    "7f9f474f030d4203bfc74bb20e98abba":{
+      "scriptId":"u12"},
+    "24cf4cbf70eb4b508a4e3589e304d249":{
+      "scriptId":"u13"},
+    "b19bec4ff9d147b785a535a730e0c411":{
+      "scriptId":"u14"},
+    "b783395ffe274578b6b45a29a4ec292f":{
+      "scriptId":"u15"},
+    "93ca36cd6dd448ee92b6880eacd24245":{
+      "scriptId":"u16"},
+    "414fb40d16e24ed3bc9aa6f9f45067c2":{
+      "scriptId":"u17",
+      "d745a216917f40ce9655ac78fe95f401":{
+        "scriptId":"u18"},
+      "7362f26751cd4b369326b2a4b769ca7f":{
+        "scriptId":"u19"},
+      "540c3bbc0abc41389820767a72d8fd68":{
+        "scriptId":"u20"},
+      "c4250acce67f436bbc2ae210aa30c71a":{
+        "scriptId":"u21"},
+      "553fb939255d4f20ad526d57991d1672":{
+        "scriptId":"u22"},
+      "ec8622633cbf4144869d374e852e56c5":{
+        "scriptId":"u23"}},
+    "3a43773e00b3437e952e819740022586":{
+      "scriptId":"u24"},
+    "f25295cb69b245dc80d8cfd3025b0943":{
+      "scriptId":"u25"},
+    "4255eaea55d849abada86c3331b430bd":{
+      "scriptId":"u26"},
+    "d4d1dd507bcf462497047984ff79d061":{
+      "scriptId":"u27"},
+    "53e11f71b81747129a08d2bf9dd6d1eb":{
+      "scriptId":"u28"},
+    "4bb9133d779f4999b65d3a3d11d8b915":{
+      "scriptId":"u29"},
+    "8bdd0b3fae3d4e95b65567f8b6a6d68d":{
+      "scriptId":"u30"},
+    "9e5fad3791db43899c4df19150a27417":{
+      "scriptId":"u31"},
+    "0d5d5e371ba64bf3897dc93254b77003":{
+      "scriptId":"u32"},
+    "b92ce8d47de44e49a47175403be2a64d":{
+      "scriptId":"u33"},
+    "1b397805f5224eb19538b92986dd5510":{
+      "scriptId":"u34"},
+    "05a04c0796ff4319ad197494e223f95d":{
+      "scriptId":"u35"},
+    "f3048e2658cf439aada05323c374c75f":{
+      "scriptId":"u36"},
+    "1827597c8ccd41029d48777bb6d68bc0":{
+      "scriptId":"u37"},
+    "279c5a1de3c3435898855206d3097ecb":{
+      "scriptId":"u38"},
+    "9405448628234562b6d38cd9f8af2e35":{
+      "scriptId":"u39"},
+    "e35bf39e1afb4cdbb2f1083b3c277415":{
+      "scriptId":"u40"},
+    "470215c2eec140838054f207196cd5f4":{
+      "scriptId":"u41"},
+    "567f24bfc8084a699008c74f0d42b1c6":{
+      "scriptId":"u42"},
+    "be0892339cd04f8bbc837bca83f1bb33":{
+      "scriptId":"u43"},
+    "727c675c809e411ea357e2851ee0780f":{
+      "scriptId":"u44"},
+    "2715f050d50b420eb10f8cfc97d1cf08":{
+      "scriptId":"u45"},
+    "77e87efd4c7d408fbb1ef50357ef73a3":{
+      "scriptId":"u46"},
+    "5be43a12bf694b6aa00ded9c7ba7ed79":{
+      "scriptId":"u47"},
+    "403f27828bf14fe69ccd1f02d6540d09":{
+      "scriptId":"u48"},
+    "a7556efc5c1b4372b490b5dd0e36e03e":{
+      "scriptId":"u49"},
+    "c02f982547874b64b1fbb4c810858657":{
+      "scriptId":"u50"},
+    "edd9b63e1af247c1b174eae4b2c99c66":{
+      "scriptId":"u51"},
+    "5e4b64d16d2241b6a78932093d05b266":{
+      "scriptId":"u52"},
+    "5bc5ed4d35e94abdaf6c3311a95d1bb1":{
+      "scriptId":"u53"},
+    "a50fff6cb09a431fac81f30ff763fedc":{
+      "scriptId":"u54"},
+    "9bde973fa25f44b0a87923a4dbdd84fc":{
+      "scriptId":"u55"},
+    "c79216a94e7f4f9da3a3cc0c984ac5c2":{
+      "scriptId":"u56"},
+    "1aaf110ec50b4956af2030f51b5bb3e3":{
+      "scriptId":"u57"},
+    "6d3281428faf4bb0a26e4e915958fae5":{
+      "scriptId":"u58"},
+    "9f224f69db69479c848cda43515e6385":{
+      "scriptId":"u59"},
+    "7a48265c3e87471498eb5552a4d182a7":{
+      "scriptId":"u60"},
+    "2f3c3319199f4c2a9a5f00bac4a4e1ec":{
+      "scriptId":"u61"},
+    "6714e8469e9f4baeb861d1bb61d8aeb4":{
+      "scriptId":"u62"},
+    "877a18d8c0bc451d88ec47a3ed332fb7":{
+      "scriptId":"u63"},
+    "15947c2782674e15a0bd80b8e75eccd6":{
+      "scriptId":"u64"},
+    "319b3fffaecb4c9dbac5cc05d575ec8a":{
+      "scriptId":"u65"},
+    "b1d6ba611cda4b819a5dad8dd4fd236a":{
+      "scriptId":"u66"},
+    "28db2435333d43c0a56a4a69a98f2670":{
+      "scriptId":"u67"},
+    "14f82e1c74e24111a697e4f7f282dad9":{
+      "scriptId":"u68"},
+    "e85f8a6a3ffa495ca360ff1b2dbf8323":{
+      "scriptId":"u69"},
+    "967d5650fd0041adbd01c0fc07714b7d":{
+      "scriptId":"u70"},
+    "782a2ce4285d4297b08fc2bb485d835e":{
+      "scriptId":"u71"},
+    "cffbb277e352444d8d7773f6b328386a":{
+      "scriptId":"u72"},
+    "b46edea6aa3944cf9caf22119db2c61e":{
+      "scriptId":"u73"},
+    "7a8af8ff51ee4c52bd050130362716d9":{
+      "scriptId":"u74"},
+    "f2a87273ac83479e880ef7d80b29b3ce":{
+      "scriptId":"u75"},
+    "092c38aadcba4b22a01257ec1a798a02":{
+      "scriptId":"u76"},
+    "b03b1d1a71e9484d968e565e3ccc25e2":{
+      "scriptId":"u77"},
+    "a7d8108343c64ff8aa0db4090f34df7c":{
+      "scriptId":"u78"},
+    "cedd38ec5b874020bfba82cd26744459":{
+      "scriptId":"u79"},
+    "c397065f232a489c87c273367a2aa118":{
+      "scriptId":"u80"},
+    "807b7dfcbc5345cd94bebf4c3069f6a5":{
+      "scriptId":"u81"},
+    "caf4bc7e6bc54967b6ff8a7c0dd82e74":{
+      "scriptId":"u82"},
+    "1528a371e8d843af91bcad2ad115fc03":{
+      "scriptId":"u83"},
+    "4949bc9debf74dbfa7679e1d59083117":{
+      "scriptId":"u84"},
+    "b008741562b446ab817448ab6198a322":{
+      "scriptId":"u85"},
+    "be843e43eeb24f42bc8a384b47d88fe5":{
+      "scriptId":"u86"},
+    "f0b8255a529d4108957f7256872b5e5d":{
+      "scriptId":"u87"},
+    "dad36828cd75474eace1c7bb6be7c887":{
+      "scriptId":"u88"},
+    "bd390e90cd844a16a20abc41147903a0":{
+      "scriptId":"u89"},
+    "7d449ebc072c43d9bdb537b62eb402c4":{
+      "scriptId":"u90"},
+    "8cf1d60332c4497f83835f68933b4322":{
+      "scriptId":"u91"},
+    "822c73c6a82f4ba6abafda0248b4a32f":{
+      "scriptId":"u92"},
+    "7010e291a0a74aa3b25cb3b5cea680b2":{
+      "scriptId":"u93"},
+    "4e43cfadbb6242079494fbad541d5b7e":{
+      "scriptId":"u94"},
+    "16c3cddc15a24d28b07f54b790a91ba2":{
+      "scriptId":"u95"},
+    "a56b87ffff31478eb5b105afd3791fb1":{
+      "scriptId":"u96"},
+    "6769ccb541cc4d918ddf01e6b0f41ac7":{
+      "scriptId":"u97"},
+    "57d78930d8294d1d9476f844803b9ac4":{
+      "scriptId":"u98"},
+    "2e66067dbe324bf1a8d8e6f7be544da2":{
+      "scriptId":"u99"},
+    "ed832b3cbfd14cda9445c4f559bda5d6":{
+      "scriptId":"u100"},
+    "bac87fee84e845bcb6745e8cf893559f":{
+      "scriptId":"u101"},
+    "36d57c6649854f59a36343b0431f6ebc":{
+      "scriptId":"u102"},
+    "e475416b0f2e482da3c9a3e1b14ee3ae":{
+      "scriptId":"u103"},
+    "9bcc21249935479793cd7a14abc86a35":{
+      "scriptId":"u104"},
+    "14435488ccad4c72bcd845040c1e07fd":{
+      "scriptId":"u105"},
+    "ff33e32f18624600828dcb0d97c6e348":{
+      "scriptId":"u106"},
+    "24a070ca543b4e438346682b748e8ca8":{
+      "scriptId":"u107"},
+    "b946638444e344e99def5719316666f4":{
+      "scriptId":"u108"},
+    "c580cc65da4348eea9e32f75383aad45":{
+      "scriptId":"u109"},
+    "58e814e316df4aaeb8cbf4b684181b95":{
+      "scriptId":"u110"},
+    "870c37f79c994cbfafba6c43c5460522":{
+      "scriptId":"u111"},
+    "4d1c276be6dd4bf796e4618b0c670bb2":{
+      "scriptId":"u112"},
+    "6f03f8d5bab4452387e65343097ac66b":{
+      "scriptId":"u113"},
+    "cd3cdad198de487caad9695520d853cb":{
+      "scriptId":"u114"},
+    "42cf6bdf078f4508a8c8ed3a8e42c7ba":{
+      "scriptId":"u115"},
+    "0d7d168b40244b2f93859756215097b9":{
+      "scriptId":"u116"},
+    "be9e7fe70b604efea5f68fb670d6a546":{
+      "scriptId":"u117"},
+    "ec418d00d81e4f03b4b1e945552af8eb":{
+      "scriptId":"u118"},
+    "ac343a564d884e29b2282eda2396bf6f":{
+      "scriptId":"u119"},
+    "0df1f22f635e4c92bc246c0edfda3295":{
+      "scriptId":"u120"},
+    "8f4e973a6bf74d4bbce6ef871044e624":{
+      "scriptId":"u121"},
+    "f4aff315c4d14ec4a151518830d88ca0":{
+      "scriptId":"u122"},
+    "74995c7fbc5d4745ba5a4dc154e6e6ea":{
+      "scriptId":"u123"},
+    "4880d1344549481c92fe0c018ecaf10e":{
+      "scriptId":"u124"},
+    "74d12d24754548c49c603af766adf94d":{
+      "scriptId":"u125"},
+    "628ff9dae13d436c934186206db7f653":{
+      "scriptId":"u126"},
+    "b13007222f1f4d1ba35b579f03cebb17":{
+      "scriptId":"u127"},
+    "c0a3a2f508d641c48ee3a4281243b064":{
+      "scriptId":"u128"},
+    "b59cd32c8c19461a9d063eba6cd7d62c":{
+      "scriptId":"u129"},
+    "7ac8cf1aeac949d79e96df8578a1457e":{
+      "scriptId":"u130"},
+    "04c78a280b2e4ab090542cd75cd6d0a4":{
+      "scriptId":"u131"},
+    "6c0891fa8d9041409d474c334f0e90f4":{
+      "scriptId":"u132"},
+    "da60e57573484277aa3db2954bc2c568":{
+      "scriptId":"u133"},
+    "40a17891e1bd47798628ccee4b80a453":{
+      "scriptId":"u134"},
+    "214e66a803e64e5db33dc5309f393c28":{
+      "scriptId":"u135"},
+    "20bd1480264d437182689d1ffd82099d":{
+      "scriptId":"u136"},
+    "1e17103b06584ea08624b3de3a462400":{
+      "scriptId":"u137"},
+    "0332781292e447c89d458be0d548461d":{
+      "scriptId":"u138"},
+    "ee3d3abc1d494f4ca0ec0deb8048d7df":{
+      "scriptId":"u139"},
+    "a06d7f0a42bc454fa1afefd41e503e80":{
+      "scriptId":"u140"},
+    "6284fcb40a72429cb86542325c4beeb6":{
+      "scriptId":"u141"},
+    "2f7e40613a794a93a73fb34410ee3fc3":{
+      "scriptId":"u142"},
+    "96a95317783e447dac42c49e7b93dd2a":{
+      "scriptId":"u143"},
+    "4f314f226a744e89bdf84b88c4bb7fb9":{
+      "scriptId":"u144"},
+    "3e892bbfbb084926b245553879bff6dd":{
+      "scriptId":"u145"},
+    "23177f77bf1241b7baf2e81ff2c2a73c":{
+      "scriptId":"u146"},
+    "8f80a59437a64ef9a6f4d72354e6ef92":{
+      "scriptId":"u147"},
+    "7418e8955f39469c8f70769baba894f3":{
+      "scriptId":"u148"},
+    "4d5d050ebbfb4e5fab1c3784a7bd3528":{
+      "scriptId":"u149"},
+    "10d2c9fa245446dba31b45bf3a87e5ca":{
+      "scriptId":"u150"},
+    "04684cdf8ca64821964c16c424a8b86d":{
+      "scriptId":"u151"},
+    "4e20168f76904248bf18c599e2d1f547":{
+      "scriptId":"u152"},
+    "8fc36bdfb83346ee86036473ab50c685":{
+      "scriptId":"u153"},
+    "ee13a4f76575429d86e2b51875577a6b":{
+      "scriptId":"u154"},
+    "570b383aee1e452ea2c334925fa55d35":{
+      "scriptId":"u155"},
+    "4f56f51bdd1e45489e23e9e09fac0d3a":{
+      "scriptId":"u156"},
+    "df5192b4a8ff42a7be88495fa656f390":{
+      "scriptId":"u157"},
+    "92961715906e47009f7cddfede5d4689":{
+      "scriptId":"u158"},
+    "28e061c6be0c41919db694efdcf5b4b2":{
+      "scriptId":"u159"},
+    "58e6625a776e4f868039aa66278573c4":{
+      "scriptId":"u160"},
+    "d07c1314b56946ab83eb8285e5b0fb5d":{
+      "scriptId":"u161"},
+    "a8139a262f03426ba46419371ab901fa":{
+      "scriptId":"u162"},
+    "a2354f031ea94aebb644d290bb3c9743":{
+      "scriptId":"u163"},
+    "9dc2c84ea1e84174b5a6295cf1832cf5":{
+      "scriptId":"u164"},
+    "58d226f38ea24723b8a2c158c6d492de":{
+      "scriptId":"u165"},
+    "f07c2c6ed66845f78b5d0ba61046bf75":{
+      "scriptId":"u166"},
+    "cb472171d4b84c86a3ca96fe395dd675":{
+      "scriptId":"u167"},
+    "bd274d80c0b6471981daeb7f12fad396":{
+      "scriptId":"u168"},
+    "7e57aedd57374c369658184016372b61":{
+      "scriptId":"u169"},
+    "b57af5131e32420fb1196d0b83bc9bc3":{
+      "scriptId":"u170"},
+    "7329b09a784b4c0296b73f8f3b82a405":{
+      "scriptId":"u171"},
+    "cd581f84a1294c86930e9e20076e0194":{
+      "scriptId":"u172"},
+    "052ea3ddf8d2491fa2fec33bfe454392":{
+      "scriptId":"u173"},
+    "241d564a1f104d39bdad865828f1fe34":{
+      "scriptId":"u174"},
+    "491518ce9c7b4e0e9bd7a8741ed7c278":{
+      "scriptId":"u175"},
+    "028e5faa0a314356bf63832c8219adad":{
+      "scriptId":"u176"},
+    "174d9104727a4bcebd75ecad9d27c836":{
+      "scriptId":"u177"},
+    "51d22cdf22f945428e763b27ef3dbadf":{
+      "scriptId":"u178"},
+    "050c6592b6ad4d188e4dc98625b8bf4b":{
+      "scriptId":"u179"},
+    "714544c65de440479cc388755c21dfba":{
+      "scriptId":"u180"},
+    "7f4f4a30c26345e2a87c9bbd0365bbce":{
+      "scriptId":"u181"},
+    "feb3892936c1436895965ebba6b1256e":{
+      "scriptId":"u182"},
+    "5b4442c4bdb3418182eccdaf4a22ef5c":{
+      "scriptId":"u183"},
+    "8995b248cc16425e99a161b865d3a703":{
+      "scriptId":"u184"},
+    "8222a9a3a02744a6860d066249475749":{
+      "scriptId":"u185"},
+    "bb7ffc4a788a46d297e1f9b8f650c8c2":{
+      "scriptId":"u186"},
+    "fe39d189a9c84e468e6aef47b7bf9a11":{
+      "scriptId":"u187"},
+    "cc071627eb4046aa8e5104586cdc8e54":{
+      "scriptId":"u188"},
+    "e0da9afd31134145a7fcde2d254d1d86":{
+      "scriptId":"u189"},
+    "1cd5dadf8f96405c82ebc9415010db45":{
+      "scriptId":"u190"},
+    "1299ff8f8bd34c6d87236b2f203da152":{
+      "scriptId":"u191"},
+    "b4173fd3c72145fd8fc444d94624e88c":{
+      "scriptId":"u192"},
+    "9ca69030131d4c2f8facfa6c3ef1352a":{
+      "scriptId":"u193"},
+    "df0f77f7ecd14d9dac35dae0888754ff":{
+      "scriptId":"u194"},
+    "003892c1e29d4c1581ab1ab1d6973ac0":{
+      "scriptId":"u195"},
+    "28f337b36a2c41c7ae7d4c05d9019b16":{
+      "scriptId":"u196"},
+    "be7a7d27053046c9a8f145ea4bfcf035":{
+      "scriptId":"u197"},
+    "9e03e1d1682f4a9ea5322b4b814934bc":{
+      "scriptId":"u198"},
+    "c5c4626842d74aa29aa9a76236499cf4":{
+      "scriptId":"u199"},
+    "e1f2cf1c049745cb98b53746a78c3149":{
+      "scriptId":"u200"},
+    "9dd895f6d12e403f992a65f8899eb159":{
+      "scriptId":"u201"},
+    "33ab5ddf415e471fb0e76ec8314933c9":{
+      "scriptId":"u202"},
+    "fb34488cc0524259aaa49e15c25ab19d":{
+      "scriptId":"u203"},
+    "b7c9540c04e046d5b566096c66713a1f":{
+      "scriptId":"u204"},
+    "8304e45c27a543a6bedc08c3c5dcdbbe":{
+      "scriptId":"u205"},
+    "96d71fcebcbc4abbafbc1f650d8e0af5":{
+      "scriptId":"u206"},
+    "b627c399c8a748ceaab71c48002170ba":{
+      "scriptId":"u207"},
+    "d4127056dede4b8eb8b31ba5ab727706":{
+      "scriptId":"u208"},
+    "4c0cec4214c64d8e964787c3f2279999":{
+      "scriptId":"u209"},
+    "0ece33cc5fbf4e529ff88b7b7f4ac009":{
+      "scriptId":"u210"},
+    "f69ab1d9a4e3495cbfac60e897a26f96":{
+      "scriptId":"u211"},
+    "ac51a75406c345c6b64bdfa0febbca4b":{
+      "scriptId":"u212"},
+    "2e3e1ae5eb6f4f58a578a45a360eecd2":{
+      "scriptId":"u213"},
+    "54cdb9f1e5dd4ad989e0f473a805d5b5":{
+      "scriptId":"u214"},
+    "22ec011801dc4dacb00edc8899f13316":{
+      "scriptId":"u215"},
+    "7bbba7f6932e4957879018e3fe8e3f9e":{
+      "scriptId":"u216"},
+    "f7c938284ee8410584d1fefd0b614b1a":{
+      "scriptId":"u217"},
+    "845450fb62044b008e59e10b4a1719f6":{
+      "scriptId":"u218"},
+    "b84ecd71cdfa4a6bb6622c06acc160a0":{
+      "scriptId":"u219"},
+    "daf01c892ce548cf870f836e73e970ca":{
+      "scriptId":"u220"},
+    "208a75abfabd416c8e41051951cdeca6":{
+      "scriptId":"u221"},
+    "c4bd26db86a04661931d236f08b9b091":{
+      "scriptId":"u222"},
+    "7fb7acdd543b44dc8db40af6a7d2eb53":{
+      "scriptId":"u223"},
+    "dbf3efb1517645ae8d0304916adfe027":{
+      "scriptId":"u224"},
+    "428372412e6044f7802b4a6f8ed29ee1":{
+      "scriptId":"u225"},
+    "022d796d4116422b8802f96c0d5867f9":{
+      "scriptId":"u226"},
+    "c5da9165ebcc490b910a740a1841e4bd":{
+      "scriptId":"u227"},
+    "d4a38b9c4cb947a0a8d1c9fe13a71ee2":{
+      "scriptId":"u228"},
+    "9d5f4368f9e741f7bddf8632620aa9ca":{
+      "scriptId":"u229"},
+    "d2c0392f169e46d1be3296d1655cc70b":{
+      "scriptId":"u230"},
+    "ed285b2bba6a4928803adce0df9e0046":{
+      "scriptId":"u231"},
+    "f1b9780066b7495880be4147590e32ee":{
+      "scriptId":"u232"},
+    "ed2d32bb346f4ba3abd7f1d7352d1e0a":{
+      "scriptId":"u233"},
+    "0e9d1fec0c5a44b58764a24176781b37":{
+      "scriptId":"u234"},
+    "1803ae51e1374b2ca1374c32f726d6c5":{
+      "scriptId":"u235"},
+    "fc05b39d080f4aac8a9eb91936bafbca":{
+      "scriptId":"u236"},
+    "2bb7efc503e6419c9e5410a7e4ac8e88":{
+      "scriptId":"u237"},
+    "e71e5b87edf24a8abd317063b6455597":{
+      "scriptId":"u238"},
+    "453a12510f6f45f394e8250de8da5684":{
+      "scriptId":"u239"},
+    "a0dd705558034591971f41c1d026c25a":{
+      "scriptId":"u240"},
+    "8b1d3ce2d9334dcc8728767fadd66a29":{
+      "scriptId":"u241"},
+    "044a7be8e30b4b55899a988e985fed5f":{
+      "scriptId":"u242"},
+    "7cefbbc0f2ff4a79aa497df70cd8efd9":{
+      "scriptId":"u243"},
+    "ed3e64427fea450999f30bb9ff7490fc":{
+      "scriptId":"u244"},
+    "bbe9fa8d184a482d9401453a47cebad1":{
+      "scriptId":"u245"},
+    "5f15ff91356944659a65cb9224da1aac":{
+      "scriptId":"u246"},
+    "a0588c554dc34f37b712ae68d527fe24":{
+      "scriptId":"u247"},
+    "56743b9d54494205bcd64b885aff893e":{
+      "scriptId":"u248"},
+    "e925283b07e0420ca03612de3c5ca7a3":{
+      "scriptId":"u249"},
+    "92418e2a0b5a408f9e689af57a3f434f":{
+      "scriptId":"u250"},
+    "29f126f12b6945b7bf6c67d924b4c976":{
+      "scriptId":"u251"},
+    "9e5fcd2e30c9433c993b88df3adda738":{
+      "scriptId":"u252"},
+    "a34100258c544ce7aa308588a28c313c":{
+      "scriptId":"u253"},
+    "e5691eb632f04670a9ac66954367e1af":{
+      "scriptId":"u254"},
+    "0a7315261214445eb97fb0ef2f452be1":{
+      "scriptId":"u255"}}});
