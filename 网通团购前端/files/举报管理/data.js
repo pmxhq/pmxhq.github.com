@@ -1,0 +1,136 @@
+﻿$axure.loadCurrentPage({
+  "url":"举报管理.html",
+  "generationDate":new Date(1405665737547.18),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"a59aa8c202074a4fb4d64c908208acfa",
+    "type":"Axure:Page",
+    "name":"举报管理",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"4616a0a99ce447e7b1d21f1f770aac0f",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":30,
+              "y":24},
+            "size":{
+              "width":267,
+              "height":286},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"8cca135d520544688e3851ae6eb5a290",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":30,
+                  "y":24},
+                "size":{
+                  "width":267,
+                  "height":286},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/举报管理/u0.png"}},
+{
+          "id":"72729a6cdd854aed9f23d19d38f4e881",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontWeight":"400",
+            "fontStyle":"normal",
+            "location":{
+              "x":426,
+              "y":24},
+            "size":{
+              "width":324,
+              "height":400},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1aa8b213a09f46f9a9e9e504e1a7c8bf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontWeight":"400",
+                "fontStyle":"normal",
+                "location":{
+                  "x":426,
+                  "y":24},
+                "size":{
+                  "width":324,
+                  "height":400},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/举报管理/u2.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "4616a0a99ce447e7b1d21f1f770aac0f":{
+      "scriptId":"u0"},
+    "8cca135d520544688e3851ae6eb5a290":{
+      "scriptId":"u1"},
+    "72729a6cdd854aed9f23d19d38f4e881":{
+      "scriptId":"u2"},
+    "1aa8b213a09f46f9a9e9e504e1a7c8bf":{
+      "scriptId":"u3"}}});
