@@ -1,0 +1,7291 @@
+﻿$axure.loadCurrentPage({
+  "url":"编辑服装尺码.html",
+  "generationDate":new Date(1409803590560.12),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"0e4ba27a42b64999bf7c7a701e4af0d4",
+    "type":"Axure:Page",
+    "name":"编辑服装尺码",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"7fdff87232854d168eee17047a8fb984",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontSize":"14px",
+            "fill":{
+              "fillType":"solid",
+              "color":0x99797979},
+            "size":{
+              "width":1400,
+              "height":730},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFD7D7D7}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"25a8d7cbb0ac456eb23f886924599c19",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontSize":"14px",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0x99797979},
+                "size":{
+                  "width":1400,
+                  "height":730},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFD7D7D7}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/运费模板/u0.png"}},
+{
+          "id":"cb0930af4a554f69b4e319f63a2a8a24",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":200,
+              "y":110},
+            "size":{
+              "width":1190,
+              "height":600},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"7721f948edbf4b6cae7fa97271c35e23",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":200,
+                  "y":110},
+                "size":{
+                  "width":1190,
+                  "height":600},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u2.png"}},
+{
+          "id":"b3c7560fec5e4e06a2ff4246ba5a1695",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":1,
+              "height":1}},
+          "adaptiveStyles":{
+},
+          "masterId":"52c6de70afb94ec5b75e1820702be478"},
+{
+          "id":"4e44036499f24fbea8eae9369cd00039",
+          "label":"",
+          "type":"referenceDiagramObject",
+          "styleType":"referenceDiagramObject",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":10,
+              "y":110}},
+          "adaptiveStyles":{
+},
+          "masterId":"135207c313f54808a7b787e3a3a4369b"},
+{
+          "id":"8b15fc4bb5f844aeb6784f5a998efd1d",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":213,
+              "y":160},
+            "size":{
+              "width":74,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"894b97849b4d4ce6824e8aba161c3c0f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":213,
+                  "y":160},
+                "size":{
+                  "width":74,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"5f927e618ace4e23b33dbd2863945c7c",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":271,
+              "y":157},
+            "size":{
+              "width":305,
+              "height":22}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"a75369de644d4f02b4878371527abea5",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":637,
+              "y":159},
+            "size":{
+              "width":57,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"de382ae7e1db432296dae6cb5e01b9e4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":637,
+                  "y":159},
+                "size":{
+                  "width":57,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"92ef53d06a004e6bafee778abc72c25e",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":705,
+              "y":159},
+            "size":{
+              "width":57,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f5935bd5ce764926a3b17eb6b9832f80",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":705,
+                  "y":159},
+                "size":{
+                  "width":57,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"fb02c99f242145a895f9308c35d1f5f6",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":772,
+              "y":159},
+            "size":{
+              "width":57,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"00ca9694d09a4a618fa66e5bc6d4cba5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":772,
+                  "y":159},
+                "size":{
+                  "width":57,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"eb7236830ebf483b86f5e6ef8e32bc7c",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":840,
+              "y":159},
+            "size":{
+              "width":57,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"eb7eb9ea2033478080c724a162a08b75",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":840,
+                  "y":159},
+                "size":{
+                  "width":57,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"f551ab1897b24f56996ef7ebea992a61",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":907,
+              "y":159},
+            "size":{
+              "width":57,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"408b0e7362c74651b3c06a57154af7f6",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":907,
+                  "y":159},
+                "size":{
+                  "width":57,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"da174e329cf94a72b3eb5eb96e182783",
+          "label":"",
+          "type":"checkbox",
+          "styleType":"checkbox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":975,
+              "y":159},
+            "size":{
+              "width":57,
+              "height":19}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"41bb0e91500140628859ce9c21f984d9",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":975,
+                  "y":159},
+                "size":{
+                  "width":57,
+                  "height":19}},
+              "adaptiveStyles":{
+}}]},
+{
+          "id":"b17d4136eb594d0f8ba1ca934b4d1395",
+          "label":"",
+          "type":"table",
+          "styleType":"table",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":207,
+              "y":199},
+            "size":{
+              "width":830,
+              "height":210}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6c9f334b53314b93b2e04d05fe61de91",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "size":{
+                  "width":40,
+                  "height":29.9999847412109},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"dee9664be94e41e3a36e10208411f8c1",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "size":{
+                      "width":40,
+                      "height":29.9999847412109},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u76.png"}},
+{
+              "id":"ca84d5ea3a2f4ebe9fec67e5076891d7",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":0,
+                  "y":29.9998931884766},
+                "size":{
+                  "width":40,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"b8bc13560d724ad198b3754f2c63e7f0",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":0,
+                      "y":29.9998931884766},
+                    "size":{
+                      "width":40,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u76.png"}},
+{
+              "id":"0522a5f3450d4ae2892fc1fc3c46b41d",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":0,
+                  "y":59.9998931884766},
+                "size":{
+                  "width":40,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"057549d730a24bf0b42c8ee37af03bdb",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":0,
+                      "y":59.9998931884766},
+                    "size":{
+                      "width":40,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u76.png"}},
+{
+              "id":"ef308a4c54454787998ad63334422af9",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":40,
+                  "y":0},
+                "size":{
+                  "width":70,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4240cced7ba64c39877c3673185cc527",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":40,
+                      "y":0},
+                    "size":{
+                      "width":70,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u78.png"}},
+{
+              "id":"78736c297c914cbd8bc20b1bce9b4d4c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":40,
+                  "y":29.9999847412109},
+                "size":{
+                  "width":70,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"3432053b489a4884bc5690b55b016e35",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":40,
+                      "y":29.9999847412109},
+                    "size":{
+                      "width":70,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u78.png"}},
+{
+              "id":"60e900cf8ef14e2bbbb996be2957b6c7",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":40,
+                  "y":59.9999847412109},
+                "size":{
+                  "width":70,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c3fb55babe304bab8560eed2aa4e3398",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":40,
+                      "y":59.9999847412109},
+                    "size":{
+                      "width":70,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u78.png"}},
+{
+              "id":"c470e1b3be794865874a9a5fe2d733a3",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":110,
+                  "y":0},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"403091624f3e468599a81e573998abc8",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":110,
+                      "y":0},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"221bd8335ae14d84aba7bd39c61dbd12",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":110,
+                  "y":29.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"a962f4a5ea26481b9dab484ebc8c8ac6",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":110,
+                      "y":29.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"cf263c27ca054bf6967b158f12a990a8",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":110,
+                  "y":59.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"29a60a7afd094a0d9e5531328430dc0e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":110,
+                      "y":59.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"80ee6c656c2f49daa5e7d35ccf8720dc",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":0,
+                  "y":89.9998931884766},
+                "size":{
+                  "width":40,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"79366ca0e37b4c6e9a6e6aa7717f0c10",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":0,
+                      "y":89.9998931884766},
+                    "size":{
+                      "width":40,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u76.png"}},
+{
+              "id":"17d07fa37f41498a829ce7218fd84496",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":40,
+                  "y":89.9999847412109},
+                "size":{
+                  "width":70,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"3bf370d24cda4e55bfc09de470edeb5c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":40,
+                      "y":89.9999847412109},
+                    "size":{
+                      "width":70,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u78.png"}},
+{
+              "id":"2743f1c81cd94957bfd5a4cdb4e38294",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":110,
+                  "y":89.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"1fa19df132ca4dd0a8ba5c483620fe4a",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":110,
+                      "y":89.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"07177d73a38642d2a51ba6e890a0b04b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":0,
+                  "y":119.999893188477},
+                "size":{
+                  "width":40,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6900882097c44507966e903782299757",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":0,
+                      "y":119.999893188477},
+                    "size":{
+                      "width":40,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u76.png"}},
+{
+              "id":"996641e4956d49358a9f039e7306ebaf",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":40,
+                  "y":119.999984741211},
+                "size":{
+                  "width":70,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"8b421adcf90b43cf8fa4943272083504",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":40,
+                      "y":119.999984741211},
+                    "size":{
+                      "width":70,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u78.png"}},
+{
+              "id":"ae1f7f70a64e4a3f818650da61f0addd",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":110,
+                  "y":119.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"74ef6cda51d94eafbca47d77967f3548",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":110,
+                      "y":119.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"9dfed96013234e42adfd12abd0232038",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":0,
+                  "y":149.999893188477},
+                "size":{
+                  "width":40,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"31a898f91fc04240b2beec142c06dfd2",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":0,
+                      "y":149.999893188477},
+                    "size":{
+                      "width":40,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u156.png"}},
+{
+              "id":"43e40f4db2164da79ba2118491441df4",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":40,
+                  "y":149.999984741211},
+                "size":{
+                  "width":70,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"f64b15d8376a4f0aabe4410fefc3ebb1",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":40,
+                      "y":149.999984741211},
+                    "size":{
+                      "width":70,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u158.png"}},
+{
+              "id":"9cbcee644faa4b70a8d8b6e8750c8fbd",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":110,
+                  "y":149.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"3e3713eeb8b44c1f9e21960b0dbb9dcd",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":110,
+                      "y":149.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u160.png"}},
+{
+              "id":"3ab188067046414584dcb3a7c945a7d2",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":230,
+                  "y":0},
+                "size":{
+                  "width":120,
+                  "height":29.9999389648438},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c9fa80939b064578bffc29f0280703bc",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":230,
+                      "y":0},
+                    "size":{
+                      "width":120,
+                      "height":29.9999389648438},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"15aecef2621946cf98250dc00e61c2f3",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":230,
+                  "y":29.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"88a422571474448485dbfd337e9c92d8",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":230,
+                      "y":29.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"ff1843bb3ad04e128bc1d6b89a0963aa",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":230,
+                  "y":59.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"69472b132a014fd1aca43b5d3619db8c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":230,
+                      "y":59.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"79aafc619bfe4f2c835c23914eaaf96b",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":230,
+                  "y":89.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"800305cf1d23407fa672ce21649b2070",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":230,
+                      "y":89.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"dcc3f9be48f84df99b5208fec7c2ea8f",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":230,
+                  "y":119.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"1f0296667d5349caa9debe286fb97964",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":230,
+                      "y":119.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"faa3b84f03634ad99f54a6f925596ca6",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":230,
+                  "y":149.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"50509ae20b134f67805101d9249b359b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":230,
+                      "y":149.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u160.png"}},
+{
+              "id":"7fad7e99eb5d46c59a3936f9629d0235",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":350,
+                  "y":0},
+                "size":{
+                  "width":120,
+                  "height":29.9999389648438},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"4021281ed1c74959a4f5a5cfc30a234e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":350,
+                      "y":0},
+                    "size":{
+                      "width":120,
+                      "height":29.9999389648438},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"487cbe2a943a4901aeba9ef66bc7e473",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":350,
+                  "y":29.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"277680cbc61f4dac86f5c6e779eb2ae5",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":350,
+                      "y":29.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"a848e751142146c9b4d8f399e37bfb0e",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":350,
+                  "y":59.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"1e423e962a56470491854907844f786e",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":350,
+                      "y":59.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"0702d568e99d432a9513aac4d7b1a63c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":350,
+                  "y":89.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"94030d72e4e54746a38a0069094c7817",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":350,
+                      "y":89.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"0e377a00da0843d385898373123cfeac",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":350,
+                  "y":119.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"66804dfbb24248bbb3e4dff86a8df244",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":350,
+                      "y":119.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"82ca1042533e4793949df0a586bb84cd",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":350,
+                  "y":149.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"7bdf0b40475c47ad87bdb36b37396131",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":350,
+                      "y":149.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u160.png"}},
+{
+              "id":"bff42130175c448da56d419cb76117d8",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":710,
+                  "y":0},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"ef814b637de54220b07c7923d76d76d5",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":710,
+                      "y":0},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u90.png"}},
+{
+              "id":"f7e7a53f1be840dc9aeb9e8d1abdde7c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":710,
+                  "y":29.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"6d4299b102604683be13b00c341edc8d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":710,
+                      "y":29.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u90.png"}},
+{
+              "id":"703cd1a67a4343d0af6ec3dad41dd1a1",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":710,
+                  "y":59.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"13e04e22414f41fcb7dead2ee8f43f6f",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":710,
+                      "y":59.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u90.png"}},
+{
+              "id":"9c33ff131e2248cca7fcf9de0f0b8009",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":710,
+                  "y":89.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2ded7d1ded8746a5bec229410ddce982",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":710,
+                      "y":89.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u90.png"}},
+{
+              "id":"efdffdfdde4444e18b4e9f412cbd42fd",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":710,
+                  "y":119.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c07d0e5906df48d6954b2be085d8489b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":710,
+                      "y":119.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u90.png"}},
+{
+              "id":"e2a854fec9a144838f7b81645c540c44",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":710,
+                  "y":149.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"2bc53df14fd94235bcba3431d3f29d1d",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":710,
+                      "y":149.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u160.png"}},
+{
+              "id":"39b9762dad484675b9383614062cd7a4",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":590,
+                  "y":0},
+                "size":{
+                  "width":120,
+                  "height":29.9999389648438},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"5c911c18043149558687dfd49e345640",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":590,
+                      "y":0},
+                    "size":{
+                      "width":120,
+                      "height":29.9999389648438},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"09418db5b6014c01a3f51bf89571a8fc",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":590,
+                  "y":29.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"ff9c96756e3b41bd9174dda9a18a7509",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":590,
+                      "y":29.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"94eae1dace8d4fff9105af3254d6fb16",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":590,
+                  "y":59.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"213321aa783e4c0cb6782195a4d9c244",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":590,
+                      "y":59.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"431d4f36c4294996bb77206355e812ed",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":590,
+                  "y":89.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"effab9e0ce534958be1ec44e2e6b9c74",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":590,
+                      "y":89.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"ed39999302c54c2587f8c5cd93d8ad7c",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":590,
+                  "y":119.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"13ae4fa86392484994d6f31a9464c81b",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":590,
+                      "y":119.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"fd1360d90c6a40ac8c5d136464d1fd54",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":590,
+                  "y":149.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"c086cda278d54b929317f6682414c4d5",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":590,
+                      "y":149.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u160.png"}},
+{
+              "id":"5f58f3b146e645a78bb2ba66ba6ae1a2",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "horizontalAlignment":"center",
+                "verticalAlignment":"middle",
+                "location":{
+                  "x":470,
+                  "y":0},
+                "size":{
+                  "width":120,
+                  "height":29.9999389648438},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"798d1544876e4781a464ec08b8638bf2",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "horizontalAlignment":"center",
+                    "verticalAlignment":"middle",
+                    "location":{
+                      "x":470,
+                      "y":0},
+                    "size":{
+                      "width":120,
+                      "height":29.9999389648438},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"fe8c164afa7a4cb8ba9ecdb6f4959591",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":470,
+                  "y":29.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"80c627aef8fd459188493a774c5e54a4",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":470,
+                      "y":29.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"87d56cd572f6441bb60b33cb44fd8210",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":470,
+                  "y":59.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"60fdbf432c064810afc69d1ddf9690fb",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":470,
+                      "y":59.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"46385e785f224ebcbe8095a667013311",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":470,
+                  "y":89.9998931884766},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"f819d2e583b44109a75b8efae996274f",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":470,
+                      "y":89.9998931884766},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"b8c5e276332f4bf6844fe6b4f02f2fae",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":470,
+                  "y":119.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"9b908546aa1e4a94a227d349a8f76916",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":470,
+                      "y":119.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFBCBCBC}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u80.png"}},
+{
+              "id":"3e2caabe21f24b928d947156d341636e",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":470,
+                  "y":149.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"7c94e696d7f349d5aa2e651254d0c642",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":470,
+                      "y":149.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u160.png"}},
+{
+              "id":"c34a7e9e599c4911ac00d32e50946f38",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":0,
+                  "y":179.999893188477},
+                "size":{
+                  "width":40,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"8f13904b5a264cd0b6e01bd33002d4f8",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":0,
+                      "y":179.999893188477},
+                    "size":{
+                      "width":40,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u156.png"}},
+{
+              "id":"7b716e23957e4a7b8073ff18c5edd0b8",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":40,
+                  "y":179.999893188477},
+                "size":{
+                  "width":70,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"98bfe69fc38b484780b8bf6fad4632d2",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":40,
+                      "y":179.999893188477},
+                    "size":{
+                      "width":70,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u158.png"}},
+{
+              "id":"b8b832e19eee4346ac562bed25d71673",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":110,
+                  "y":179.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"aaccffceda0a42079aad3c4ff1f1700c",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":110,
+                      "y":179.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u160.png"}},
+{
+              "id":"fcdae79965174f70b2f76debd16e2ba1",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":230,
+                  "y":179.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"0a00742f2e074dd9b0c9f40275702ab4",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":230,
+                      "y":179.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u160.png"}},
+{
+              "id":"3840dd52e1a947f59cfade3ff4229115",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":350,
+                  "y":179.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"70926154412042cba5bbf37b0c66ca73",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":350,
+                      "y":179.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u160.png"}},
+{
+              "id":"a44280adb7da4ba08b2f1a5534d08248",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":470,
+                  "y":179.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"d09764b559e64ad6b45ce8efa8c2583f",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":470,
+                      "y":179.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u160.png"}},
+{
+              "id":"9c0c9e0110ae4a64bd4c9a78b7139618",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":590,
+                  "y":179.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"49cb8dc683e5445aa3bcebc1580e7ca7",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":590,
+                      "y":179.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u160.png"}},
+{
+              "id":"1a3f8a53589b46ab9c417d1cc55087d4",
+              "label":"",
+              "type":"tableCell",
+              "styleType":"tableCell",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "location":{
+                  "x":710,
+                  "y":179.999893188477},
+                "size":{
+                  "width":120,
+                  "height":30},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFFFFF}},
+              "adaptiveStyles":{
+},
+              "objects":[{
+                  "id":"47a535c255e14eebbc14dfdc5b13e4f4",
+                  "label":"",
+                  "isContained":true,
+                  "type":"richTextPanel",
+                  "styleType":"paragraph",
+                  "visible":true,
+                  "style":{
+                    "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                    "location":{
+                      "x":710,
+                      "y":179.999893188477},
+                    "size":{
+                      "width":120,
+                      "height":30},
+                    "borderFill":{
+                      "fillType":"solid",
+                      "color":0xFFFFFF}},
+                  "adaptiveStyles":{
+}}],
+              "images":{
+                "normal~":"images/编辑服装尺码/u160.png"}}]},
+{
+          "id":"7ba9cbdbc084436fb2d47ff0c6486da7",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":252,
+              "y":234},
+            "size":{
+              "width":60,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"4b7b612df72446c88447f968a6f5d6f9",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":214,
+              "y":233},
+            "size":{
+              "width":18,
+              "height":19},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"39eb0014e0eb4feb829a811bd3bc1cad",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":214,
+                  "y":233},
+                "size":{
+                  "width":18,
+                  "height":19},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u189.png"}},
+{
+          "id":"01e25a18b7cf452eb101579ecabccd5a",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":323,
+              "y":234},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"97462cd72d624a198e5f2f1b49743f77",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":370,
+              "y":236},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6dad9c52ade3496da519300c68d84a68",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":370,
+                  "y":236},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"a28af99ca4a045b4882bdaf70a1f4a2b",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":388,
+              "y":234},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"2de50533a1e949c684fd6ad0432258ee",
+          "label":"",
+          "type":"button",
+          "styleType":"button",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":531,
+              "y":432},
+            "size":{
+              "width":80,
+              "height":25}},
+          "adaptiveStyles":{
+},
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 尺码管理--服装尺码管理",
+                      "target":{
+                        "targetType":"page",
+                        "url":"尺码管理--服装尺码管理.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true},
+{
+          "id":"df330f4f5c874fdeb844cb6eea96eb1c",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0066FF,
+              "opacity":1},
+            "location":{
+              "x":649,
+              "y":437},
+            "size":{
+              "width":41,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d8d19c76964943dd8ff187b1250c0efd",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0066FF,
+                  "opacity":1},
+                "location":{
+                  "x":649,
+                  "y":437},
+                "size":{
+                  "width":41,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "interactionMap":{
+            "onClick":{
+              "description":"OnClick",
+              "cases":[{
+                  "description":"用例 1",
+                  "isNewIfGroup":false,
+                  "actions":[{
+                      "action":"linkWindow",
+                      "description":"在 当前窗口 打开 尺码管理--服装尺码管理",
+                      "target":{
+                        "targetType":"page",
+                        "url":"尺码管理--服装尺码管理.html",
+                        "includeVariables":true},
+                      "linkType":"current"}]}]}},
+          "tabbable":true,
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"d2fff8b92b5d480abf138cbdd461e1a1",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":442,
+              "y":234},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"e16f6f8273fd4c0b8b8803d5cfc43883",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":489,
+              "y":236},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"faaae97b61bb44f2a726a673d5cf23fb",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":489,
+                  "y":236},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"bed5aab0e26c49a2b7f5dfd5e31d5f80",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":507,
+              "y":234},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"c779d7aaaa774c7195d43107dfca59b1",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":562,
+              "y":234},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"86b7e05211394cc699d30193caccd47a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":609,
+              "y":236},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"d820bbfc585c4370973338335a52f792",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":609,
+                  "y":236},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"b80511361c544ea9b92aa62542556e67",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":627,
+              "y":234},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"f00cd125e96e45049561e8cb1f35b0ea",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":682,
+              "y":234},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"8cb17f41228640c6ac5ff4423fe547a0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":729,
+              "y":236},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"62ae2fb095114079a8a95023b49bbd64",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":729,
+                  "y":236},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"53d66cf025b14db29f068c86b136cd99",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":747,
+              "y":234},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"af18a9eecc654369a52965b287028d6c",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":802,
+              "y":234},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"65be8e6c03854c5ba793c202a2b25db3",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":850,
+              "y":236},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3de8fc0b371e4ff799f7726d0c2a98bf",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":850,
+                  "y":236},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"c72514bd1c934667a119dd9aa135024e",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":868,
+              "y":234},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"82626bc7caa74748bc2d50c846e36d54",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":922,
+              "y":234},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"07fbfd775fd34efd9b8f1fac94912906",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":970,
+              "y":236},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b163a640f3244f4ea513e56222b99538",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":970,
+                  "y":236},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"63253a682b3143ea86cad97117a13741",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":988,
+              "y":234},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"ace3e5d578814861aa1237893cee9148",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":252,
+              "y":264},
+            "size":{
+              "width":60,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"e49e623c8a6a4e0798d6edb1d3f29405",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":214,
+              "y":263},
+            "size":{
+              "width":18,
+              "height":19},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4fe0e258c49f44fe9abbcda254351355",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":214,
+                  "y":263},
+                "size":{
+                  "width":18,
+                  "height":19},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u189.png"}},
+{
+          "id":"eac22625a7644deb8d56aa2907ce5c8f",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":323,
+              "y":264},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"20918e9bee76423ab18f29245b44ddef",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":370,
+              "y":266},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"935da6f2075e4bbe95ea501529a5a012",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":370,
+                  "y":266},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"33cb5ddbb47748ea8cb3cceaeef9c785",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":388,
+              "y":264},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"799eff90ccbd41cc80ebe908238b59ce",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":442,
+              "y":264},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"1655a17235734358858c75553d927f04",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":489,
+              "y":266},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"5b64157e5d5c46ceb269e455c73076f4",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":489,
+                  "y":266},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"b318db7d59354832811befb1ba2c13fd",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":507,
+              "y":264},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"31fc74c0701142e594e332a1039d0afb",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":562,
+              "y":264},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"ba4f423f419d4f6caf071e50532a93a4",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":609,
+              "y":266},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0038d59bb1ce42d19e773d3dd5020aa5",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":609,
+                  "y":266},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"4c1c51b6c806454f983fc723248b6348",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":627,
+              "y":264},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"931201af06b24e7fa39a550b5657132f",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":682,
+              "y":264},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"fe4b84f2d22a417193f9e350b6394394",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":729,
+              "y":266},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"076070141f8147d0b4ed73854fc1480f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":729,
+                  "y":266},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"5f133710f33e4df1830848b59c50280f",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":747,
+              "y":264},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"c8e3d4beb7264651a9d7cade6e539e24",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":802,
+              "y":264},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"223c074b8b00453abf05dc9fc345c4a0",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":850,
+              "y":266},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1cd7e01c40444e05a63935e685a3ce7f",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":850,
+                  "y":266},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"c3dec73a07cb439a84bc4c5309b87c79",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":868,
+              "y":264},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"5842d7dd96dd4039977d6423c1321d4b",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":922,
+              "y":264},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"c5d6c2ef182f4be089927dfbf99af673",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":970,
+              "y":266},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"df782d2806ce4da3bba58febf1cc03d1",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":970,
+                  "y":266},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"1d19a212c3c6486eb3c4d0578da6454f",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":988,
+              "y":264},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"c72b215499d04dc79b6af174a1373aeb",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":252,
+              "y":293},
+            "size":{
+              "width":60,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"8d0a149efbae45d1844076e61a49c4d6",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":214,
+              "y":292},
+            "size":{
+              "width":18,
+              "height":19},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c15ac1d792cd4e3798bdda6557e6bc68",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":214,
+                  "y":292},
+                "size":{
+                  "width":18,
+                  "height":19},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u189.png"}},
+{
+          "id":"aebb85cd3ee144b4a38b999a2a25fc01",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":323,
+              "y":293},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"0f2ad43be401439790f944e906c6b243",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":370,
+              "y":295},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"9bb13d15c6e441718d7a78030ce3b418",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":370,
+                  "y":295},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"c293434bfc3d49289c47566d781c566d",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":388,
+              "y":293},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"4460f65901ca4649bc37b6cdc3461a70",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":442,
+              "y":293},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"0cb9410211394088b2e801d3aa146581",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":489,
+              "y":295},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"da4481a6d50646be955908a50d2db0f2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":489,
+                  "y":295},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"47e726184c1b4accb7381ed7806a72c0",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":507,
+              "y":293},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"3c6a7b99cba74326a31d2caf15d60135",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":562,
+              "y":293},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"5b6427e1f17646768ff99bf2dd0be855",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":609,
+              "y":295},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1f768e6071bd47289f40ad5753b8e35b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":609,
+                  "y":295},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"fa0995b9d0504912a02dc58c5bcd4097",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":627,
+              "y":293},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"6ea575f8160b47c8b12d6daee7ab164d",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":682,
+              "y":293},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"a4596eb383d64aaba29ea23836f78c24",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":729,
+              "y":295},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"143abd7b45414200a78f875203c92922",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":729,
+                  "y":295},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"8847aa475ca14fa88420b2b34c34e2f3",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":747,
+              "y":293},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"af96efd78f97457baf25bfb48ad66de6",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":802,
+              "y":293},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"f7ad4a1f1a2248c1a6871340b57e9041",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":850,
+              "y":295},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c32014ab9a9848b4a152ce9501dee8ed",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":850,
+                  "y":295},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"fcefed69bcb74fd7bd6ba0396dd49e79",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":868,
+              "y":293},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"e2f0d320c47a48ab96206b61c0cf6286",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":922,
+              "y":293},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"2a50579eab62409fb5c512efa20942bb",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":970,
+              "y":295},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"f0ef167f8ddc4887b10f2399b829fa09",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":970,
+                  "y":295},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"8bae48eac7b74dab987f0bcbf2bf9426",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":988,
+              "y":293},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"b043eff63eb741838c78d058ff0a97a9",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":252,
+              "y":323},
+            "size":{
+              "width":60,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"c0a5b8eb4dd242e388bcb6df24dced2b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "location":{
+              "x":214,
+              "y":322},
+            "size":{
+              "width":18,
+              "height":19},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"80a15d1587324fc8882e4520df782c6e",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "location":{
+                  "x":214,
+                  "y":322},
+                "size":{
+                  "width":18,
+                  "height":19},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u189.png"}},
+{
+          "id":"e2323dce756c46978486dc727c2884bf",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":323,
+              "y":323},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"56f83c094cb14291ab9e86b55805b621",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":370,
+              "y":325},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ec2898466f3a4d4189986efc69fee074",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":370,
+                  "y":325},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"70b47cb20ac14685bb31b4db8fc300b6",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":388,
+              "y":323},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"84760fca79a7460d870483e92a2c37fb",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":442,
+              "y":323},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"ce4cabc550c54071a85fda0dc63d662b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":489,
+              "y":325},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0616b720f398447bac52dbd0de107309",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":489,
+                  "y":325},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"7c73fd18058247aca8f0833bbbd9929e",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":507,
+              "y":323},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"28ded26f097a4a8ab1f08c93b91646e3",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":562,
+              "y":323},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"e0a070358fd94097b8af6148ef53daad",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":609,
+              "y":325},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"c3170c5e2f124f4eb45e8e1b2ea09f53",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":609,
+                  "y":325},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"e07a38ce0b214310b99e8a31f9068765",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":627,
+              "y":323},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"49ed7709276d48cdae19a053cf53290d",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":682,
+              "y":323},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"66314846c5b0421cba968fa8d696b12a",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":729,
+              "y":325},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"0c4fd5ec93074bd8a4f1f45e4b21ff16",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":729,
+                  "y":325},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"a66a7f5fdf7a4647bc0e8c3f2af9d5e6",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":747,
+              "y":323},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"1499903c27db435bae3c4a5e83c98141",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":802,
+              "y":323},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"eac0bf88e6544487ac58a0970a99d39b",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":850,
+              "y":325},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"1efa6a2ad4fd4ec792608809c117d00b",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":850,
+                  "y":325},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"5c8d30de94754c40b5072c1b68d9e9a2",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":868,
+              "y":323},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"14a0352e6a084c2d9dc800c77f0d787c",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":922,
+              "y":323},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"6f7d5f6bd4924a22ac5af9337e72c225",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC,
+              "opacity":1},
+            "location":{
+              "x":970,
+              "y":325},
+            "size":{
+              "width":18,
+              "height":14},
+            "borderWidth":"-1",
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFF000000}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"4faa6315d1b54996b876268903d0f709",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC,
+                  "opacity":1},
+                "location":{
+                  "x":970,
+                  "y":325},
+                "size":{
+                  "width":18,
+                  "height":14},
+                "borderWidth":"-1",
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFF000000}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u192.png"}},
+{
+          "id":"e706931d0a3341d2ab87411db949b584",
+          "label":"",
+          "type":"textBox",
+          "styleType":"textBox",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "location":{
+              "x":988,
+              "y":323},
+            "size":{
+              "width":45,
+              "height":20}},
+          "adaptiveStyles":{
+}},
+{
+          "id":"1c7796f1a694431b8296c6a5be46a7bc",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fontSize":"28px",
+            "horizontalAlignment":"left",
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC,
+              "opacity":1},
+            "location":{
+              "x":207,
+              "y":345},
+            "size":{
+              "width":830,
+              "height":29},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFCCCCCC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ae1cbbe58af04153a3f8d49bb45d31b7",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fontSize":"28px",
+                "horizontalAlignment":"left",
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC,
+                  "opacity":1},
+                "location":{
+                  "x":207,
+                  "y":345},
+                "size":{
+                  "width":830,
+                  "height":29},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFCCCCCC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u299.png"}},
+{
+          "id":"194fb13b5b0f4e29a1d52a2272a37609",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "foreGroundFill":{
+              "fillType":"solid",
+              "color":0xFF0066FF,
+              "opacity":1},
+            "location":{
+              "x":700,
+              "y":437},
+            "size":{
+              "width":84,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"3d6a8254d28643598fb9b257e444efc2",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "foreGroundFill":{
+                  "fillType":"solid",
+                  "color":0xFF0066FF,
+                  "opacity":1},
+                "location":{
+                  "x":700,
+                  "y":437},
+                "size":{
+                  "width":84,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}},
+{
+          "id":"48168a13b882423381dceb7469ab9075",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"buttonShape",
+          "visible":true,
+          "style":{
+            "fontName":"'微软雅黑 Regular', '微软雅黑'",
+            "fill":{
+              "fillType":"solid",
+              "color":0xFFF2F2F2},
+            "location":{
+              "x":214,
+              "y":349},
+            "size":{
+              "width":80,
+              "height":22},
+            "borderFill":{
+              "fillType":"solid",
+              "color":0xFFBCBCBC}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"ad8ee0383c43445597457e6437bd9089",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                "fill":{
+                  "fillType":"solid",
+                  "color":0xFFF2F2F2},
+                "location":{
+                  "x":214,
+                  "y":349},
+                "size":{
+                  "width":80,
+                  "height":22},
+                "borderFill":{
+                  "fillType":"solid",
+                  "color":0xFFBCBCBC}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/编辑服装尺码/u303.png"}},
+{
+          "id":"893aa77351dc46a4b6671a05bf1a2645",
+          "label":"",
+          "type":"buttonShape",
+          "styleType":"paragraph",
+          "visible":true,
+          "style":{
+            "fontName":"'Arial Negreta', 'Arial'",
+            "fontWeight":"700",
+            "location":{
+              "x":210,
+              "y":121},
+            "size":{
+              "width":150,
+              "height":16},
+            "rotation":"0",
+            "textRotation":"0"},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"b0521cbc0a2b4d34a09140fd329f102d",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "fontName":"'Arial Negreta', 'Arial'",
+                "fontWeight":"700",
+                "location":{
+                  "x":210,
+                  "y":121},
+                "size":{
+                  "width":150,
+                  "height":16},
+                "rotation":"0",
+                "textRotation":"0"},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"resources/images/transparent.gif"}}]}},
+  "masters":{
+    "52c6de70afb94ec5b75e1820702be478":{
+      "packageId":"52c6de70afb94ec5b75e1820702be478",
+      "type":"Axure:Master",
+      "name":"官方后台公共顶部",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"d1e37ce1547243c68a48d449005c3734",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontSize":"14px",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFD7D7D7},
+              "size":{
+                "width":1400,
+                "height":60}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"23c6f33aabab4aa995798d4d1c2d76cd",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontSize":"14px",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFD7D7D7},
+                  "size":{
+                    "width":1400,
+                    "height":60}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/官方后台_首页/u65.png"}},
+{
+            "id":"58ce8093fd6c44feadcad494485d57a1",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontSize":"14px",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFF515151,
+                "opacity":1},
+              "location":{
+                "x":1131,
+                "y":20},
+              "size":{
+                "width":240,
+                "height":16},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"8abe6a4b9c6244c980800872215398b4",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontSize":"14px",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF515151,
+                    "opacity":1},
+                  "location":{
+                    "x":1131,
+                    "y":20},
+                  "size":{
+                    "width":240,
+                    "height":16},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"c97b71ada089401292da52e05067541a",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontSize":"14px",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFF3333FF,
+                "opacity":1},
+              "location":{
+                "x":1322,
+                "y":20},
+              "size":{
+                "width":60,
+                "height":16},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"f43adf410b034ded8e77087b140282d7",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontSize":"14px",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFF3333FF,
+                    "opacity":1},
+                  "location":{
+                    "x":1322,
+                    "y":20},
+                  "size":{
+                    "width":60,
+                    "height":16},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"2ccef219e1a242138d7688ce4a5c1321",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Negreta', 'Arial'",
+              "fontSize":"14px",
+              "fontWeight":"bold",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFF797979},
+              "location":{
+                "x":0,
+                "y":60},
+              "size":{
+                "width":1400,
+                "height":40}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"177d19ea05ac4340beac6d09f311dd44",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Arial Negreta', 'Arial'",
+                  "fontSize":"14px",
+                  "fontWeight":"bold",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFF797979},
+                  "location":{
+                    "x":0,
+                    "y":60},
+                  "size":{
+                    "width":1400,
+                    "height":40}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/官方后台_首页/u71.png"}},
+{
+            "id":"47afaa5da8a24688ae9b9777df1981fb",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontSize":"14px",
+              "location":{
+                "x":10,
+                "y":10},
+              "size":{
+                "width":120,
+                "height":40}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"1d67cfef2be043658fa9e915286394d8",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontSize":"14px",
+                  "location":{
+                    "x":10,
+                    "y":10},
+                  "size":{
+                    "width":120,
+                    "height":40}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/官方后台_首页/u73.png"}},
+{
+            "id":"9d90bcda9018473b9b1cbbdad573f654",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Negreta', 'Arial'",
+              "fontSize":"14px",
+              "fontWeight":"bold",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "location":{
+                "x":646,
+                "y":73},
+              "size":{
+                "width":70,
+                "height":16},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"43e6e5b2e6e44070bd301b0d782554eb",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Arial Negreta', 'Arial'",
+                  "fontSize":"14px",
+                  "fontWeight":"bold",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "location":{
+                    "x":646,
+                    "y":73},
+                  "size":{
+                    "width":70,
+                    "height":16},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 团购基础设置_团购分类管理（在基础库实现）",
+                        "target":{
+                          "targetType":"page",
+                          "url":"团购基础设置_团购分类管理（在基础库实现）.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"5c38e1a452354db7aa6bb78c87f4b847",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Negreta', 'Arial'",
+              "fontSize":"14px",
+              "fontWeight":"bold",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "location":{
+                "x":147,
+                "y":73},
+              "size":{
+                "width":92,
+                "height":16},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"3e98f7361ef84f689ed0a9a7f6d98540",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Arial Negreta', 'Arial'",
+                  "fontSize":"14px",
+                  "fontWeight":"bold",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "location":{
+                    "x":147,
+                    "y":73},
+                  "size":{
+                    "width":92,
+                    "height":16},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 团购信息管理_商家资质审核",
+                        "target":{
+                          "targetType":"page",
+                          "url":"团购信息管理_商家资质审核.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"0acff1f0c0114be294d3b4a44cbf92d9",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Negreta', 'Arial'",
+              "fontSize":"14px",
+              "fontWeight":"bold",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "location":{
+                "x":283,
+                "y":73},
+              "size":{
+                "width":63,
+                "height":16},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"df68d6ee94324fa9a49fc712e1d17acc",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Arial Negreta', 'Arial'",
+                  "fontSize":"14px",
+                  "fontWeight":"bold",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "location":{
+                    "x":283,
+                    "y":73},
+                  "size":{
+                    "width":63,
+                    "height":16},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 团购交易管理_订单管理_全部订单",
+                        "target":{
+                          "targetType":"page",
+                          "url":"团购交易管理_订单管理_全部订单.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"c3fdb8dd176a46389da80931220fbc01",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Negreta', 'Arial'",
+              "fontSize":"14px",
+              "fontWeight":"bold",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "location":{
+                "x":391,
+                "y":73},
+              "size":{
+                "width":68,
+                "height":16},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"a56f96ae45b9405ebf62323cb9147487",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Arial Negreta', 'Arial'",
+                  "fontSize":"14px",
+                  "fontWeight":"bold",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "location":{
+                    "x":391,
+                    "y":73},
+                  "size":{
+                    "width":68,
+                    "height":16},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 团购营销管理_搜索关键字设置_默认关键字",
+                        "target":{
+                          "targetType":"page",
+                          "url":"团购营销管理_搜索关键字设置_默认关键字.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"546a7044b0084c1f89342ae62bae0b9b",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Negreta', 'Arial'",
+              "fontSize":"14px",
+              "fontWeight":"bold",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "location":{
+                "x":761,
+                "y":73},
+              "size":{
+                "width":99,
+                "height":16},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"60dbab1d72904c51b58c117a493862b3",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Arial Negreta', 'Arial'",
+                  "fontSize":"14px",
+                  "fontWeight":"bold",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "location":{
+                    "x":761,
+                    "y":73},
+                  "size":{
+                    "width":99,
+                    "height":16},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 新窗口/标签页 打开 http://sctg.ewt.cc",
+                        "target":{
+                          "targetType":"webUrl",
+                          "urlLiteral":{
+                            "exprType":"stringLiteral",
+                            "value":"http://sctg.ewt.cc",
+                            "stos":[]},
+                          "includeVariables":false},
+                        "linkType":"new"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"8d17ac809c554c4780e7fe24d500729c",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Negreta', 'Arial'",
+              "fontSize":"14px",
+              "fontWeight":"bold",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "location":{
+                "x":504,
+                "y":73},
+              "size":{
+                "width":98,
+                "height":16},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"82c5ab6692314549a20af140d4cfc4ce",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Arial Negreta', 'Arial'",
+                  "fontSize":"14px",
+                  "fontWeight":"bold",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "location":{
+                    "x":504,
+                    "y":73},
+                  "size":{
+                    "width":98,
+                    "height":16},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 团购结算管理_按日统计",
+                        "target":{
+                          "targetType":"page",
+                          "url":"团购结算管理_按日统计.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"da3521a7a00d429a83bf6ad09ce2629f",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Negreta', 'Arial'",
+              "fontSize":"14px",
+              "fontWeight":"bold",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "location":{
+                "x":10,
+                "y":73},
+              "size":{
+                "width":92,
+                "height":16},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"ae22840c033b40c8af15126587fd1619",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Arial Negreta', 'Arial'",
+                  "fontSize":"14px",
+                  "fontWeight":"bold",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "location":{
+                    "x":10,
+                    "y":73},
+                  "size":{
+                    "width":92,
+                    "height":16},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 官方后台_首页",
+                        "target":{
+                          "targetType":"page",
+                          "url":"官方后台_首页.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}}]}},
+    "135207c313f54808a7b787e3a3a4369b":{
+      "packageId":"135207c313f54808a7b787e3a3a4369b",
+      "type":"Axure:Master",
+      "name":"团购信息管理",
+      "notes":{
+},
+      "style":{
+        "baseStyle":"627587b6038d43cca051c114ac41ad32",
+        "pageAlignment":"near",
+        "fill":{
+          "fillType":"solid",
+          "color":0xFFFFFFFF},
+        "image":null,
+        "imageHorizontalAlignment":"near",
+        "imageVerticalAlignment":"near",
+        "imageRepeat":"auto",
+        "favicon":null,
+        "sketchFactor":"0",
+        "colorStyle":"appliedColor",
+        "fontName":"应用字体",
+        "borderWidth":"0"},
+      "adaptiveStyles":{
+},
+      "interactionMap":{
+},
+      "diagram":{
+        "objects":[{
+            "id":"4230258522b94cdb8c1e3a43d2034fb8",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontSize":"14px",
+              "location":{
+                "x":10,
+                "y":110},
+              "size":{
+                "width":180,
+                "height":600}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"dcf15dd1937a49f9b7630c844ebbabb3",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontSize":"14px",
+                  "location":{
+                    "x":10,
+                    "y":110},
+                  "size":{
+                    "width":180,
+                    "height":600}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/团购信息管理_商家资质审核/u321.png"}},
+{
+            "id":"7ab99a97aead449ba230bb03af38f356",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'Arial Negreta', 'Arial'",
+              "fontSize":"14px",
+              "fontWeight":"bold",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "fill":{
+                "fillType":"solid",
+                "color":0xFF868686},
+              "location":{
+                "x":10,
+                "y":110},
+              "size":{
+                "width":180,
+                "height":30}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"729af777cb664d6fa7fa26babcf36a41",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'Arial Negreta', 'Arial'",
+                  "fontSize":"14px",
+                  "fontWeight":"bold",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFF868686},
+                  "location":{
+                    "x":10,
+                    "y":110},
+                  "size":{
+                    "width":180,
+                    "height":30}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/团购信息管理_商家资质审核/u323.png"}},
+{
+            "id":"d1eda662126242c69405b4440363c5e5",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Bold', '微软雅黑'",
+              "fontWeight":"700",
+              "foreGroundFill":{
+                "fillType":"solid",
+                "color":0xFFFFFFFF,
+                "opacity":1},
+              "location":{
+                "x":30,
+                "y":116},
+              "size":{
+                "width":110,
+                "height":19},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"bb4b17f5418c47d2bfd342dd8b5553cf",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Bold', '微软雅黑'",
+                  "fontWeight":"700",
+                  "foreGroundFill":{
+                    "fillType":"solid",
+                    "color":0xFFFFFFFF,
+                    "opacity":1},
+                  "location":{
+                    "x":30,
+                    "y":116},
+                  "size":{
+                    "width":110,
+                    "height":19},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"cd1cb991f2de4e82bb86a04297c7e913",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontSize":"14px",
+              "horizontalAlignment":"left",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFD7D7D7},
+              "location":{
+                "x":10,
+                "y":296},
+              "size":{
+                "width":180,
+                "height":30}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"249c5826e66d47a980e7fb7ddb580675",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontSize":"14px",
+                  "horizontalAlignment":"left",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFD7D7D7},
+                  "location":{
+                    "x":10,
+                    "y":296},
+                  "size":{
+                    "width":180,
+                    "height":30}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/团购信息管理_商家资质审核/u327.png"}},
+{
+            "id":"44d39d905b9e432b8c49e3e0696fa32c",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "location":{
+                "x":28,
+                "y":340},
+              "size":{
+                "width":112,
+                "height":19},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"5a9e0c85d3244f418b120c06e6fcf0c5",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "location":{
+                    "x":28,
+                    "y":340},
+                  "size":{
+                    "width":112,
+                    "height":19},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 商品团管理",
+                        "target":{
+                          "targetType":"page",
+                          "url":"商品团管理.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"a7073ec5bbb144de978faa76c149cc3c",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "location":{
+                "x":28,
+                "y":432},
+              "size":{
+                "width":112,
+                "height":16},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"fd18a44043864901b4b94395e45aff6f",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "location":{
+                    "x":28,
+                    "y":432},
+                  "size":{
+                    "width":112,
+                    "height":16},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 团购期数管理",
+                        "target":{
+                          "targetType":"page",
+                          "url":"团购期数管理.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"3fb85500532143278efdde3ad6f961f5",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"buttonShape",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "fontSize":"14px",
+              "horizontalAlignment":"left",
+              "fill":{
+                "fillType":"solid",
+                "color":0xFFD7D7D7},
+              "location":{
+                "x":10,
+                "y":140},
+              "size":{
+                "width":180,
+                "height":30}},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"ec3d8aba8abf4adda84b4a294a06c588",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "fontSize":"14px",
+                  "horizontalAlignment":"left",
+                  "fill":{
+                    "fillType":"solid",
+                    "color":0xFFD7D7D7},
+                  "location":{
+                    "x":10,
+                    "y":140},
+                  "size":{
+                    "width":180,
+                    "height":30}},
+                "adaptiveStyles":{
+}}],
+            "images":{
+              "normal~":"images/团购信息管理_商家资质审核/u327.png"}},
+{
+            "id":"2b7629f73578480caf4b52af2acc8eec",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "location":{
+                "x":28,
+                "y":178},
+              "size":{
+                "width":112,
+                "height":19},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"1e0ec9964c4f44c6ba8b0e0e5e1eccc3",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "location":{
+                    "x":28,
+                    "y":178},
+                  "size":{
+                    "width":112,
+                    "height":19},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 团购信息管理_商家资质审核",
+                        "target":{
+                          "targetType":"page",
+                          "url":"团购信息管理_商家资质审核.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"58a80c8d3d9b44d19e1d7894ed15c4b9",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "location":{
+                "x":28,
+                "y":206},
+              "size":{
+                "width":112,
+                "height":19},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"728de94b00194d2d94e4045b714c6643",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "location":{
+                    "x":28,
+                    "y":206},
+                  "size":{
+                    "width":112,
+                    "height":19},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 团购买家意向",
+                        "target":{
+                          "targetType":"page",
+                          "url":"团购买家意向.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"9f796dc8e9b2429cbc1d4f815d5d8c6b",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "location":{
+                "x":28,
+                "y":463},
+              "size":{
+                "width":112,
+                "height":16},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"50be43fb3f2140d6bd9f66927347b58c",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "location":{
+                    "x":28,
+                    "y":463},
+                  "size":{
+                    "width":112,
+                    "height":16},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 保证金管理",
+                        "target":{
+                          "targetType":"page",
+                          "url":"保证金管理.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"3260b913f3e543c5876ded316373c5ec",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "location":{
+                "x":28,
+                "y":234},
+              "size":{
+                "width":112,
+                "height":19},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"92d3d59b0beb46afa8a6809868df65e9",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "location":{
+                    "x":28,
+                    "y":234},
+                  "size":{
+                    "width":112,
+                    "height":19},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 团购订阅提醒",
+                        "target":{
+                          "targetType":"page",
+                          "url":"团购订阅提醒.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"bac6a86905b646879b60100bb1d17fd6",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "location":{
+                "x":28,
+                "y":262},
+              "size":{
+                "width":112,
+                "height":19},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"2d889639ab2d40dda7ad8ca559bae7f5",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "location":{
+                    "x":28,
+                    "y":262},
+                  "size":{
+                    "width":112,
+                    "height":19},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 资质证书管理",
+                        "target":{
+                          "targetType":"page",
+                          "url":"资质证书管理.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"576c3f796ae44bd2ae48d9b8c247657e",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "location":{
+                "x":28,
+                "y":494},
+              "size":{
+                "width":112,
+                "height":16},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"a36517975e174045be421ef26d4a67b4",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "location":{
+                    "x":28,
+                    "y":494},
+                  "size":{
+                    "width":112,
+                    "height":16},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 团购扣款记录",
+                        "target":{
+                          "targetType":"page",
+                          "url":"团购扣款记录.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"f31b80dcf6eb44cd8c97e07869651749",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "location":{
+                "x":28,
+                "y":402},
+              "size":{
+                "width":112,
+                "height":19},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"2870b4cde52748bdb8ad61e1a07cea62",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "location":{
+                    "x":28,
+                    "y":402},
+                  "size":{
+                    "width":112,
+                    "height":19},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 创意团管理",
+                        "target":{
+                          "targetType":"page",
+                          "url":"创意团管理.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}},
+{
+            "id":"f293368bcdb240bdb069c5cc89ec6d1e",
+            "label":"",
+            "type":"buttonShape",
+            "styleType":"paragraph",
+            "visible":true,
+            "style":{
+              "fontName":"'微软雅黑 Regular', '微软雅黑'",
+              "location":{
+                "x":28,
+                "y":371},
+              "size":{
+                "width":112,
+                "height":19},
+              "rotation":"0",
+              "textRotation":"0"},
+            "adaptiveStyles":{
+},
+            "objects":[{
+                "id":"2168e58967ad4bf78bb3f095473dcb59",
+                "label":"",
+                "isContained":true,
+                "type":"richTextPanel",
+                "styleType":"paragraph",
+                "visible":true,
+                "style":{
+                  "fontName":"'微软雅黑 Regular', '微软雅黑'",
+                  "location":{
+                    "x":28,
+                    "y":371},
+                  "size":{
+                    "width":112,
+                    "height":19},
+                  "rotation":"0",
+                  "textRotation":"0"},
+                "adaptiveStyles":{
+}}],
+            "interactionMap":{
+              "onClick":{
+                "description":"OnClick",
+                "cases":[{
+                    "description":"用例 1",
+                    "isNewIfGroup":false,
+                    "actions":[{
+                        "action":"linkWindow",
+                        "description":"在 当前窗口 打开 预售团管理",
+                        "target":{
+                          "targetType":"page",
+                          "url":"预售团管理.html",
+                          "includeVariables":true},
+                        "linkType":"current"}]}]}},
+            "tabbable":true,
+            "images":{
+              "normal~":"resources/images/transparent.gif"}}]}}},
+  "objectPaths":{
+    "7fdff87232854d168eee17047a8fb984":{
+      "scriptId":"u0"},
+    "25a8d7cbb0ac456eb23f886924599c19":{
+      "scriptId":"u1"},
+    "cb0930af4a554f69b4e319f63a2a8a24":{
+      "scriptId":"u2"},
+    "7721f948edbf4b6cae7fa97271c35e23":{
+      "scriptId":"u3"},
+    "b3c7560fec5e4e06a2ff4246ba5a1695":{
+      "scriptId":"u4",
+      "d1e37ce1547243c68a48d449005c3734":{
+        "scriptId":"u5"},
+      "23c6f33aabab4aa995798d4d1c2d76cd":{
+        "scriptId":"u6"},
+      "58ce8093fd6c44feadcad494485d57a1":{
+        "scriptId":"u7"},
+      "8abe6a4b9c6244c980800872215398b4":{
+        "scriptId":"u8"},
+      "c97b71ada089401292da52e05067541a":{
+        "scriptId":"u9"},
+      "f43adf410b034ded8e77087b140282d7":{
+        "scriptId":"u10"},
+      "2ccef219e1a242138d7688ce4a5c1321":{
+        "scriptId":"u11"},
+      "177d19ea05ac4340beac6d09f311dd44":{
+        "scriptId":"u12"},
+      "47afaa5da8a24688ae9b9777df1981fb":{
+        "scriptId":"u13"},
+      "1d67cfef2be043658fa9e915286394d8":{
+        "scriptId":"u14"},
+      "9d90bcda9018473b9b1cbbdad573f654":{
+        "scriptId":"u15"},
+      "43e6e5b2e6e44070bd301b0d782554eb":{
+        "scriptId":"u16"},
+      "5c38e1a452354db7aa6bb78c87f4b847":{
+        "scriptId":"u17"},
+      "3e98f7361ef84f689ed0a9a7f6d98540":{
+        "scriptId":"u18"},
+      "0acff1f0c0114be294d3b4a44cbf92d9":{
+        "scriptId":"u19"},
+      "df68d6ee94324fa9a49fc712e1d17acc":{
+        "scriptId":"u20"},
+      "c3fdb8dd176a46389da80931220fbc01":{
+        "scriptId":"u21"},
+      "a56f96ae45b9405ebf62323cb9147487":{
+        "scriptId":"u22"},
+      "546a7044b0084c1f89342ae62bae0b9b":{
+        "scriptId":"u23"},
+      "60dbab1d72904c51b58c117a493862b3":{
+        "scriptId":"u24"},
+      "8d17ac809c554c4780e7fe24d500729c":{
+        "scriptId":"u25"},
+      "82c5ab6692314549a20af140d4cfc4ce":{
+        "scriptId":"u26"},
+      "da3521a7a00d429a83bf6ad09ce2629f":{
+        "scriptId":"u27"},
+      "ae22840c033b40c8af15126587fd1619":{
+        "scriptId":"u28"}},
+    "4e44036499f24fbea8eae9369cd00039":{
+      "scriptId":"u29",
+      "4230258522b94cdb8c1e3a43d2034fb8":{
+        "scriptId":"u30"},
+      "dcf15dd1937a49f9b7630c844ebbabb3":{
+        "scriptId":"u31"},
+      "7ab99a97aead449ba230bb03af38f356":{
+        "scriptId":"u32"},
+      "729af777cb664d6fa7fa26babcf36a41":{
+        "scriptId":"u33"},
+      "d1eda662126242c69405b4440363c5e5":{
+        "scriptId":"u34"},
+      "bb4b17f5418c47d2bfd342dd8b5553cf":{
+        "scriptId":"u35"},
+      "cd1cb991f2de4e82bb86a04297c7e913":{
+        "scriptId":"u36"},
+      "249c5826e66d47a980e7fb7ddb580675":{
+        "scriptId":"u37"},
+      "44d39d905b9e432b8c49e3e0696fa32c":{
+        "scriptId":"u38"},
+      "5a9e0c85d3244f418b120c06e6fcf0c5":{
+        "scriptId":"u39"},
+      "a7073ec5bbb144de978faa76c149cc3c":{
+        "scriptId":"u40"},
+      "fd18a44043864901b4b94395e45aff6f":{
+        "scriptId":"u41"},
+      "3fb85500532143278efdde3ad6f961f5":{
+        "scriptId":"u42"},
+      "ec3d8aba8abf4adda84b4a294a06c588":{
+        "scriptId":"u43"},
+      "2b7629f73578480caf4b52af2acc8eec":{
+        "scriptId":"u44"},
+      "1e0ec9964c4f44c6ba8b0e0e5e1eccc3":{
+        "scriptId":"u45"},
+      "58a80c8d3d9b44d19e1d7894ed15c4b9":{
+        "scriptId":"u46"},
+      "728de94b00194d2d94e4045b714c6643":{
+        "scriptId":"u47"},
+      "9f796dc8e9b2429cbc1d4f815d5d8c6b":{
+        "scriptId":"u48"},
+      "50be43fb3f2140d6bd9f66927347b58c":{
+        "scriptId":"u49"},
+      "3260b913f3e543c5876ded316373c5ec":{
+        "scriptId":"u50"},
+      "92d3d59b0beb46afa8a6809868df65e9":{
+        "scriptId":"u51"},
+      "bac6a86905b646879b60100bb1d17fd6":{
+        "scriptId":"u52"},
+      "2d889639ab2d40dda7ad8ca559bae7f5":{
+        "scriptId":"u53"},
+      "576c3f796ae44bd2ae48d9b8c247657e":{
+        "scriptId":"u54"},
+      "a36517975e174045be421ef26d4a67b4":{
+        "scriptId":"u55"},
+      "f31b80dcf6eb44cd8c97e07869651749":{
+        "scriptId":"u56"},
+      "2870b4cde52748bdb8ad61e1a07cea62":{
+        "scriptId":"u57"},
+      "f293368bcdb240bdb069c5cc89ec6d1e":{
+        "scriptId":"u58"},
+      "2168e58967ad4bf78bb3f095473dcb59":{
+        "scriptId":"u59"}},
+    "8b15fc4bb5f844aeb6784f5a998efd1d":{
+      "scriptId":"u60"},
+    "894b97849b4d4ce6824e8aba161c3c0f":{
+      "scriptId":"u61"},
+    "5f927e618ace4e23b33dbd2863945c7c":{
+      "scriptId":"u62"},
+    "a75369de644d4f02b4878371527abea5":{
+      "scriptId":"u63"},
+    "de382ae7e1db432296dae6cb5e01b9e4":{
+      "scriptId":"u64"},
+    "92ef53d06a004e6bafee778abc72c25e":{
+      "scriptId":"u65"},
+    "f5935bd5ce764926a3b17eb6b9832f80":{
+      "scriptId":"u66"},
+    "fb02c99f242145a895f9308c35d1f5f6":{
+      "scriptId":"u67"},
+    "00ca9694d09a4a618fa66e5bc6d4cba5":{
+      "scriptId":"u68"},
+    "eb7236830ebf483b86f5e6ef8e32bc7c":{
+      "scriptId":"u69"},
+    "eb7eb9ea2033478080c724a162a08b75":{
+      "scriptId":"u70"},
+    "f551ab1897b24f56996ef7ebea992a61":{
+      "scriptId":"u71"},
+    "408b0e7362c74651b3c06a57154af7f6":{
+      "scriptId":"u72"},
+    "da174e329cf94a72b3eb5eb96e182783":{
+      "scriptId":"u73"},
+    "41bb0e91500140628859ce9c21f984d9":{
+      "scriptId":"u74"},
+    "b17d4136eb594d0f8ba1ca934b4d1395":{
+      "scriptId":"u75"},
+    "6c9f334b53314b93b2e04d05fe61de91":{
+      "scriptId":"u76"},
+    "dee9664be94e41e3a36e10208411f8c1":{
+      "scriptId":"u77"},
+    "ef308a4c54454787998ad63334422af9":{
+      "scriptId":"u78"},
+    "4240cced7ba64c39877c3673185cc527":{
+      "scriptId":"u79"},
+    "c470e1b3be794865874a9a5fe2d733a3":{
+      "scriptId":"u80"},
+    "403091624f3e468599a81e573998abc8":{
+      "scriptId":"u81"},
+    "3ab188067046414584dcb3a7c945a7d2":{
+      "scriptId":"u82"},
+    "c9fa80939b064578bffc29f0280703bc":{
+      "scriptId":"u83"},
+    "7fad7e99eb5d46c59a3936f9629d0235":{
+      "scriptId":"u84"},
+    "4021281ed1c74959a4f5a5cfc30a234e":{
+      "scriptId":"u85"},
+    "5f58f3b146e645a78bb2ba66ba6ae1a2":{
+      "scriptId":"u86"},
+    "798d1544876e4781a464ec08b8638bf2":{
+      "scriptId":"u87"},
+    "39b9762dad484675b9383614062cd7a4":{
+      "scriptId":"u88"},
+    "5c911c18043149558687dfd49e345640":{
+      "scriptId":"u89"},
+    "bff42130175c448da56d419cb76117d8":{
+      "scriptId":"u90"},
+    "ef814b637de54220b07c7923d76d76d5":{
+      "scriptId":"u91"},
+    "ca84d5ea3a2f4ebe9fec67e5076891d7":{
+      "scriptId":"u92"},
+    "b8bc13560d724ad198b3754f2c63e7f0":{
+      "scriptId":"u93"},
+    "78736c297c914cbd8bc20b1bce9b4d4c":{
+      "scriptId":"u94"},
+    "3432053b489a4884bc5690b55b016e35":{
+      "scriptId":"u95"},
+    "221bd8335ae14d84aba7bd39c61dbd12":{
+      "scriptId":"u96"},
+    "a962f4a5ea26481b9dab484ebc8c8ac6":{
+      "scriptId":"u97"},
+    "15aecef2621946cf98250dc00e61c2f3":{
+      "scriptId":"u98"},
+    "88a422571474448485dbfd337e9c92d8":{
+      "scriptId":"u99"},
+    "487cbe2a943a4901aeba9ef66bc7e473":{
+      "scriptId":"u100"},
+    "277680cbc61f4dac86f5c6e779eb2ae5":{
+      "scriptId":"u101"},
+    "fe8c164afa7a4cb8ba9ecdb6f4959591":{
+      "scriptId":"u102"},
+    "80c627aef8fd459188493a774c5e54a4":{
+      "scriptId":"u103"},
+    "09418db5b6014c01a3f51bf89571a8fc":{
+      "scriptId":"u104"},
+    "ff9c96756e3b41bd9174dda9a18a7509":{
+      "scriptId":"u105"},
+    "f7e7a53f1be840dc9aeb9e8d1abdde7c":{
+      "scriptId":"u106"},
+    "6d4299b102604683be13b00c341edc8d":{
+      "scriptId":"u107"},
+    "0522a5f3450d4ae2892fc1fc3c46b41d":{
+      "scriptId":"u108"},
+    "057549d730a24bf0b42c8ee37af03bdb":{
+      "scriptId":"u109"},
+    "60e900cf8ef14e2bbbb996be2957b6c7":{
+      "scriptId":"u110"},
+    "c3fb55babe304bab8560eed2aa4e3398":{
+      "scriptId":"u111"},
+    "cf263c27ca054bf6967b158f12a990a8":{
+      "scriptId":"u112"},
+    "29a60a7afd094a0d9e5531328430dc0e":{
+      "scriptId":"u113"},
+    "ff1843bb3ad04e128bc1d6b89a0963aa":{
+      "scriptId":"u114"},
+    "69472b132a014fd1aca43b5d3619db8c":{
+      "scriptId":"u115"},
+    "a848e751142146c9b4d8f399e37bfb0e":{
+      "scriptId":"u116"},
+    "1e423e962a56470491854907844f786e":{
+      "scriptId":"u117"},
+    "87d56cd572f6441bb60b33cb44fd8210":{
+      "scriptId":"u118"},
+    "60fdbf432c064810afc69d1ddf9690fb":{
+      "scriptId":"u119"},
+    "94eae1dace8d4fff9105af3254d6fb16":{
+      "scriptId":"u120"},
+    "213321aa783e4c0cb6782195a4d9c244":{
+      "scriptId":"u121"},
+    "703cd1a67a4343d0af6ec3dad41dd1a1":{
+      "scriptId":"u122"},
+    "13e04e22414f41fcb7dead2ee8f43f6f":{
+      "scriptId":"u123"},
+    "80ee6c656c2f49daa5e7d35ccf8720dc":{
+      "scriptId":"u124"},
+    "79366ca0e37b4c6e9a6e6aa7717f0c10":{
+      "scriptId":"u125"},
+    "17d07fa37f41498a829ce7218fd84496":{
+      "scriptId":"u126"},
+    "3bf370d24cda4e55bfc09de470edeb5c":{
+      "scriptId":"u127"},
+    "2743f1c81cd94957bfd5a4cdb4e38294":{
+      "scriptId":"u128"},
+    "1fa19df132ca4dd0a8ba5c483620fe4a":{
+      "scriptId":"u129"},
+    "79aafc619bfe4f2c835c23914eaaf96b":{
+      "scriptId":"u130"},
+    "800305cf1d23407fa672ce21649b2070":{
+      "scriptId":"u131"},
+    "0702d568e99d432a9513aac4d7b1a63c":{
+      "scriptId":"u132"},
+    "94030d72e4e54746a38a0069094c7817":{
+      "scriptId":"u133"},
+    "46385e785f224ebcbe8095a667013311":{
+      "scriptId":"u134"},
+    "f819d2e583b44109a75b8efae996274f":{
+      "scriptId":"u135"},
+    "431d4f36c4294996bb77206355e812ed":{
+      "scriptId":"u136"},
+    "effab9e0ce534958be1ec44e2e6b9c74":{
+      "scriptId":"u137"},
+    "9c33ff131e2248cca7fcf9de0f0b8009":{
+      "scriptId":"u138"},
+    "2ded7d1ded8746a5bec229410ddce982":{
+      "scriptId":"u139"},
+    "07177d73a38642d2a51ba6e890a0b04b":{
+      "scriptId":"u140"},
+    "6900882097c44507966e903782299757":{
+      "scriptId":"u141"},
+    "996641e4956d49358a9f039e7306ebaf":{
+      "scriptId":"u142"},
+    "8b421adcf90b43cf8fa4943272083504":{
+      "scriptId":"u143"},
+    "ae1f7f70a64e4a3f818650da61f0addd":{
+      "scriptId":"u144"},
+    "74ef6cda51d94eafbca47d77967f3548":{
+      "scriptId":"u145"},
+    "dcc3f9be48f84df99b5208fec7c2ea8f":{
+      "scriptId":"u146"},
+    "1f0296667d5349caa9debe286fb97964":{
+      "scriptId":"u147"},
+    "0e377a00da0843d385898373123cfeac":{
+      "scriptId":"u148"},
+    "66804dfbb24248bbb3e4dff86a8df244":{
+      "scriptId":"u149"},
+    "b8c5e276332f4bf6844fe6b4f02f2fae":{
+      "scriptId":"u150"},
+    "9b908546aa1e4a94a227d349a8f76916":{
+      "scriptId":"u151"},
+    "ed39999302c54c2587f8c5cd93d8ad7c":{
+      "scriptId":"u152"},
+    "13ae4fa86392484994d6f31a9464c81b":{
+      "scriptId":"u153"},
+    "efdffdfdde4444e18b4e9f412cbd42fd":{
+      "scriptId":"u154"},
+    "c07d0e5906df48d6954b2be085d8489b":{
+      "scriptId":"u155"},
+    "9dfed96013234e42adfd12abd0232038":{
+      "scriptId":"u156"},
+    "31a898f91fc04240b2beec142c06dfd2":{
+      "scriptId":"u157"},
+    "43e40f4db2164da79ba2118491441df4":{
+      "scriptId":"u158"},
+    "f64b15d8376a4f0aabe4410fefc3ebb1":{
+      "scriptId":"u159"},
+    "9cbcee644faa4b70a8d8b6e8750c8fbd":{
+      "scriptId":"u160"},
+    "3e3713eeb8b44c1f9e21960b0dbb9dcd":{
+      "scriptId":"u161"},
+    "faa3b84f03634ad99f54a6f925596ca6":{
+      "scriptId":"u162"},
+    "50509ae20b134f67805101d9249b359b":{
+      "scriptId":"u163"},
+    "82ca1042533e4793949df0a586bb84cd":{
+      "scriptId":"u164"},
+    "7bdf0b40475c47ad87bdb36b37396131":{
+      "scriptId":"u165"},
+    "3e2caabe21f24b928d947156d341636e":{
+      "scriptId":"u166"},
+    "7c94e696d7f349d5aa2e651254d0c642":{
+      "scriptId":"u167"},
+    "fd1360d90c6a40ac8c5d136464d1fd54":{
+      "scriptId":"u168"},
+    "c086cda278d54b929317f6682414c4d5":{
+      "scriptId":"u169"},
+    "e2a854fec9a144838f7b81645c540c44":{
+      "scriptId":"u170"},
+    "2bc53df14fd94235bcba3431d3f29d1d":{
+      "scriptId":"u171"},
+    "c34a7e9e599c4911ac00d32e50946f38":{
+      "scriptId":"u172"},
+    "8f13904b5a264cd0b6e01bd33002d4f8":{
+      "scriptId":"u173"},
+    "7b716e23957e4a7b8073ff18c5edd0b8":{
+      "scriptId":"u174"},
+    "98bfe69fc38b484780b8bf6fad4632d2":{
+      "scriptId":"u175"},
+    "b8b832e19eee4346ac562bed25d71673":{
+      "scriptId":"u176"},
+    "aaccffceda0a42079aad3c4ff1f1700c":{
+      "scriptId":"u177"},
+    "fcdae79965174f70b2f76debd16e2ba1":{
+      "scriptId":"u178"},
+    "0a00742f2e074dd9b0c9f40275702ab4":{
+      "scriptId":"u179"},
+    "3840dd52e1a947f59cfade3ff4229115":{
+      "scriptId":"u180"},
+    "70926154412042cba5bbf37b0c66ca73":{
+      "scriptId":"u181"},
+    "a44280adb7da4ba08b2f1a5534d08248":{
+      "scriptId":"u182"},
+    "d09764b559e64ad6b45ce8efa8c2583f":{
+      "scriptId":"u183"},
+    "9c0c9e0110ae4a64bd4c9a78b7139618":{
+      "scriptId":"u184"},
+    "49cb8dc683e5445aa3bcebc1580e7ca7":{
+      "scriptId":"u185"},
+    "1a3f8a53589b46ab9c417d1cc55087d4":{
+      "scriptId":"u186"},
+    "47a535c255e14eebbc14dfdc5b13e4f4":{
+      "scriptId":"u187"},
+    "7ba9cbdbc084436fb2d47ff0c6486da7":{
+      "scriptId":"u188"},
+    "4b7b612df72446c88447f968a6f5d6f9":{
+      "scriptId":"u189"},
+    "39eb0014e0eb4feb829a811bd3bc1cad":{
+      "scriptId":"u190"},
+    "01e25a18b7cf452eb101579ecabccd5a":{
+      "scriptId":"u191"},
+    "97462cd72d624a198e5f2f1b49743f77":{
+      "scriptId":"u192"},
+    "6dad9c52ade3496da519300c68d84a68":{
+      "scriptId":"u193"},
+    "a28af99ca4a045b4882bdaf70a1f4a2b":{
+      "scriptId":"u194"},
+    "2de50533a1e949c684fd6ad0432258ee":{
+      "scriptId":"u195"},
+    "df330f4f5c874fdeb844cb6eea96eb1c":{
+      "scriptId":"u196"},
+    "d8d19c76964943dd8ff187b1250c0efd":{
+      "scriptId":"u197"},
+    "d2fff8b92b5d480abf138cbdd461e1a1":{
+      "scriptId":"u198"},
+    "e16f6f8273fd4c0b8b8803d5cfc43883":{
+      "scriptId":"u199"},
+    "faaae97b61bb44f2a726a673d5cf23fb":{
+      "scriptId":"u200"},
+    "bed5aab0e26c49a2b7f5dfd5e31d5f80":{
+      "scriptId":"u201"},
+    "c779d7aaaa774c7195d43107dfca59b1":{
+      "scriptId":"u202"},
+    "86b7e05211394cc699d30193caccd47a":{
+      "scriptId":"u203"},
+    "d820bbfc585c4370973338335a52f792":{
+      "scriptId":"u204"},
+    "b80511361c544ea9b92aa62542556e67":{
+      "scriptId":"u205"},
+    "f00cd125e96e45049561e8cb1f35b0ea":{
+      "scriptId":"u206"},
+    "8cb17f41228640c6ac5ff4423fe547a0":{
+      "scriptId":"u207"},
+    "62ae2fb095114079a8a95023b49bbd64":{
+      "scriptId":"u208"},
+    "53d66cf025b14db29f068c86b136cd99":{
+      "scriptId":"u209"},
+    "af18a9eecc654369a52965b287028d6c":{
+      "scriptId":"u210"},
+    "65be8e6c03854c5ba793c202a2b25db3":{
+      "scriptId":"u211"},
+    "3de8fc0b371e4ff799f7726d0c2a98bf":{
+      "scriptId":"u212"},
+    "c72514bd1c934667a119dd9aa135024e":{
+      "scriptId":"u213"},
+    "82626bc7caa74748bc2d50c846e36d54":{
+      "scriptId":"u214"},
+    "07fbfd775fd34efd9b8f1fac94912906":{
+      "scriptId":"u215"},
+    "b163a640f3244f4ea513e56222b99538":{
+      "scriptId":"u216"},
+    "63253a682b3143ea86cad97117a13741":{
+      "scriptId":"u217"},
+    "ace3e5d578814861aa1237893cee9148":{
+      "scriptId":"u218"},
+    "e49e623c8a6a4e0798d6edb1d3f29405":{
+      "scriptId":"u219"},
+    "4fe0e258c49f44fe9abbcda254351355":{
+      "scriptId":"u220"},
+    "eac22625a7644deb8d56aa2907ce5c8f":{
+      "scriptId":"u221"},
+    "20918e9bee76423ab18f29245b44ddef":{
+      "scriptId":"u222"},
+    "935da6f2075e4bbe95ea501529a5a012":{
+      "scriptId":"u223"},
+    "33cb5ddbb47748ea8cb3cceaeef9c785":{
+      "scriptId":"u224"},
+    "799eff90ccbd41cc80ebe908238b59ce":{
+      "scriptId":"u225"},
+    "1655a17235734358858c75553d927f04":{
+      "scriptId":"u226"},
+    "5b64157e5d5c46ceb269e455c73076f4":{
+      "scriptId":"u227"},
+    "b318db7d59354832811befb1ba2c13fd":{
+      "scriptId":"u228"},
+    "31fc74c0701142e594e332a1039d0afb":{
+      "scriptId":"u229"},
+    "ba4f423f419d4f6caf071e50532a93a4":{
+      "scriptId":"u230"},
+    "0038d59bb1ce42d19e773d3dd5020aa5":{
+      "scriptId":"u231"},
+    "4c1c51b6c806454f983fc723248b6348":{
+      "scriptId":"u232"},
+    "931201af06b24e7fa39a550b5657132f":{
+      "scriptId":"u233"},
+    "fe4b84f2d22a417193f9e350b6394394":{
+      "scriptId":"u234"},
+    "076070141f8147d0b4ed73854fc1480f":{
+      "scriptId":"u235"},
+    "5f133710f33e4df1830848b59c50280f":{
+      "scriptId":"u236"},
+    "c8e3d4beb7264651a9d7cade6e539e24":{
+      "scriptId":"u237"},
+    "223c074b8b00453abf05dc9fc345c4a0":{
+      "scriptId":"u238"},
+    "1cd7e01c40444e05a63935e685a3ce7f":{
+      "scriptId":"u239"},
+    "c3dec73a07cb439a84bc4c5309b87c79":{
+      "scriptId":"u240"},
+    "5842d7dd96dd4039977d6423c1321d4b":{
+      "scriptId":"u241"},
+    "c5d6c2ef182f4be089927dfbf99af673":{
+      "scriptId":"u242"},
+    "df782d2806ce4da3bba58febf1cc03d1":{
+      "scriptId":"u243"},
+    "1d19a212c3c6486eb3c4d0578da6454f":{
+      "scriptId":"u244"},
+    "c72b215499d04dc79b6af174a1373aeb":{
+      "scriptId":"u245"},
+    "8d0a149efbae45d1844076e61a49c4d6":{
+      "scriptId":"u246"},
+    "c15ac1d792cd4e3798bdda6557e6bc68":{
+      "scriptId":"u247"},
+    "aebb85cd3ee144b4a38b999a2a25fc01":{
+      "scriptId":"u248"},
+    "0f2ad43be401439790f944e906c6b243":{
+      "scriptId":"u249"},
+    "9bb13d15c6e441718d7a78030ce3b418":{
+      "scriptId":"u250"},
+    "c293434bfc3d49289c47566d781c566d":{
+      "scriptId":"u251"},
+    "4460f65901ca4649bc37b6cdc3461a70":{
+      "scriptId":"u252"},
+    "0cb9410211394088b2e801d3aa146581":{
+      "scriptId":"u253"},
+    "da4481a6d50646be955908a50d2db0f2":{
+      "scriptId":"u254"},
+    "47e726184c1b4accb7381ed7806a72c0":{
+      "scriptId":"u255"},
+    "3c6a7b99cba74326a31d2caf15d60135":{
+      "scriptId":"u256"},
+    "5b6427e1f17646768ff99bf2dd0be855":{
+      "scriptId":"u257"},
+    "1f768e6071bd47289f40ad5753b8e35b":{
+      "scriptId":"u258"},
+    "fa0995b9d0504912a02dc58c5bcd4097":{
+      "scriptId":"u259"},
+    "6ea575f8160b47c8b12d6daee7ab164d":{
+      "scriptId":"u260"},
+    "a4596eb383d64aaba29ea23836f78c24":{
+      "scriptId":"u261"},
+    "143abd7b45414200a78f875203c92922":{
+      "scriptId":"u262"},
+    "8847aa475ca14fa88420b2b34c34e2f3":{
+      "scriptId":"u263"},
+    "af96efd78f97457baf25bfb48ad66de6":{
+      "scriptId":"u264"},
+    "f7ad4a1f1a2248c1a6871340b57e9041":{
+      "scriptId":"u265"},
+    "c32014ab9a9848b4a152ce9501dee8ed":{
+      "scriptId":"u266"},
+    "fcefed69bcb74fd7bd6ba0396dd49e79":{
+      "scriptId":"u267"},
+    "e2f0d320c47a48ab96206b61c0cf6286":{
+      "scriptId":"u268"},
+    "2a50579eab62409fb5c512efa20942bb":{
+      "scriptId":"u269"},
+    "f0ef167f8ddc4887b10f2399b829fa09":{
+      "scriptId":"u270"},
+    "8bae48eac7b74dab987f0bcbf2bf9426":{
+      "scriptId":"u271"},
+    "b043eff63eb741838c78d058ff0a97a9":{
+      "scriptId":"u272"},
+    "c0a5b8eb4dd242e388bcb6df24dced2b":{
+      "scriptId":"u273"},
+    "80a15d1587324fc8882e4520df782c6e":{
+      "scriptId":"u274"},
+    "e2323dce756c46978486dc727c2884bf":{
+      "scriptId":"u275"},
+    "56f83c094cb14291ab9e86b55805b621":{
+      "scriptId":"u276"},
+    "ec2898466f3a4d4189986efc69fee074":{
+      "scriptId":"u277"},
+    "70b47cb20ac14685bb31b4db8fc300b6":{
+      "scriptId":"u278"},
+    "84760fca79a7460d870483e92a2c37fb":{
+      "scriptId":"u279"},
+    "ce4cabc550c54071a85fda0dc63d662b":{
+      "scriptId":"u280"},
+    "0616b720f398447bac52dbd0de107309":{
+      "scriptId":"u281"},
+    "7c73fd18058247aca8f0833bbbd9929e":{
+      "scriptId":"u282"},
+    "28ded26f097a4a8ab1f08c93b91646e3":{
+      "scriptId":"u283"},
+    "e0a070358fd94097b8af6148ef53daad":{
+      "scriptId":"u284"},
+    "c3170c5e2f124f4eb45e8e1b2ea09f53":{
+      "scriptId":"u285"},
+    "e07a38ce0b214310b99e8a31f9068765":{
+      "scriptId":"u286"},
+    "49ed7709276d48cdae19a053cf53290d":{
+      "scriptId":"u287"},
+    "66314846c5b0421cba968fa8d696b12a":{
+      "scriptId":"u288"},
+    "0c4fd5ec93074bd8a4f1f45e4b21ff16":{
+      "scriptId":"u289"},
+    "a66a7f5fdf7a4647bc0e8c3f2af9d5e6":{
+      "scriptId":"u290"},
+    "1499903c27db435bae3c4a5e83c98141":{
+      "scriptId":"u291"},
+    "eac0bf88e6544487ac58a0970a99d39b":{
+      "scriptId":"u292"},
+    "1efa6a2ad4fd4ec792608809c117d00b":{
+      "scriptId":"u293"},
+    "5c8d30de94754c40b5072c1b68d9e9a2":{
+      "scriptId":"u294"},
+    "14a0352e6a084c2d9dc800c77f0d787c":{
+      "scriptId":"u295"},
+    "6f7d5f6bd4924a22ac5af9337e72c225":{
+      "scriptId":"u296"},
+    "4faa6315d1b54996b876268903d0f709":{
+      "scriptId":"u297"},
+    "e706931d0a3341d2ab87411db949b584":{
+      "scriptId":"u298"},
+    "1c7796f1a694431b8296c6a5be46a7bc":{
+      "scriptId":"u299"},
+    "ae1cbbe58af04153a3f8d49bb45d31b7":{
+      "scriptId":"u300"},
+    "194fb13b5b0f4e29a1d52a2272a37609":{
+      "scriptId":"u301"},
+    "3d6a8254d28643598fb9b257e444efc2":{
+      "scriptId":"u302"},
+    "48168a13b882423381dceb7469ab9075":{
+      "scriptId":"u303"},
+    "ad8ee0383c43445597457e6437bd9089":{
+      "scriptId":"u304"},
+    "893aa77351dc46a4b6671a05bf1a2645":{
+      "scriptId":"u305"},
+    "b0521cbc0a2b4d34a09140fd329f102d":{
+      "scriptId":"u306"}}});
