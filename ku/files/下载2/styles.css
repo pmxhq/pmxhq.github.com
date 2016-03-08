@@ -1,0 +1,287 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:440px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:200px;
+  width:440px;
+  height:255px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:440px;
+  height:255px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:120px;
+  width:436px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:89px;
+  top:332px;
+  width:262px;
+  height:24px;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:262px;
+  height:24px;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:258px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4 {
+  position:absolute;
+  left:76px;
+  top:290px;
+  width:288px;
+  height:21px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#006EB6;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:288px;
+  height:21px;
+}
+#u5 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:288px;
+  white-space:nowrap;
+}
+#u6 {
+  position:absolute;
+  left:78px;
+  top:385px;
+  width:120px;
+  height:35px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  color:#006EB6;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  height:35px;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:116px;
+  word-wrap:break-word;
+}
+#u8 {
+  position:absolute;
+  left:16px;
+  top:249px;
+  width:406px;
+  height:10px;
+}
+#u8_start {
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u8_end {
+  position:absolute;
+  left:389px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u8_line {
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:406px;
+  height:1px;
+}
+#u9 {
+  position:absolute;
+  left:112px;
+  top:336px;
+  width:137px;
+  height:17px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#666666;
+}
+#u9_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:137px;
+  height:17px;
+}
+#u10 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:137px;
+  white-space:nowrap;
+}
+#u11 {
+  position:absolute;
+  left:402px;
+  top:213px;
+  width:28px;
+  height:28px;
+}
+#u11_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:28px;
+  height:28px;
+}
+#u12 {
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:24px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u13 {
+  position:absolute;
+  left:242px;
+  top:385px;
+  width:120px;
+  height:35px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  color:#006EB6;
+}
+#u13_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  height:35px;
+}
+#u14 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:116px;
+  word-wrap:break-word;
+}
+#u15 {
+  position:absolute;
+  left:252px;
+  top:336px;
+  width:49px;
+  height:17px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u15_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:49px;
+  height:17px;
+}
+#u16 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:49px;
+  white-space:nowrap;
+}
+#u17 {
+  position:absolute;
+  left:302px;
+  top:336px;
+  width:25px;
+  height:17px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#666666;
+}
+#u17_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:25px;
+  height:17px;
+}
+#u18 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:25px;
+  white-space:nowrap;
+}
+#u19 {
+  position:absolute;
+  left:16px;
+  top:218px;
+  width:65px;
+  height:21px;
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#006EB6;
+}
+#u19_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:65px;
+  height:21px;
+}
+#u20 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:65px;
+  white-space:nowrap;
+}
