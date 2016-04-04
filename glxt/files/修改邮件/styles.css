@@ -1,0 +1,702 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1070px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:1000px;
+  height:764px;
+  font-size:12px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1001px;
+  height:765px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:374px;
+  width:996px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:1000px;
+  height:30px;
+  text-align:left;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1001px;
+  height:31px;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:996px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4 {
+  position:absolute;
+  left:21px;
+  top:18px;
+  width:149px;
+  height:14px;
+  font-family:'宋体 Bold', '宋体';
+  font-weight:700;
+  font-style:normal;
+  font-size:12px;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:15px;
+}
+#u5 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:149px;
+  word-wrap:break-word;
+}
+#u6 {
+  position:absolute;
+  left:991px;
+  top:14px;
+  width:79px;
+  height:21px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:22px;
+}
+#u7 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  word-wrap:break-word;
+}
+#u8 {
+  position:absolute;
+  left:45px;
+  top:90px;
+  width:895px;
+  height:495px;
+}
+#u9 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:124px;
+  height:30px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u9_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:125px;
+  height:31px;
+}
+#u10 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:120px;
+  word-wrap:break-word;
+}
+#u11 {
+  position:absolute;
+  left:124px;
+  top:0px;
+  width:766px;
+  height:30px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u11_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:767px;
+  height:31px;
+}
+#u12 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:762px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u13 {
+  position:absolute;
+  left:0px;
+  top:30px;
+  width:124px;
+  height:30px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u13_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:125px;
+  height:31px;
+}
+#u14 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:120px;
+  word-wrap:break-word;
+}
+#u15 {
+  position:absolute;
+  left:124px;
+  top:30px;
+  width:766px;
+  height:30px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u15_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:767px;
+  height:31px;
+}
+#u16 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:762px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u17 {
+  position:absolute;
+  left:0px;
+  top:60px;
+  width:124px;
+  height:400px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u17_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:125px;
+  height:401px;
+}
+#u18 {
+  position:absolute;
+  left:2px;
+  top:193px;
+  width:120px;
+  word-wrap:break-word;
+}
+#u19 {
+  position:absolute;
+  left:124px;
+  top:60px;
+  width:766px;
+  height:400px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u19_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:767px;
+  height:401px;
+}
+#u20 {
+  position:absolute;
+  left:2px;
+  top:192px;
+  width:762px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u21 {
+  position:absolute;
+  left:0px;
+  top:460px;
+  width:124px;
+  height:30px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u21_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:125px;
+  height:31px;
+}
+#u22 {
+  position:absolute;
+  left:2px;
+  top:8px;
+  width:120px;
+  word-wrap:break-word;
+}
+#u23 {
+  position:absolute;
+  left:124px;
+  top:460px;
+  width:766px;
+  height:30px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u23_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:767px;
+  height:31px;
+}
+#u24 {
+  position:absolute;
+  left:2px;
+  top:7px;
+  width:762px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u25 {
+  position:absolute;
+  left:258px;
+  top:583px;
+  width:120px;
+  height:22px;
+}
+#u25_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:120px;
+  height:22px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u25_input {
+  font-family:'应用字体';
+}
+#u26 {
+  position:absolute;
+  left:398px;
+  top:585px;
+  width:40px;
+  height:19px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u26_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:41px;
+  height:20px;
+}
+#u27 {
+  position:absolute;
+  left:2px;
+  top:2px;
+  width:36px;
+  word-wrap:break-word;
+}
+#u28 {
+  position:absolute;
+  left:170px;
+  top:122px;
+  width:720px;
+  height:25px;
+}
+#u28_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:720px;
+  height:25px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u28_input {
+  font-family:'应用字体';
+}
+#u29 {
+  position:absolute;
+  left:180px;
+  top:586px;
+  width:100px;
+  height:14px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u30 {
+  position:absolute;
+  left:16px;
+  top:0px;
+  width:82px;
+  word-wrap:break-word;
+}
+#u29_input {
+  position:absolute;
+  left:-3px;
+  top:-2px;
+}
+#u31 {
+  position:absolute;
+  left:45px;
+  top:673px;
+  width:58px;
+  height:25px;
+}
+#u31_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:58px;
+  height:25px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u31_input {
+  font-family:'应用字体';
+}
+#u32 {
+  position:absolute;
+  left:132px;
+  top:673px;
+  width:58px;
+  height:25px;
+}
+#u32_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:58px;
+  height:25px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u32_input {
+  font-family:'应用字体';
+}
+#u33 {
+  position:absolute;
+  left:218px;
+  top:673px;
+  width:58px;
+  height:25px;
+}
+#u33_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:58px;
+  height:25px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u33_input {
+  font-family:'应用字体';
+}
+#u34 {
+  position:absolute;
+  left:305px;
+  top:673px;
+  width:58px;
+  height:25px;
+}
+#u34_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:58px;
+  height:25px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+}
+#u34_input {
+  font-family:'应用字体';
+}
+#u35 {
+  position:absolute;
+  left:171px;
+  top:152px;
+  width:762px;
+  height:386px;
+}
+#u35_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:762px;
+  height:386px;
+}
+#u36 {
+  position:absolute;
+  left:2px;
+  top:185px;
+  width:758px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u37 {
+  position:absolute;
+  left:45px;
+  top:423px;
+  width:754px;
+  height:240px;
+  overflow:hidden;
+  visibility:hidden;
+}
+#u37_state0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:754px;
+  height:240px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
+  background-image:none;
+}
+#u37_state0_content {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1px;
+  height:1px;
+}
+#u38 {
+  position:absolute;
+  left:11px;
+  top:10px;
+  width:710px;
+  height:219px;
+}
+#u38_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:711px;
+  height:220px;
+}
+#u39 {
+  position:absolute;
+  left:2px;
+  top:102px;
+  width:706px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u40 {
+  position:absolute;
+  left:695px;
+  top:16px;
+  width:150px;
+  height:16px;
+}
+#u40_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:151px;
+  height:17px;
+}
+#u41 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  word-wrap:break-word;
+}
+#u42 {
+  position:absolute;
+  left:95px;
+  top:76px;
+  width:411px;
+  height:28px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+}
+#u42_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:412px;
+  height:29px;
+}
+#u43 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:411px;
+  word-wrap:break-word;
+}
+#u44 {
+  position:absolute;
+  left:170px;
+  top:92px;
+  width:720px;
+  height:25px;
+}
+#u44_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:720px;
+  height:25px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  text-decoration:none;
+  color:#5E5E5E;
+  text-align:left;
+}
+#u44_input {
+  font-family:'应用字体';
+}
+#u45 {
+  position:absolute;
+  left:45px;
+  top:66px;
+  width:272px;
+  height:14px;
+  font-family:'宋体 Regular', '宋体';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FF9966;
+}
+#u45_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:273px;
+  height:15px;
+}
+#u46 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:272px;
+  word-wrap:break-word;
+}
+#u47 {
+  position:absolute;
+  left:900px;
+  top:96px;
+  width:150px;
+  height:16px;
+}
+#u47_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:151px;
+  height:17px;
+}
+#u48 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  word-wrap:break-word;
+}
