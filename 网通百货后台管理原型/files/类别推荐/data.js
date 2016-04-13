@@ -1,0 +1,65 @@
+﻿$axure.loadCurrentPage({
+  "url":"类别推荐.html",
+  "generationDate":new Date(1405906377035.35),
+  "isCanvasEnabled":false,
+  "variables":["OnLoadVariable"],
+  "page":{
+    "packageId":"dace43d3a13e48b0aad7b41f671d5027",
+    "type":"Axure:Page",
+    "name":"类别推荐",
+    "notes":{
+},
+    "style":{
+      "baseStyle":"627587b6038d43cca051c114ac41ad32",
+      "pageAlignment":"near",
+      "fill":{
+        "fillType":"solid",
+        "color":0xFFFFFFFF},
+      "image":null,
+      "imageHorizontalAlignment":"near",
+      "imageVerticalAlignment":"near",
+      "imageRepeat":"auto",
+      "favicon":null,
+      "sketchFactor":"0",
+      "colorStyle":"appliedColor",
+      "fontName":"应用字体",
+      "borderWidth":"0"},
+    "adaptiveStyles":{
+},
+    "interactionMap":{
+},
+    "diagram":{
+      "objects":[{
+          "id":"7d457711520444adbeba5bdc0eb2ef52",
+          "label":"",
+          "type":"imageBox",
+          "styleType":"imageBox",
+          "visible":true,
+          "style":{
+            "size":{
+              "width":900,
+              "height":600}},
+          "adaptiveStyles":{
+},
+          "objects":[{
+              "id":"6b70b267bb664174ba81b9829f324d08",
+              "label":"",
+              "isContained":true,
+              "type":"richTextPanel",
+              "styleType":"paragraph",
+              "visible":true,
+              "style":{
+                "size":{
+                  "width":900,
+                  "height":600}},
+              "adaptiveStyles":{
+}}],
+          "images":{
+            "normal~":"images/类别推荐/u0.png"}}]}},
+  "masters":{
+},
+  "objectPaths":{
+    "7d457711520444adbeba5bdc0eb2ef52":{
+      "scriptId":"u0"},
+    "6b70b267bb664174ba81b9829f324d08":{
+      "scriptId":"u1"}}});
