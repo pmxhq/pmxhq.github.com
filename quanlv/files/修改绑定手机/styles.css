@@ -109,6 +109,7 @@
   width:420px;
   height:655px;
   overflow:hidden;
+  touch-action:none;
 }
 #u8_state0 {
   position:absolute;
@@ -200,16 +201,18 @@
   top:0px;
   width:382px;
   height:45px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:16px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:16px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
   border-color:transparent;
   outline-style:none;
+}
+#u12_input {
+  font-family:'应用字体';
 }
 #u13 {
   position:absolute;
@@ -254,16 +257,18 @@
   top:0px;
   width:382px;
   height:45px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:16px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:16px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
   border-color:transparent;
   outline-style:none;
+}
+#u15_input {
+  font-family:'应用字体';
 }
 #u16 {
   position:absolute;

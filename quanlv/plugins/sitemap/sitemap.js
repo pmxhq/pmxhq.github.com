@@ -95,19 +95,14 @@
             var viewStr = getHashStringVar(ADAPTIVE_VIEW_VAR_NAME);
             if(viewStr.length > 0) {
                 var $view = $('.adaptiveViewOption[val="' + viewStr + '"]');
-                if($view.length > 0) {
-                    $view.click();
-                } else {
-                    setVarInCurrentUrlHash(ADAPTIVE_VIEW_VAR_NAME, 'auto');
-                }
+                if($view.length > 0) $view.click();
+                else $('.adaptiveViewOption[val="auto"]').click();
             } else if($('.checkedAdaptive').length > 0) {
                 var $viewOption = $('.checkedAdaptive').parents('.adaptiveViewOption');
-                if($viewOption.attr('val') != 'auto') {
-                    $viewOption.click();
-                }
+                if($viewOption.attr('val') != 'auto') $viewOption.click();
             }
 
-            $('#mainFrame').focus();
+            $axure.messageCenter.postMessage('finishInit');
 
             return false;
         });
@@ -334,14 +329,20 @@
         $('.checkedAdaptive').removeClass('checkedAdaptive');
         $(this).find('.adaptiveCheckboxDiv').addClass('checkedAdaptive');
 
-        if(currVal == 'auto') {
-            $axure.messageCenter.postMessage('setAdaptiveAuto', '');
+        currentPageLoc = $axure.page.location.split("#")[0];
+        var decodedPageLoc = decodeURI(currentPageLoc);
+        var nodeUrl = decodedPageLoc.substr(decodedPageLoc.lastIndexOf('/') ? decodedPageLoc.lastIndexOf('/') + 1 : 0);
+        var adaptiveData = {
+            src: nodeUrl
+        };
 
+        adaptiveData.view = currVal;
+        $axure.messageCenter.postMessage('switchAdaptiveView', adaptiveData);
+
+        if(currVal == 'auto') {
             //Remove view in hash string if one is set
             deleteVarFromCurrentUrlHash(ADAPTIVE_VIEW_VAR_NAME);
         } else {
-            $axure.messageCenter.postMessage('switchAdaptiveView', currVal);
-
             //Set current view in hash string so that it can be maintained across reloads
             setVarInCurrentUrlHash(ADAPTIVE_VIEW_VAR_NAME, currVal);
         }
@@ -558,7 +559,12 @@
         //We use replace so that every hash change doesn't get appended to the history stack.
         //We use replaceState in browsers that support it, else replace the location
         if(typeof window.history.replaceState != 'undefined') {
-            window.history.replaceState(null, null, currentLocWithoutHash + newHash);
+            try {
+                //Chrome 45 (Version 45.0.2454.85 m) started throwing an error here when generated locally (this only happens with sitemap open) which broke all interactions.
+                //try catch breaks the url adjusting nicely when the sitemap is open, but all interactions and forward and back buttons work.
+                //Uncaught SecurityError: Failed to execute 'replaceState' on 'History': A history state object with URL 'file:///C:/Users/Ian/Documents/Axure/HTML/Untitled/start.html#p=home' cannot be created in a document with origin 'null'.
+                window.history.replaceState(null, null, currentLocWithoutHash + newHash);
+            } catch(ex) { }
         } else {
             window.location.replace(currentLocWithoutHash + newHash);
         }

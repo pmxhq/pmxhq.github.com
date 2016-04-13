@@ -109,6 +109,7 @@
   width:420px;
   height:656px;
   overflow:hidden;
+  touch-action:none;
 }
 #u8_state0 {
   position:absolute;

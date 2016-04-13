@@ -14,33 +14,48 @@
         };
 
         //only trigger the page.data setting if the window is on the mainframe
-        if(window.name == 'mainFrame' ||
+        var isMainFrame = false;
+        try {
+            if(window.name == 'mainFrame' ||
             (!CHROME_5_LOCAL && window.parent.$ && window.parent.$('#mainFrame').length > 0)) {
-            $axure.messageCenter = $axure.messageCenter;
-            $axure.messageCenter.setState('page.data', pageData);
-        }
+                isMainFrame = true;
 
-        //        $ax(function(diagramObject) {
-        //            return diagramObject.style.opacity && !diagramObject.isContained;
-        //        }).each(function(diagramObject, elementId) {
-        //            $ax.style.applyOpacityFromStyle(elementId, diagramObject.style);
-        //        });
+                $ax.messageCenter.addMessageListener(function(message, data) {
+                    if(message == 'finishInit') {
+                        _processTempInit();
+                    }
+                });
 
-        var start = (new Date()).getTime();
-        var end = (new Date()).getTime();
-        //window.alert('elapsed ' + (end - start));
+                $axure.messageCenter.setState('page.data', pageData);
+                window.focus();
+            }
+        } catch(e) { }
 
-        $('input[type=text], input[type=password], textarea').focus(function() {
-            window.lastFocusedControl = this;
+        //attach here for chrome local
+        $(window).load(function() {
+            $ax.style.initializeObjectTextAlignment($ax('*'));
         });
+
+        if(!isMainFrame) _processTempInit();
+    });
+
+
+    var _processTempInit = function() {
+        //var start = (new Date()).getTime();
+        //var end = (new Date()).getTime();
+        //window.alert('elapsed ' + (end - start));
 
         $('iframe').each(function() {
             var origSrc = $(this).attr('basesrc');
 
+            var $this = $(this);
             if(origSrc) {
                 var newSrcUrl = origSrc.toLowerCase().indexOf('http://') == -1 ? $ax.globalVariableProvider.getLinkUrl(origSrc) : origSrc;
+                $this.attr('src', newSrcUrl);
+            }
 
-                $(this).attr('src', newSrcUrl);
+            if(IOS) {
+                $this.parent().css('overflow', 'auto').css('-webkit-overflow-scrolling', 'touch').css('-ms-overflow-x', 'hidden').css('overflow-x', 'hidden');
             }
         });
 
@@ -94,10 +109,6 @@
             });
         }
 
-        $(window).load(function() {
-            $ax.style.initializeObjectTextAlignment($ax('*'));
-        });
-
         if($ax.document.configuration.preventScroll) {
             $(window.document).bind('touchmove', function(e) {
                 var inScrollable = $ax.legacy.GetScrollable(e.target) != window.document.body;
@@ -129,15 +140,17 @@
         $ax.style.initialize();
         $ax.visibility.initialize();
         $ax.dynamicPanelManager.initialize(); //needs to be called after visibility is initialized
-        $ax.loadDynamicPanelsAndMasters();
         $ax.adaptive.initialize();
+        $ax.loadDynamicPanelsAndMasters();
+        $ax.adaptive.loadFinished();
         $ax.repeater.init();
         $ax.style.prefetch();
 
-        var readyEnd = (new Date()).getTime();
-        //window.alert('elapsed ' + (readyEnd - readyStart));
-    });
+        $(window).resize();
 
+        //var readyEnd = (new Date()).getTime();
+        //window.alert('elapsed ' + (readyEnd - readyStart));
+    };
 });
 
 /* extend canvas */

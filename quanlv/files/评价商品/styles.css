@@ -109,6 +109,7 @@
   width:420px;
   height:656px;
   overflow:hidden;
+  touch-action:none;
 }
 #u8_state0 {
   position:absolute;
@@ -405,16 +406,18 @@
   top:0px;
   width:314px;
   height:57px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
   border-color:transparent;
   outline-style:none;
+}
+#u28_input {
+  font-family:'应用字体';
 }
 #u29 {
   position:absolute;

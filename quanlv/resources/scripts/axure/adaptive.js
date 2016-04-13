@@ -10,6 +10,14 @@
 
     var _initialViewToLoad;
 
+    var _loadFinished = false;
+    $ax.adaptive.loadFinished = function() {
+        if(_loadFinished) return;
+        _loadFinished = true;
+        if($ax.adaptive.currentViewId) $ax.viewChangePageAndMasters();
+        else $ax.postAdaptiveViewChanged();
+    };
+
     var _handleResize = function() {
         if(!_auto) return;
 
@@ -20,15 +28,12 @@
         var toView = _getAdaptiveView(width, height);
         var toViewId = toView && toView.id;
 
-        if(toViewId == $ax.adaptive.currentViewId) return;
-
         _switchView(toViewId);
     };
 
     var _setAuto = $ax.adaptive.setAuto = function(val) {
         if(_auto != val) {
             _auto = Boolean(val);
-            if(val) _handleResize();
         }
     };
 
@@ -37,7 +42,22 @@
         if(imageUrl.indexOf(".png") > -1) $ax.utils.fixPng(imageQuery[0]);
     };
 
-    var _switchView = $ax.adaptive.switchView = function(viewId) {
+    var _switchView = function(viewId) {
+        var previousViewId = $ax.adaptive.currentViewId;
+        if(typeof previousViewId == 'undefined') previousViewId = '';
+        if(typeof viewId == 'undefined') viewId = '';
+        if(viewId == previousViewId) return;
+
+        $ax('*').each(function(obj, elementId) {
+            if(obj.type != 'treeNodeObject') return;
+            if(!obj.hasOwnProperty('isExpanded')) return;
+
+            var query = $ax('#' + elementId);
+            var defaultExpanded = obj.isExpanded;
+
+            query.expanded(defaultExpanded);
+        });
+
         // reset all the positioning on the style tags
         $axure('*').each(function(diagramObject, elementId) {
             var element = document.getElementById(elementId);
@@ -50,7 +70,6 @@
             }
         });
 
-        var previousViewId = $ax.adaptive.currentViewId;
         $ax.adaptive.currentViewId = viewId; // we need to set this so the enabled and selected styles will apply properly
         if(previousViewId) {
             $ax.style.clearAdaptiveStyles();
@@ -99,7 +118,7 @@
         }
 
         $ax.adaptive.triggerEvent('viewChanged', {});
-        $ax.viewChangePageAndMasters();
+        if(_loadFinished) $ax.viewChangePageAndMasters();
     };
 
     // gets if input is hidden due to sketch
@@ -248,7 +267,7 @@
             $ax.style.setAdaptiveStyle(elementId, adaptiveStyle);
         }
 
-        if(compoundStyle.limbo) limboIds[elementId] = true;
+        if(compoundStyle.limbo && !diagramObject.isContained) limboIds[elementId] = true;
         // sigh, javascript. we need the === here because undefined means not overriden
         if(compoundStyle.visible === false) hiddenIds[elementId] = true;
     };
@@ -330,22 +349,24 @@
         return less || greater;
     };
 
-    $ax.messageCenter.addMessageListener(function(message, data) {
-        if(message == 'setAdaptiveAuto') {
-            _setAuto(true);
-        } else if(message == 'switchAdaptiveView') {
-            if(data == 'default') {
-                data = null;
-            }
+    var _isAdaptiveInitialized = function() {
+        return typeof _idToView != 'undefined';
+    };
 
-            //If the adaptive plugin hasn't been initialized yet then 
-            //save the view to load so that it can get set when initialize occurs
-            if(typeof _idToView != 'undefined') {
-                _setAuto(false);
-                _switchView(data);
-            } else {
-                _initialViewToLoad = data;
-            }
+    $ax.messageCenter.addMessageListener(function(message, data) {
+        //If the adaptive plugin hasn't been initialized yet then 
+        //save the view to load so that it can get set when initialize occurs
+        if(message == 'switchAdaptiveView') {
+            var href = window.location.href.split('#')[0];
+            var lastSlash = href.lastIndexOf('/');
+            href = href.substring(lastSlash + 1);
+            if(href != data.src) return;
+
+            var view = data.view == 'auto' ? undefined : (data.view == 'default' ? '' : data.view);
+
+            if(!_isAdaptiveInitialized()) {
+                _initialViewToLoad = view;
+            } else _handleLoadViewId(view);
         }
     });
 
@@ -365,14 +386,22 @@
                 _enabledViews[_enabledViews.length] = _idToView[enabledViewIds[i]];
             }
 
-            $axure.resize(_handleResize);
-            _handleResize();
+            _handleLoadViewId(_initialViewToLoad);
         }
 
-        //If there is a viewToLoad (switchAdaptiveView message was received prior to init), set it now
-        if(typeof _initialViewToLoad != 'undefined') {
+        $axure.resize(function(e) {
+            _handleResize();
+            $ax.postResize(e); //window resize fires after view changed
+        });
+    };
+
+    var _handleLoadViewId = function(loadViewId) {
+        if(typeof loadViewId != 'undefined') {
             _setAuto(false);
-            _switchView(_initialViewToLoad);
+            _switchView(loadViewId != 'default' ? loadViewId : '');
+        } else {
+            _setAuto(true);
+            _handleResize();
         }
     };
 });

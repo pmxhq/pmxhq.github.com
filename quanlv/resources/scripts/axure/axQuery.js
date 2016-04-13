@@ -40,7 +40,7 @@
    };
 
     $(window).resize(function() {
-        var THRESHOLD = 200;
+        var THRESHOLD = 50;
         var now = new Date().getTime();
         if(now - _lastFiredResize > THRESHOLD) {
             _fireResize();
@@ -58,21 +58,19 @@
     };
 
     window.$jobj = function(id) {
-        return $('#' + id);
+        return $(document.getElementById(id));
     };
 
     $ax.INPUT = function(id) { return id + "_input"; };
-    $ax.IsButtonShape = function(type) { return type == 'buttonShape'; };
+    $ax.IsImageFocusable = function(type) { return type == 'imageBox' || type == 'buttonShape' || type == 'flowShape' || type == 'treeNodeObject' || type == 'tableCell'; };
     $ax.IsTreeNodeObject = function(type) { return type == 'treeNodeObject'; };
     $ax.IsSelectionButton = function(type) { return type == 'checkbox' || type == 'radioButton'; };
 
     var _fn = {};
     $axure.fn = _fn;
     $axure.fn.jQuery = function() {
-        var elementIds = this.getElementIds();
-        var elementIdSelectors = jQuery.map(elementIds, function(elementId) { return '#' + elementId; });
-        var jQuerySelectorText = (elementIds.length > 0) ? elementIdSelectors.join(', ') : '';
-        return $(jQuerySelectorText);
+        var elements = this.getElements();
+        return $(elements);
     };
     $axure.fn.$ = $axure.fn.jQuery;
 
@@ -120,7 +118,7 @@
     var _getFilterFnFromQuery = function(query) {
         var filter = function(diagramObject, elementId) {
             // Non diagram objects are allowed to be queryed, such as text inputs.
-            if(diagramObject && diagramObject.type != 'referenceDiagramObject' && $jobj(elementId).length == 0) return false;
+            if(diagramObject && diagramObject.type != 'referenceDiagramObject' && !document.getElementById(elementId)) return false;
             var retVal = true;
             for(var i = 0; i < query.filterFunctions.length && retVal; i++) {
                 retVal = query.filterFunctions[i](diagramObject, elementId);
@@ -158,6 +156,15 @@
             }
         }
     };
+
+    $ax.public.fn.getElements = function() {
+        var elements = [];
+        this.each(function(dObj, elementId) {
+            var elementById = document.getElementById(elementId);
+            if(elementById) elements[elements.length] = elementById;
+        });
+        return elements;
+    };
     
     $ax.public.fn.getElementIds = function() {
         var elementIds = [];
@@ -176,7 +183,10 @@
             var itemNum = $ax.repeater.getItemIdFromElementId(elementId);
             var parentRepeater = $ax.getParentRepeaterFromScriptId(scriptId);
             // Repeater references self, constantly if it is treated as its own parent in this case infinite recursion occurs.
-            if(parentRepeater == scriptId) parentRepeater = undefined;
+            if(parentRepeater == scriptId) {
+                parentRepeater = undefined;
+                itemNum = '';
+            }
             
             if(parentRepeater) {
                 parentRepeater = $ax.repeater.createElementId(parentRepeater, itemNum);
@@ -191,7 +201,8 @@
                 if(!parentRepeater || masterRepeater) parent = masterId;
             }
 
-            var parentDynamicPanel = $obj(elementId).parentDynamicPanel;
+            var obj = $obj(elementId);
+            var parentDynamicPanel = obj.parentDynamicPanel;
             if(parentDynamicPanel) {
                 // Make sure the parent if not parentRepeater, or dynamic panel is also in that repeater
                 // If there is a parent master, the dynamic panel must be in it, otherwise parentDynamicPanel would be undefined.
@@ -199,9 +210,7 @@
                 panelPath[panelPath.length] = parentDynamicPanel;
                 var panelId = $ax.getElementIdFromPath(panelPath, {itemNum: itemNum});
                 var panelRepeater = $ax.getParentRepeaterFromScriptId($ax.repeater.getScriptIdFromElementId(panelId));
-                if(!parentRepeater || panelRepeater) {
-                    parent = $ax.visibility.GetPanelState(panelId);
-                }
+                if(!parentRepeater || panelRepeater) return panelId + '_state' + obj.panelIndex;
             }
 
             return parent;
@@ -213,8 +222,9 @@
                 var parents = [];
                 while(parent) {
                     parents[parents.length] = parent;
-                    // If id is not a valid object, you are either repeater item or dynamic panel state.
-                    //  Either way, get parents id in that case.
+                    // If id is not a valid object, you are either repeater item
+                    if(!$obj(parent)) parent = $jobj(parent).parent().attr('id');
+                    // or dynamic panel state.
                     if(!$obj(parent)) parent = $jobj(parent).parent().attr('id');
                     parent = getParent(parent);
                 }
@@ -269,8 +279,14 @@
                 
 
                 var childrenIds = [];
-                for(var childIndex = 0; childIndex < children.length; childIndex++) childrenIds.push($(children[childIndex]).attr('id'));
-
+                for(var childIndex = 0; childIndex < children.length; childIndex++) {
+                    var childObj = $(children[childIndex]);
+                    var id = childObj.attr('id');
+                    if(typeof(id) == 'undefined' && childObj.is('a')) id = $(childObj.children()[0]).attr('id');
+                        
+                    childrenIds.push(id);
+                }
+                
                 if(deep) {
                     var childObjs = [];
                     for(var i = 0; i < childrenIds.length; i++) {

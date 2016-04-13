@@ -109,6 +109,7 @@
   width:420px;
   height:619px;
   overflow:hidden;
+  touch-action:none;
 }
 #u8_state0 {
   position:absolute;
@@ -281,13 +282,18 @@
   top:0px;
   width:200px;
   height:22px;
-  background-image:;
-  font-family:'Arial';
-  font-size:13px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:13px;
   text-decoration:none;
+  color:#000000;
+}
+#u20_input {
+  font-family:'应用字体';
+}
+#u20_input:disabled {
+  color:grayText;
 }
 #u21 {
   position:absolute;
@@ -909,6 +915,7 @@
   width:420px;
   height:35px;
   overflow:hidden;
+  touch-action:none;
 }
 #u69_state0 {
   position:absolute;

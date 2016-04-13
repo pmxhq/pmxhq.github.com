@@ -109,6 +109,7 @@
   width:420px;
   height:600px;
   overflow:hidden;
+  touch-action:none;
 }
 #u8_state0 {
   position:absolute;
@@ -422,6 +423,7 @@
   top:695px;
   width:42px;
   height:27px;
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
 }
@@ -453,16 +455,18 @@
   top:0px;
   width:40px;
   height:25px;
-  background-image:;
-  text-align:center;
-  font-family:'Arial';
-  font-size:14px;
-  color:#009DDA;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:14px;
   text-decoration:none;
+  color:#009DDA;
+  text-align:center;
   border-color:transparent;
   outline-style:none;
+}
+#u31_input {
+  font-family:'应用字体';
 }
 #u32 {
   position:absolute;
@@ -536,6 +540,7 @@
   top:696px;
   width:42px;
   height:27px;
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
 }
@@ -567,16 +572,18 @@
   top:0px;
   width:40px;
   height:25px;
-  background-image:;
-  text-align:center;
-  font-family:'Arial';
-  font-size:14px;
-  color:#009DDA;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:14px;
   text-decoration:none;
+  color:#009DDA;
+  text-align:center;
   border-color:transparent;
   outline-style:none;
+}
+#u40_input {
+  font-family:'应用字体';
 }
 #u41 {
   position:absolute;

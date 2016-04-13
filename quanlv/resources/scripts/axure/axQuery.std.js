@@ -8,12 +8,15 @@ $axure.internal(function($ax) {
     var COMBO_BOX_TYPE = 'comboBox';
     var CHECK_BOX_TYPE = 'checkbox';
     var RADIO_BUTTON_TYPE = 'radioButton';
+    var BUTTON_TYPE = 'button';
     var IMAGE_MAP_REGION_TYPE = 'imageMapRegion';
     var IMAGE_BOX_TYPE = 'imageBox';
     var BUTTON_SHAPE_TYPE = 'buttonShape';
     var FLOW_SHAPE_TYPE = 'flowShape';
     var TREE_NODE_OBJECT_TYPE = 'treeNodeObject';
     var TABLE_CELL_TYPE = 'tableCell';
+
+    var PLAIN_TEXT_TYPES = [TEXT_BOX_TYPE, TEXT_AREA_TYPE, LIST_BOX_TYPE, COMBO_BOX_TYPE, CHECK_BOX_TYPE, RADIO_BUTTON_TYPE, BUTTON_TYPE];
 
     var _addJQueryFunction = function(name) {
         $ax.public.fn[name] = function() {
@@ -128,12 +131,6 @@ $axure.internal(function($ax) {
     };
 
     $ax.public.fn.show = function(options, eventInfo) {
-        var easing = options && options.easing || 'none';
-        var duration = options && options.duration || 0;
-
-        var direction = _getEasingDirection(options);
-        if(direction != '') easing = 'swing';
-
         var elementIds = this.getElementIds();
 
         for(var index = 0; index < elementIds.length; index++) {
@@ -163,8 +160,8 @@ $axure.internal(function($ax) {
                     for(var j = 0; j < parents.length; j++) {
                         var parentId = parents[j].split('_')[0];
                         var parentObj = $obj(parentId);
-                        if(parentObj.type == 'dynamicPanel' && $jobj(parentId).css('z-index') != 'auto') {
-                            fixedParentPanelId = parentId;
+                        if(parentObj.type == 'dynamicPanel' && ($jobj(parentId).css('z-index') != 'auto' || $ax.features.supports.mobile)) {
+                            fixedParentPanelId = parents[j];
                             break;
                         }
                     }
@@ -203,14 +200,12 @@ $axure.internal(function($ax) {
                 lightbox.remove();
                 $ax.flyoutManager.unregisterPanel(elementId, true);
 
-                var wasShown = $ax.visibility.IsIdVisible(elementId);
-                _setVisibility(elementId, true, easing, direction, duration);
+                _setVisibility(elementId, true, options);
                 if(options && options.showType == 'front') $ax.legacy.BringToFront(elementId);
-                else if(options && options.showType == 'compress' && !wasShown) $ax.dynamicPanelManager.compressToggle(elementId, options.vertical, true, options.compressEasing, options.compressDuration);
 
                 continue;
             }
-            _setVisibility(elementId, true, easing, direction, duration);
+            _setVisibility(elementId, true, options);
         }
 
         return this;
@@ -232,19 +227,12 @@ $axure.internal(function($ax) {
     };
 
     $ax.public.fn.hide = function(options) {
-        var easing = options && options.easing || 'none';
-        var duration = options && options.duration || 0;
-
-        var direction = _getEasingDirection(options);
-        if(direction != '') easing = 'swing';
-
         var elementIds = this.getElementIds();
 
         for(var index = 0; index < elementIds.length; index++) {
             var elementId = elementIds[index];
             var wasShown = $ax.visibility.IsIdVisible(elementId);
-            _setVisibility(elementId, false, easing, direction, duration);
-            if(options && options.showType == 'compress' && wasShown) $ax.dynamicPanelManager.compressToggle(elementId, options.vertical, false, options.compressEasing, options.compressDuration);
+            _setVisibility(elementId, false, options);
         }
 
         return this;
@@ -261,22 +249,38 @@ $axure.internal(function($ax) {
         for(var index = 0; index < elementIds.length; index++) {
             var elementId = elementIds[index];
             var show = !$ax.visibility.IsIdVisible(elementId);
-            _setVisibility(elementId, show, easing, direction, duration);
-            if(options && options.showType == 'compress') $ax.dynamicPanelManager.compressToggle(elementId, options.vertical, show, options.compressEasing, options.compressDuration);
+            _setVisibility(elementId, show, options);
         }
 
         return this;
     };
 
-    var _setVisibility = function(elementId, value, easing, direction, duration) {
+    var _setVisibility = function(elementId, value, options) {
+        var easing = options && options.easing || 'none';
+        var duration = options && options.duration || 0;
+
+        var direction = _getEasingDirection(options);
+        if(direction != '') easing = 'swing';
+
+        var wasShown = $ax.visibility.IsIdVisible(elementId);
+        var compress = options && options.showType == 'compress' && wasShown != value;
+
+        var compressed = false;
+        var onComplete = function() {
+            if(compress && !compressed) $ax.dynamicPanelManager.compressToggle(elementId, options.vertical, value, options.compressEasing, options.compressDuration);
+            compressed = true;
+            $ax.dynamicPanelManager.fitParentPanel(elementId);
+        };
         $ax.visibility.SetWidgetVisibility(elementId, {
             value: value,
             easing: easing,
             direction: direction,
             duration: duration,
             fire: true,
-            onComplete: function() { $ax.dynamicPanelManager.fitParentPanel(elementId); }
+            onComplete: onComplete
         });
+        if(compress && !compressed) $ax.dynamicPanelManager.compressToggle(elementId, options.vertical, value, options.compressEasing, options.compressDuration);
+        compressed = true;
     };
 
     $ax.public.fn.moveTo = function(x, y, options) {
@@ -307,6 +311,7 @@ $axure.internal(function($ax) {
         if(x == 0 && y == 0) {
             for(var i = 0; i < elementIds.length; i++) {
                 var id = this.getElementIds()[i];
+                $ax.move.nopMove(id);
                 $ax.event.raiseSyntheticEvent(id, "onMove");
                 $ax.action.fireAnimationFromQueue(id);
             }
@@ -397,7 +402,13 @@ $axure.internal(function($ax) {
     };
 
     var getWidgetText = function(id) {
-        var idQuery = $('#' + id);
+        var idQuery = $jobj(id);
+        var inputQuery = $jobj($ax.INPUT(id));
+        if(inputQuery.length) idQuery = inputQuery;
+
+        if(idQuery.is('input') && (idQuery.attr('type') == 'checkbox' || idQuery.attr('type') == 'radio')) {
+            idQuery = idQuery.parent().find('label').find('div');
+        }
 
         if(idQuery.is('div')) {
             var $rtfObj = idQuery.hasClass('text') ? idQuery : idQuery.find('.text');
@@ -413,11 +424,9 @@ $axure.internal(function($ax) {
             });
 
             return textOut;
-        } else if(idQuery.is('input') &&
-            (idQuery.attr('type') == 'checkbox' || idQuery.attr('type') == 'radio')) {
-            return idQuery.parent().find('label').find('.text').text();
         } else {
-            return idQuery.val();
+            var val = idQuery.val();
+            return val == undefined ? '' : val;
         }
     };
 
@@ -608,9 +617,19 @@ $axure.internal(function($ax) {
                         $axure('#' + childId).enabled(enabled);
                     }
                 }
+                var obj = $obj(elementId);
+                var images = obj.images;
+                if(PLAIN_TEXT_TYPES.indexOf(widgetType) != -1 && images) {
+                    var img = $jobj($ax.repeater.applySuffixToElementId(elementId, '_image_sketch'));
+                    var key = (enabled ? 'normal~' : 'disabled~') + ($ax.adaptive.currentViewId || '');
+                    img.attr('src', images[key]);
+
+                }
                 var jobj = $jobj(elementId);
                 var input = $jobj($ax.INPUT(elementId));
                 if(input.length) jobj = input;
+
+                if(OS_MAC && WEBKIT && widgetType == 'comboBox') jobj.css('color', enabled ? '' : 'grayText');
 
                 if(enabled) jobj.removeAttr('disabled');
                 else jobj.attr('disabled', 'disabled');
@@ -692,7 +711,7 @@ $axure.internal(function($ax) {
                 var curr = query.prop('checked');
                 if(curr != enabled) {
                     query.prop('checked', enabled);
-                    $ax.event.raiseSyntheticEvent(elementId, 'onCheckedChange');
+                    $ax.event.TryFireCheckChanged(elementId, enabled);
                 }
             }
         }
@@ -717,9 +736,12 @@ $axure.internal(function($ax) {
             for(var index = 0; index < elementIds.length; index++) {
                 if($ax.getTypeFromElementId(elementIds[index]) == TREE_NODE_OBJECT_TYPE) {
                     var treeNodeId = elementIds[index];
-                    var childContainerId = elementIds[index] + '_children';
+                    var childContainerId = treeNodeId + '_children';
 
-                    var plusMinusId = 'u' + (parseInt(elementIds[index].substring(1)) + 1);
+                    var scriptId = $ax.repeater.getScriptIdFromElementId(treeNodeId);
+                    var itemId = $ax.repeater.getItemIdFromElementId(treeNodeId);
+                    var plusMinusId = 'u' + (parseInt(scriptId.substring(1)) + 1);
+                    if(itemId) plusMinusId = $ax.repeater.createElementId(plusMinusId, itemId);
                     if($('#' + childContainerId).length == 0 || !$jobj(plusMinusId).hasClass('ax_image'))
                         plusMinusId = '';
 

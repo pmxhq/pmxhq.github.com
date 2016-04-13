@@ -108,6 +108,7 @@
   width:420px;
   height:655px;
   overflow:hidden;
+  touch-action:none;
 }
 #u8_state0 {
   position:absolute;
@@ -950,6 +951,7 @@
   width:420px;
   height:655px;
   overflow:hidden;
+  touch-action:none;
 }
 #u78_state0 {
   position:absolute;

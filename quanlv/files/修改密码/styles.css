@@ -109,6 +109,7 @@
   width:420px;
   height:655px;
   overflow:hidden;
+  touch-action:none;
 }
 #u8_state0 {
   position:absolute;
@@ -222,16 +223,18 @@
   top:0px;
   width:291px;
   height:36px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:16px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:16px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
   border-color:transparent;
   outline-style:none;
+}
+#u14_input {
+  font-family:'应用字体';
 }
 #u15 {
   position:absolute;
@@ -321,16 +324,18 @@
   top:0px;
   width:291px;
   height:36px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:16px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:16px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
   border-color:transparent;
   outline-style:none;
+}
+#u21_input {
+  font-family:'应用字体';
 }
 #u22 {
   position:absolute;
@@ -420,16 +425,18 @@
   top:0px;
   width:291px;
   height:36px;
-  background-image:;
-  text-align:left;
-  font-family:'Arial';
-  font-size:16px;
-  color:#000000;
-  font-weight:normal;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
   font-style:normal;
+  font-size:16px;
   text-decoration:none;
+  color:#000000;
+  text-align:left;
   border-color:transparent;
   outline-style:none;
+}
+#u28_input {
+  font-family:'应用字体';
 }
 #u29 {
   position:absolute;
