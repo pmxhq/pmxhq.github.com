@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"外部链接.html",
-  "generationDate":new Date(1460983493468.96),
+  "generationDate":new Date(1460984909440.74),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

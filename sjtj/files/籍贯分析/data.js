@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"籍贯分析.html",
-  "generationDate":new Date(1460983523890.16),
+  "generationDate":new Date(1460984943243.4),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

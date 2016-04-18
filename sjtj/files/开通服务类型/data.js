@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"开通服务类型.html",
-  "generationDate":new Date(1460983528137.99),
+  "generationDate":new Date(1460984947517.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

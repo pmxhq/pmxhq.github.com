@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"店铺活跃分析.html",
-  "generationDate":new Date(1460983537793.4),
+  "generationDate":new Date(1460984955141.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

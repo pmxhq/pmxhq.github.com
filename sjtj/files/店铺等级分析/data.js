@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"店铺等级分析.html",
-  "generationDate":new Date(1460983535562.92),
+  "generationDate":new Date(1460984952838.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

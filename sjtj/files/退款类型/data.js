@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"退款类型.html",
-  "generationDate":new Date(1460983506341.51),
+  "generationDate":new Date(1460984923713.65),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

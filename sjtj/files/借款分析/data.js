@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"借款分析.html",
-  "generationDate":new Date(1460983554124.25),
+  "generationDate":new Date(1460984972017.91),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

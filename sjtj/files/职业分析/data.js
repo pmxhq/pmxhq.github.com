@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"职业分析.html",
-  "generationDate":new Date(1460983525345.13),
+  "generationDate":new Date(1460984944601.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

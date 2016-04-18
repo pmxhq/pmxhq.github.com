@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"星座分析.html",
-  "generationDate":new Date(1460983525997.57),
+  "generationDate":new Date(1460984945319.18),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"提现按时间.html",
-  "generationDate":new Date(1460983551562.55),
+  "generationDate":new Date(1460984969590.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

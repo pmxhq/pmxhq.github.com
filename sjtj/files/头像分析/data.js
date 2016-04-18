@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"头像分析.html",
-  "generationDate":new Date(1460983564651.24),
+  "generationDate":new Date(1460984983023.22),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

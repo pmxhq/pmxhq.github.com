@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"按充值平台.html",
-  "generationDate":new Date(1460983547660.95),
+  "generationDate":new Date(1460984965390.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

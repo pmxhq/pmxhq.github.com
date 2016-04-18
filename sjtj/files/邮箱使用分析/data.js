@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"邮箱使用分析.html",
-  "generationDate":new Date(1460983558914.43),
+  "generationDate":new Date(1460984977112.3),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

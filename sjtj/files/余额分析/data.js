@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"余额分析.html",
-  "generationDate":new Date(1460983549508.18),
+  "generationDate":new Date(1460984967378.83),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

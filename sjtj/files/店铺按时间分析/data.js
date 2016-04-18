@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"店铺按时间分析.html",
-  "generationDate":new Date(1460983534974.53),
+  "generationDate":new Date(1460984952159.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

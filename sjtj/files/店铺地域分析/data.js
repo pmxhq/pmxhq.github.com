@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"店铺地域分析.html",
-  "generationDate":new Date(1460983536403.48),
+  "generationDate":new Date(1460984953664.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"投资分析.html",
-  "generationDate":new Date(1460983554738.66),
+  "generationDate":new Date(1460984972646.33),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

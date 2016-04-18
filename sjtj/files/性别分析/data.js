@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"性别分析.html",
-  "generationDate":new Date(1460983526747.07),
+  "generationDate":new Date(1460984946117.71),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

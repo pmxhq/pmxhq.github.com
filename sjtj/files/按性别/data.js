@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"按性别.html",
-  "generationDate":new Date(1460983502115.7),
+  "generationDate":new Date(1460984918501.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

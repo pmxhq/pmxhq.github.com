@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"按银行接口.html",
-  "generationDate":new Date(1460983547097.58),
+  "generationDate":new Date(1460984964835.14),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -501,7 +501,7 @@
                 "type":"Wireframe",
                 "url":"提现按时间.html"}]}]},
 {
-        "pageName":"网通网贷  ###待确定###",
+        "pageName":"网通网贷待确定",
         "type":"Folder",
         "url":"",
         "children":[{
@@ -613,9 +613,9 @@
             "type":"Folder",
             "url":""}]},
 {
-        "pageName":"//辅助说明",
+        "pageName":"辅助说明",
         "type":"Wireframe",
-        "url":"__辅助说明.html",
+        "url":"辅助说明.html",
         "children":[{
             "pageName":"导航栏样式举例",
             "type":"Wireframe",

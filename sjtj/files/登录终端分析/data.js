@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"登录终端分析.html",
-  "generationDate":new Date(1460983520610.99),
+  "generationDate":new Date(1460984940246.86),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

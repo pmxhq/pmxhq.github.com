@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"年龄分析.html",
-  "generationDate":new Date(1460983523176.69),
+  "generationDate":new Date(1460984942441.21),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

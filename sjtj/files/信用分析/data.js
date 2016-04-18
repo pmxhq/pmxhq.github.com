@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"信用分析.html",
-  "generationDate":new Date(1460983522114.99),
+  "generationDate":new Date(1460984941748.61),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

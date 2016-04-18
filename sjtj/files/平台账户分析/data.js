@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"平台账户分析.html",
-  "generationDate":new Date(1460983550578.89),
+  "generationDate":new Date(1460984968475.56),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

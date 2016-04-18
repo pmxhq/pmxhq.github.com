@@ -1,12 +1,12 @@
 ﻿$axure.loadCurrentPage({
-  "url":"__辅助说明.html",
-  "generationDate":new Date(1460983565719.95),
+  "url":"辅助说明.html",
+  "generationDate":new Date(1460984983686.66),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
     "packageId":"b9a18d52eb914c71ad3fa4f26d56b93c",
     "type":"Axure:Page",
-    "name":"//辅助说明",
+    "name":"辅助说明",
     "notes":{
 },
     "style":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"注册平台分析.html",
-  "generationDate":new Date(1460983514227.75),
+  "generationDate":new Date(1460984933487.93),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

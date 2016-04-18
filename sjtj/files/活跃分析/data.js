@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"活跃分析.html",
-  "generationDate":new Date(1460983527401.5),
+  "generationDate":new Date(1460984946806.17),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

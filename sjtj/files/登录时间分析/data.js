@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"登录时间分析.html",
-  "generationDate":new Date(1460983517086.65),
+  "generationDate":new Date(1460984936572.51),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

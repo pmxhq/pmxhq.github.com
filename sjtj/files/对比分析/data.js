@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"对比分析.html",
-  "generationDate":new Date(1460983486832.55),
+  "generationDate":new Date(1460984903846.03),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"转化率.html",
-  "generationDate":new Date(1460983505775.13),
+  "generationDate":new Date(1460984922971.98),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

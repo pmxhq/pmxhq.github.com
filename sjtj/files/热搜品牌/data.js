@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"热搜品牌.html",
-  "generationDate":new Date(1460983495055.01),
+  "generationDate":new Date(1460984910993.9),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

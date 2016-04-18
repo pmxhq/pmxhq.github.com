@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"等级分析.html",
-  "generationDate":new Date(1460983521395.51),
+  "generationDate":new Date(1460984941050.37),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

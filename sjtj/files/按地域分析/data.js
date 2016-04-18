@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"按地域分析.html",
-  "generationDate":new Date(1460983488432.61),
+  "generationDate":new Date(1460984904837.68),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

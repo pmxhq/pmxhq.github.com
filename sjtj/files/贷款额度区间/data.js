@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"贷款额度区间.html",
-  "generationDate":new Date(1460983552073.88),
+  "generationDate":new Date(1460984970092.64),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"售后维修.html",
-  "generationDate":new Date(1460983509568.65),
+  "generationDate":new Date(1460984928126.72),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

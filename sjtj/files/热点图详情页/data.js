@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"热点图详情页.html",
-  "generationDate":new Date(1460983499335.86),
+  "generationDate":new Date(1460984914887.97),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

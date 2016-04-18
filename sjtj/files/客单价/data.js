@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"客单价.html",
-  "generationDate":new Date(1460983504988.61),
+  "generationDate":new Date(1460984922038.7),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{

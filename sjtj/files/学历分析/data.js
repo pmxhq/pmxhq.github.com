@@ -1,6 +1,6 @@
 ﻿$axure.loadCurrentPage({
   "url":"学历分析.html",
-  "generationDate":new Date(1460983524586.63),
+  "generationDate":new Date(1460984943896.01),
   "isCanvasEnabled":false,
   "variables":["OnLoadVariable"],
   "page":{
